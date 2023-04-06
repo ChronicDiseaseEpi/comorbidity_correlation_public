@@ -1,5 +1,5 @@
 # comorbidity_correlation_public
-Code, aggregate level data and outputs for comorbidity correlation. Will be populated following sponsor review process.
+Code, aggregate level data and outputs for comorbidity correlation.
 
 If you have any issues with the code or dependent files please raise an issue and 
 we will do our best to rectify the problem as soon as we can. 
