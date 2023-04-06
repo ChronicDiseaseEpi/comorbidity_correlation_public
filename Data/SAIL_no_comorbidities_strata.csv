@@ -1,0 +1,29 @@
+index_condition,v1,v2,v3,v4,v5,v6,age_m,age_s,n,sex
+Asthma,N,N,N,N,N,N,33.3,19.7,29265,Female
+Asthma,N,N,N,N,N,N,29.9,19.2,35391,Male
+Atrial Fibrillation,N,N,N,N,N,N,75.7,12,3694,Female
+Atrial Fibrillation,N,N,N,N,N,N,69.8,13.5,6832,Male
+Benign Prostatic Hyperplasia,N,N,N,N,N,N,67.9,10.7,2941,Male
+Dementia (any),N,N,N,N,N,N,82.3,10.4,936,Female
+Dementia (any),N,N,N,N,N,N,77.5,11.6,571,Male
+"Diabetes Mellitus, Type 2",N,N,N,N,N,N,56.3,16.1,1849,Female
+"Diabetes Mellitus, Type 2",N,N,N,N,N,N,57.1,13.4,3692,Male
+Erectile dysfunction,N,N,N,N,N,N,53.1,14.2,13924,Male
+Hypertension,N,N,N,N,N,N,66.6,13.1,33067,Female
+Hypertension,N,N,N,N,N,N,63.4,12.5,41383,Male
+Inflammatory bowel disease,N,N,N,N,N,N,44.1,15.6,1765,Female
+Inflammatory bowel disease,N,N,N,N,N,N,43.3,16,1881,Male
+Osteoarthritis,N,N,N,N,N,N,63.2,13.2,13919,Female
+Osteoarthritis,N,N,N,N,N,N,60.7,13,11782,Male
+Osteoporosis,N,N,N,N,N,N,67.6,12.3,4143,Female
+Osteoporosis,N,N,N,N,N,N,60.4,17.7,524,Male
+Psoriasis,N,N,N,N,N,N,38.7,17,9040,Female
+Psoriasis,N,N,N,N,N,N,40.2,16.1,9445,Male
+"Pulmonary Disease, Chronic Obstructive",N,N,N,N,N,N,63.7,13,2951,Female
+"Pulmonary Disease, Chronic Obstructive",N,N,N,N,N,N,64.5,13.3,3885,Male
+Restless legs syndrome,N,N,N,N,N,N,53.6,15.8,872,Female
+Restless legs syndrome,N,N,N,N,N,N,53.4,16,447,Male
+Rheumatoid arthritis,N,N,N,N,N,N,50.4,17.2,1284,Female
+Rheumatoid arthritis,N,N,N,N,N,N,51.8,17,713,Male
+Thromboembolism,N,N,N,N,N,N,55.6,17.8,379,Female
+Thromboembolism,N,N,N,N,N,N,56.6,15.6,720,Male
