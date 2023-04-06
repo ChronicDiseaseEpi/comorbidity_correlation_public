@@ -1,0 +1,17 @@
+condition,cmnty_n,trial_n,n_trials,cmnty_mean_age,trial_mean_age,cmnty_age_sd,trial_age_sd,cmnty_male_pcnt,trial_male_pcnt
+Asthma,169912,1627,4,46,42,17,16,43.7,40.1
+Axial_Spondyloarthritis,1865,352,1,51,40,14,12,76.7,71.3
+Benign_Prostatic_Hyperplasia,18902,2816,6,71,64,9,8,100,100
+Dementia_any,11357,5811,6,79,74,7,8,35.5,40.7
+Diabetes_Mellitus_Type_2,79789,17885,22,64,57,12,10,56.6,52.9
+Hypertension,292736,6209,10,65,56,12,10,48.6,58.3
+Osteoarthritis,118577,1320,1,66,64,11,12,40.8,32.7
+Osteoporosis,34295,2055,2,71,61,11,12,11,4.1
+Parkinson_Disease,4236,1761,4,73,63,9,10,62.2,58.9
+Psoriasis,46578,771,2,48,48,15,12,47.1,63.4
+Psoriatic_arthritis,3400,822,3,53,47,13,11,48,55
+Pulmonary_Disease_Chronic_Obstructive,54323,4380,6,68,64,10,8,51.6,65.5
+Pulmonary_Hypertension,594,406,1,69,55,14,16,38.2,21.7
+Restless_legs_syndrome,9961,2065,5,60,54,13,12,28.2,37.9
+Rheumatoid_arthritis,12729,4715,8,60,52,14,12,29.2,20.4
+Systemic_Lupus_Erythematosus,923,1693,2,50,38,13,11,10.1,6
