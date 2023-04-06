@@ -1,0 +1,481 @@
+condition,mean,sd,CI2.5,CI97.5,repo,comorbidity,Var1,Var2
+Dementia_any,0.2,0.013,0.17,0.221,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Dementia_any,0.03,0.013,0.005,0.057,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Dementia_any,0.06,0.014,0.032,0.088,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Dementia_any,0.38,0.014,0.349,0.404,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Dementia_any,0.1,0.017,0.071,0.136,Community,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Dementia_any,0.26,0.013,0.238,0.288,Community,Anxiety : Pain,Anxiety,Pain
+Dementia_any,0.22,0.014,0.188,0.243,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Dementia_any,0.46,0.014,0.429,0.482,Community,Arthritis : Pain,Arthritis,Pain
+Dementia_any,0.24,0.016,0.21,0.274,Community,Osteoporosis : Pain,Osteoporosis,Pain
+Dementia_any,0.17,0.014,0.147,0.201,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Dementia_any,0.05,0.016,0.02,0.08,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Dementia_any,0.07,0.017,0.034,0.101,Community,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Dementia_any,-0.11,0.016,-0.138,-0.075,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Dementia_any,0.14,0.017,0.108,0.175,Community,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Dementia_any,0.17,0.019,0.138,0.211,Community,Arthritis : Osteoporosis,Arthritis,Osteoporosis
+Asthma,0.35,0.011,0.332,0.375,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Asthma,0.51,0.01,0.492,0.531,Community,Arthritis : Pain,Arthritis,Pain
+Asthma,0.33,0.012,0.31,0.359,Community,Anxiety : Pain,Anxiety,Pain
+Asthma,0.15,0.014,0.119,0.172,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Asthma,0.24,0.018,0.203,0.273,Community,Inflammatory disorders : Pain,Inflammatory disorders,Pain
+Asthma,0.61,0.009,0.591,0.626,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Asthma,0.18,0.013,0.152,0.203,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Asthma,-0.04,0.015,-0.069,-0.012,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Asthma,0.12,0.018,0.082,0.151,Community,Cardiovascular : Inflammatory disorders,Cardiovascular,Inflammatory disorders
+Asthma,0.22,0.013,0.192,0.24,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Asthma,-0.29,0.014,-0.316,-0.264,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Asthma,0.13,0.018,0.093,0.163,Community,Arthritis : Inflammatory disorders,Arthritis,Inflammatory disorders
+Asthma,0.2,0.014,0.175,0.231,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Asthma,0.2,0.018,0.166,0.237,Community,Anxiety : Inflammatory disorders,Anxiety,Inflammatory disorders
+Asthma,0.18,0.019,0.146,0.22,Community,Acid-related disease : Inflammatory disorders,Acid-related disease,Inflammatory disorders
+Benign_Prostatic_Hyperplasia,0.28,0.011,0.262,0.305,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Benign_Prostatic_Hyperplasia,0.3,0.012,0.274,0.319,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.05,0.013,0.028,0.077,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.07,0.013,0.046,0.099,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.13,0.014,0.096,0.153,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.47,0.01,0.45,0.488,Community,Arthritis : Pain,Arthritis,Pain
+Benign_Prostatic_Hyperplasia,0.15,0.012,0.122,0.169,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Benign_Prostatic_Hyperplasia,0.23,0.012,0.207,0.255,Community,Asthma : Pain,Asthma,Pain
+Benign_Prostatic_Hyperplasia,0.33,0.013,0.309,0.358,Community,Anxiety : Pain,Anxiety,Pain
+Benign_Prostatic_Hyperplasia,-0.3,0.012,-0.324,-0.277,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Benign_Prostatic_Hyperplasia,0.06,0.013,0.036,0.087,Community,Arthritis : Asthma,Arthritis,Asthma
+Benign_Prostatic_Hyperplasia,0.12,0.014,0.093,0.148,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Benign_Prostatic_Hyperplasia,0.17,0.013,0.141,0.192,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Benign_Prostatic_Hyperplasia,0.18,0.014,0.15,0.206,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Benign_Prostatic_Hyperplasia,0.17,0.014,0.146,0.201,Community,Anxiety : Asthma,Anxiety,Asthma
+Diabetes_Mellitus_Type_2,0.19,0.013,0.161,0.212,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Diabetes_Mellitus_Type_2,0.24,0.014,0.216,0.27,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Diabetes_Mellitus_Type_2,0,0.014,-0.023,0.032,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Diabetes_Mellitus_Type_2,0.03,0.014,-0.003,0.053,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Diabetes_Mellitus_Type_2,0.05,0.015,0.022,0.081,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Diabetes_Mellitus_Type_2,0.47,0.01,0.445,0.485,Community,Arthritis : Pain,Arthritis,Pain
+Diabetes_Mellitus_Type_2,0.16,0.012,0.132,0.178,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Diabetes_Mellitus_Type_2,0.31,0.012,0.284,0.329,Community,Anxiety : Pain,Anxiety,Pain
+Diabetes_Mellitus_Type_2,0.24,0.012,0.218,0.267,Community,Asthma : Pain,Asthma,Pain
+Diabetes_Mellitus_Type_2,-0.26,0.012,-0.282,-0.236,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Diabetes_Mellitus_Type_2,0.14,0.013,0.116,0.166,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Diabetes_Mellitus_Type_2,0.1,0.013,0.076,0.128,Community,Arthritis : Asthma,Arthritis,Asthma
+Diabetes_Mellitus_Type_2,0.14,0.013,0.115,0.165,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Diabetes_Mellitus_Type_2,0.12,0.014,0.089,0.144,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Diabetes_Mellitus_Type_2,0.17,0.014,0.143,0.196,Community,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,0.47,0.01,0.452,0.491,Community,Arthritis : Pain,Arthritis,Pain
+Hypertension,0.16,0.013,0.134,0.184,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Hypertension,0.3,0.012,0.273,0.321,Community,Anxiety : Pain,Anxiety,Pain
+Hypertension,0.24,0.013,0.22,0.27,Community,Asthma : Pain,Asthma,Pain
+Hypertension,0.12,0.013,0.091,0.142,Community,Diabetes : Pain,Diabetes,Pain
+Hypertension,-0.28,0.013,-0.304,-0.253,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Hypertension,0.13,0.014,0.104,0.156,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Hypertension,0.07,0.013,0.045,0.098,Community,Arthritis : Asthma,Arthritis,Asthma
+Hypertension,0,0.014,-0.024,0.03,Community,Arthritis : Diabetes,Arthritis,Diabetes
+Hypertension,0.18,0.014,0.151,0.204,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Hypertension,0.16,0.014,0.131,0.185,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Hypertension,0.08,0.014,0.056,0.113,Community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Hypertension,0.17,0.015,0.143,0.201,Community,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,0.07,0.015,0.046,0.104,Community,Anxiety : Diabetes,Anxiety,Diabetes
+Hypertension,0.06,0.015,0.032,0.09,Community,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,0.05,0.013,0.023,0.072,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoarthritis,0.14,0.013,0.113,0.162,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoarthritis,0.13,0.013,0.101,0.153,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoarthritis,0.08,0.016,0.052,0.115,Community,Cardiovascular : Thyroid disorders,Cardiovascular,Thyroid disorders
+Osteoarthritis,0.41,0.014,0.38,0.437,Community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Osteoarthritis,0.17,0.013,0.149,0.2,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoarthritis,0.18,0.013,0.15,0.202,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoarthritis,0.05,0.017,0.017,0.084,Community,Acid-related disease : Thyroid disorders,Acid-related disease,Thyroid disorders
+Osteoarthritis,0.1,0.016,0.066,0.127,Community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Osteoarthritis,0.18,0.013,0.156,0.209,Community,Anxiety : Asthma,Anxiety,Asthma
+Osteoarthritis,0.06,0.017,0.022,0.088,Community,Anxiety : Thyroid disorders,Anxiety,Thyroid disorders
+Osteoarthritis,0.13,0.017,0.092,0.158,Community,Anxiety : Diabetes,Anxiety,Diabetes
+Osteoarthritis,0.07,0.017,0.04,0.106,Community,Asthma : Thyroid disorders,Asthma,Thyroid disorders
+Osteoarthritis,0.14,0.016,0.104,0.167,Community,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,0.12,0.019,0.076,0.153,Community,Diabetes : Thyroid disorders,Diabetes,Thyroid disorders
+Osteoporosis,0.29,0.011,0.269,0.312,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Osteoporosis,0.45,0.01,0.43,0.47,Community,Arthritis : Pain,Arthritis,Pain
+Osteoporosis,0.18,0.011,0.159,0.202,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Osteoporosis,0.32,0.012,0.297,0.343,Community,Anxiety : Pain,Anxiety,Pain
+Osteoporosis,0.23,0.012,0.209,0.254,Community,Asthma : Pain,Asthma,Pain
+Osteoporosis,0.39,0.011,0.372,0.414,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Osteoporosis,0.02,0.012,-0.003,0.044,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoporosis,0.09,0.012,0.07,0.118,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoporosis,0.11,0.013,0.082,0.13,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoporosis,-0.26,0.011,-0.279,-0.234,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Osteoporosis,0.11,0.013,0.089,0.139,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Osteoporosis,0.05,0.012,0.026,0.075,Community,Arthritis : Asthma,Arthritis,Asthma
+Osteoporosis,0.17,0.012,0.149,0.198,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoporosis,0.16,0.012,0.138,0.185,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoporosis,0.16,0.013,0.134,0.186,Community,Anxiety : Asthma,Anxiety,Asthma
+Psoriasis,0.4,0.011,0.375,0.417,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriasis,0.57,0.01,0.548,0.585,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Psoriasis,0.19,0.013,0.168,0.22,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriasis,0.1,0.015,0.067,0.124,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriasis,0.03,0.015,-0.004,0.057,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriasis,0.55,0.01,0.527,0.565,Community,Arthritis : Pain,Arthritis,Pain
+Psoriasis,0.37,0.012,0.344,0.39,Community,Anxiety : Pain,Anxiety,Pain
+Psoriasis,0.27,0.013,0.247,0.299,Community,Asthma : Pain,Asthma,Pain
+Psoriasis,0.18,0.014,0.15,0.204,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriasis,0.19,0.013,0.165,0.217,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Psoriasis,0.09,0.014,0.061,0.117,Community,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,-0.29,0.014,-0.321,-0.266,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Psoriasis,0.22,0.015,0.192,0.25,Community,Anxiety : Asthma,Anxiety,Asthma
+Psoriasis,0.21,0.015,0.184,0.244,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriasis,0.2,0.015,0.171,0.23,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Pulmonary_Disease_Chronic_Obstructive,0.25,0.011,0.225,0.27,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.01,0.012,-0.016,0.032,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.34,0.011,0.316,0.359,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.1,0.012,0.08,0.128,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.42,0.014,0.393,0.446,Community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.17,0.012,0.152,0.197,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.43,0.011,0.413,0.455,Community,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.3,0.012,0.281,0.327,Community,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.15,0.015,0.121,0.177,Community,Diabetes : Pain,Diabetes,Pain
+Pulmonary_Disease_Chronic_Obstructive,-0.27,0.012,-0.293,-0.246,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,0.15,0.012,0.127,0.174,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Pulmonary_Disease_Chronic_Obstructive,0.04,0.015,0.016,0.072,Community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.11,0.012,0.083,0.131,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,0.04,0.015,0.009,0.069,Community,Arthritis : Diabetes,Arthritis,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.06,0.016,0.034,0.094,Community,Anxiety : Diabetes,Anxiety,Diabetes
+Restless_legs_syndrome,0.33,0.015,0.298,0.356,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Restless_legs_syndrome,0.46,0.013,0.436,0.486,Community,Arthritis : Pain,Arthritis,Pain
+Restless_legs_syndrome,0.35,0.015,0.318,0.376,Community,Anxiety : Pain,Anxiety,Pain
+Restless_legs_syndrome,0.12,0.016,0.085,0.149,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Restless_legs_syndrome,0.26,0.016,0.226,0.289,Community,Asthma : Pain,Asthma,Pain
+Restless_legs_syndrome,0.42,0.013,0.391,0.443,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Restless_legs_syndrome,0.11,0.015,0.077,0.137,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Restless_legs_syndrome,0,0.016,-0.03,0.035,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Restless_legs_syndrome,0.1,0.017,0.064,0.128,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Restless_legs_syndrome,0.14,0.015,0.117,0.173,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Restless_legs_syndrome,-0.36,0.015,-0.388,-0.33,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Restless_legs_syndrome,0.06,0.016,0.031,0.095,Community,Arthritis : Asthma,Arthritis,Asthma
+Restless_legs_syndrome,0.16,0.016,0.133,0.196,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,0.23,0.016,0.198,0.261,Community,Anxiety : Asthma,Anxiety,Asthma
+Restless_legs_syndrome,0.16,0.017,0.126,0.19,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,0.24,0.014,0.208,0.262,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Rheumatoid_arthritis,0.18,0.016,0.146,0.207,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Rheumatoid_arthritis,0.21,0.016,0.182,0.242,Community,Asthma : Pain,Asthma,Pain
+Rheumatoid_arthritis,0.33,0.015,0.305,0.364,Community,Anxiety : Pain,Anxiety,Pain
+Rheumatoid_arthritis,0.25,0.017,0.214,0.28,Community,Osteoporosis : Pain,Osteoporosis,Pain
+Rheumatoid_arthritis,0.06,0.015,0.03,0.09,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Rheumatoid_arthritis,0.09,0.015,0.062,0.123,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Rheumatoid_arthritis,0.13,0.015,0.097,0.155,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Rheumatoid_arthritis,0.07,0.017,0.037,0.103,Community,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Rheumatoid_arthritis,0.15,0.016,0.119,0.182,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,0.14,0.017,0.104,0.169,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Rheumatoid_arthritis,0.2,0.017,0.17,0.235,Community,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Rheumatoid_arthritis,0.21,0.016,0.183,0.246,Community,Anxiety : Asthma,Anxiety,Asthma
+Rheumatoid_arthritis,0.1,0.018,0.066,0.136,Community,Asthma : Osteoporosis,Asthma,Osteoporosis
+Rheumatoid_arthritis,0.06,0.018,0.031,0.099,Community,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Diabetes_Mellitus_Type_2,0.2,0.013,0.176,0.228,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Diabetes_Mellitus_Type_2,0.24,0.013,0.215,0.268,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Diabetes_Mellitus_Type_2,0.02,0.015,-0.009,0.049,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Diabetes_Mellitus_Type_2,0.04,0.015,0.013,0.07,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Diabetes_Mellitus_Type_2,0.08,0.015,0.051,0.111,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Diabetes_Mellitus_Type_2,0.45,0.01,0.432,0.472,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Diabetes_Mellitus_Type_2,0.16,0.012,0.133,0.179,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Diabetes_Mellitus_Type_2,0.3,0.011,0.273,0.318,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Diabetes_Mellitus_Type_2,0.25,0.013,0.223,0.274,Age restricted community,Asthma : Pain,Asthma,Pain
+Diabetes_Mellitus_Type_2,-0.28,0.012,-0.305,-0.258,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Diabetes_Mellitus_Type_2,0.12,0.012,0.094,0.142,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Diabetes_Mellitus_Type_2,0.1,0.013,0.075,0.127,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Diabetes_Mellitus_Type_2,0.16,0.013,0.131,0.183,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Diabetes_Mellitus_Type_2,0.14,0.014,0.111,0.165,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Diabetes_Mellitus_Type_2,0.19,0.014,0.165,0.218,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Benign_Prostatic_Hyperplasia,0.29,0.011,0.264,0.308,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Benign_Prostatic_Hyperplasia,0.3,0.012,0.274,0.32,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.06,0.013,0.036,0.085,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.06,0.013,0.036,0.088,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.13,0.014,0.105,0.161,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Benign_Prostatic_Hyperplasia,0.47,0.01,0.449,0.489,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Benign_Prostatic_Hyperplasia,0.15,0.012,0.127,0.175,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Benign_Prostatic_Hyperplasia,0.23,0.013,0.209,0.258,Age restricted community,Asthma : Pain,Asthma,Pain
+Benign_Prostatic_Hyperplasia,0.34,0.013,0.311,0.362,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Benign_Prostatic_Hyperplasia,-0.31,0.012,-0.339,-0.291,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Benign_Prostatic_Hyperplasia,0.05,0.014,0.027,0.08,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Benign_Prostatic_Hyperplasia,0.12,0.014,0.089,0.144,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Benign_Prostatic_Hyperplasia,0.17,0.014,0.139,0.192,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Benign_Prostatic_Hyperplasia,0.17,0.015,0.144,0.201,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Benign_Prostatic_Hyperplasia,0.18,0.015,0.145,0.205,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,0.47,0.01,0.447,0.486,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Hypertension,0.15,0.012,0.13,0.177,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Hypertension,0.32,0.012,0.297,0.343,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Hypertension,0.24,0.013,0.218,0.267,Age restricted community,Asthma : Pain,Asthma,Pain
+Hypertension,0.13,0.013,0.107,0.158,Age restricted community,Diabetes : Pain,Diabetes,Pain
+Hypertension,-0.29,0.012,-0.312,-0.264,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Hypertension,0.12,0.013,0.092,0.144,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Hypertension,0.07,0.013,0.047,0.099,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Hypertension,-0.03,0.014,-0.062,-0.007,Age restricted community,Arthritis : Diabetes,Arthritis,Diabetes
+Hypertension,0.2,0.013,0.172,0.223,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Hypertension,0.15,0.014,0.123,0.177,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Hypertension,0.08,0.015,0.052,0.11,Age restricted community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Hypertension,0.2,0.014,0.175,0.229,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,0.09,0.015,0.063,0.122,Age restricted community,Anxiety : Diabetes,Anxiety,Diabetes
+Hypertension,0.05,0.016,0.02,0.08,Age restricted community,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,0.03,0.012,0.003,0.051,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoarthritis,0.13,0.013,0.101,0.151,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoarthritis,0.12,0.013,0.095,0.147,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoarthritis,0.12,0.016,0.092,0.154,Age restricted community,Cardiovascular : Thyroid disorders,Cardiovascular,Thyroid disorders
+Osteoarthritis,0.44,0.015,0.406,0.464,Age restricted community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Osteoarthritis,0.18,0.013,0.152,0.203,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoarthritis,0.2,0.013,0.172,0.222,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoarthritis,0.09,0.016,0.062,0.126,Age restricted community,Acid-related disease : Thyroid disorders,Acid-related disease,Thyroid disorders
+Osteoarthritis,0.11,0.016,0.075,0.137,Age restricted community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Osteoarthritis,0.2,0.013,0.171,0.223,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Osteoarthritis,0.07,0.017,0.036,0.103,Age restricted community,Anxiety : Thyroid disorders,Anxiety,Thyroid disorders
+Osteoarthritis,0.12,0.017,0.084,0.149,Age restricted community,Anxiety : Diabetes,Anxiety,Diabetes
+Osteoarthritis,0.05,0.017,0.02,0.087,Age restricted community,Asthma : Thyroid disorders,Asthma,Thyroid disorders
+Osteoarthritis,0.1,0.017,0.063,0.127,Age restricted community,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,0.12,0.02,0.076,0.157,Age restricted community,Diabetes : Thyroid disorders,Diabetes,Thyroid disorders
+Osteoporosis,0.3,0.011,0.279,0.32,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Osteoporosis,0.45,0.01,0.43,0.469,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Osteoporosis,0.18,0.011,0.159,0.204,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Osteoporosis,0.32,0.012,0.298,0.344,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Osteoporosis,0.24,0.012,0.214,0.261,Age restricted community,Asthma : Pain,Asthma,Pain
+Osteoporosis,0.38,0.01,0.362,0.404,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Osteoporosis,0.02,0.012,-0.004,0.043,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoporosis,0.1,0.012,0.075,0.121,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoporosis,0.11,0.012,0.086,0.134,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoporosis,-0.26,0.012,-0.284,-0.237,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Osteoporosis,0.12,0.013,0.09,0.14,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Osteoporosis,0.04,0.012,0.012,0.059,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Osteoporosis,0.18,0.012,0.156,0.203,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoporosis,0.19,0.013,0.162,0.212,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoporosis,0.18,0.013,0.154,0.203,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Pulmonary_Disease_Chronic_Obstructive,0.25,0.011,0.231,0.274,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.02,0.012,-0.007,0.04,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.35,0.011,0.325,0.369,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.1,0.012,0.072,0.119,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,0.41,0.013,0.388,0.439,Age restricted community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.16,0.012,0.135,0.18,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.45,0.01,0.426,0.466,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.31,0.012,0.289,0.333,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Disease_Chronic_Obstructive,0.16,0.014,0.131,0.188,Age restricted community,Diabetes : Pain,Diabetes,Pain
+Pulmonary_Disease_Chronic_Obstructive,-0.28,0.011,-0.3,-0.255,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,0.16,0.012,0.135,0.182,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Pulmonary_Disease_Chronic_Obstructive,0.08,0.014,0.047,0.104,Age restricted community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.11,0.013,0.083,0.132,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,0.04,0.015,0.014,0.072,Age restricted community,Arthritis : Diabetes,Arthritis,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,0.07,0.016,0.035,0.095,Age restricted community,Anxiety : Diabetes,Anxiety,Diabetes
+Rheumatoid_arthritis,0.22,0.014,0.196,0.251,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Rheumatoid_arthritis,0.16,0.017,0.13,0.195,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Rheumatoid_arthritis,0.21,0.016,0.18,0.244,Age restricted community,Asthma : Pain,Asthma,Pain
+Rheumatoid_arthritis,0.33,0.016,0.302,0.364,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Rheumatoid_arthritis,0.23,0.018,0.192,0.26,Age restricted community,Osteoporosis : Pain,Osteoporosis,Pain
+Rheumatoid_arthritis,0.04,0.016,0.011,0.074,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Rheumatoid_arthritis,0.09,0.016,0.061,0.122,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Rheumatoid_arthritis,0.13,0.016,0.101,0.163,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Rheumatoid_arthritis,0.05,0.017,0.018,0.084,Age restricted community,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Rheumatoid_arthritis,0.16,0.017,0.123,0.188,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,0.13,0.018,0.094,0.164,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Rheumatoid_arthritis,0.18,0.018,0.143,0.214,Age restricted community,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Rheumatoid_arthritis,0.21,0.017,0.178,0.245,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Rheumatoid_arthritis,0.08,0.018,0.047,0.12,Age restricted community,Asthma : Osteoporosis,Asthma,Osteoporosis
+Rheumatoid_arthritis,0.06,0.019,0.026,0.099,Age restricted community,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Asthma,0.34,0.012,0.321,0.366,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Asthma,0.5,0.01,0.479,0.517,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Asthma,0.32,0.012,0.296,0.344,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Asthma,0.13,0.014,0.103,0.156,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Asthma,0.21,0.017,0.177,0.244,Age restricted community,Inflammatory disorders : Pain,Inflammatory disorders,Pain
+Asthma,0.58,0.009,0.564,0.603,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Asthma,0.16,0.013,0.135,0.187,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Asthma,-0.03,0.014,-0.053,0.004,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Asthma,0.11,0.018,0.079,0.15,Age restricted community,Cardiovascular : Inflammatory disorders,Cardiovascular,Inflammatory disorders
+Asthma,0.23,0.013,0.2,0.25,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Asthma,-0.3,0.014,-0.328,-0.275,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Asthma,0.17,0.017,0.133,0.2,Age restricted community,Arthritis : Inflammatory disorders,Arthritis,Inflammatory disorders
+Asthma,0.2,0.014,0.167,0.223,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Asthma,0.2,0.018,0.162,0.232,Age restricted community,Anxiety : Inflammatory disorders,Anxiety,Inflammatory disorders
+Asthma,0.14,0.019,0.102,0.178,Age restricted community,Acid-related disease : Inflammatory disorders,Acid-related disease,Inflammatory disorders
+Dementia_any,0.2,0.013,0.17,0.221,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Dementia_any,0.03,0.013,0.005,0.057,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Dementia_any,0.06,0.014,0.032,0.088,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Dementia_any,0.38,0.014,0.349,0.404,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Dementia_any,0.1,0.017,0.071,0.136,Age restricted community,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Dementia_any,0.26,0.013,0.238,0.288,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Dementia_any,0.22,0.014,0.188,0.243,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Dementia_any,0.46,0.014,0.429,0.482,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Dementia_any,0.24,0.016,0.21,0.274,Age restricted community,Osteoporosis : Pain,Osteoporosis,Pain
+Dementia_any,0.17,0.014,0.147,0.201,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Dementia_any,0.05,0.016,0.02,0.08,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Dementia_any,0.07,0.017,0.034,0.101,Age restricted community,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Dementia_any,-0.11,0.016,-0.138,-0.075,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Dementia_any,0.14,0.017,0.108,0.175,Age restricted community,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Dementia_any,0.17,0.019,0.138,0.211,Age restricted community,Arthritis : Osteoporosis,Arthritis,Osteoporosis
+Psoriasis,0.41,0.011,0.393,0.436,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriasis,0.58,0.01,0.557,0.595,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Psoriasis,0.22,0.013,0.191,0.242,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriasis,0.12,0.015,0.087,0.145,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriasis,0.02,0.015,-0.005,0.055,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriasis,0.58,0.009,0.566,0.601,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Psoriasis,0.37,0.012,0.351,0.397,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Psoriasis,0.26,0.013,0.237,0.29,Age restricted community,Asthma : Pain,Asthma,Pain
+Psoriasis,0.16,0.014,0.133,0.191,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriasis,0.21,0.013,0.183,0.232,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Psoriasis,0.1,0.014,0.076,0.132,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,-0.29,0.015,-0.324,-0.266,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Psoriasis,0.23,0.015,0.201,0.259,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Psoriasis,0.22,0.015,0.188,0.245,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriasis,0.21,0.016,0.183,0.245,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Restless_legs_syndrome,0.35,0.015,0.316,0.375,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Restless_legs_syndrome,0.46,0.014,0.438,0.492,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Restless_legs_syndrome,0.36,0.015,0.328,0.387,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Restless_legs_syndrome,0.12,0.017,0.083,0.151,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Restless_legs_syndrome,0.27,0.017,0.233,0.3,Age restricted community,Asthma : Pain,Asthma,Pain
+Restless_legs_syndrome,0.44,0.014,0.41,0.464,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Restless_legs_syndrome,0.13,0.016,0.095,0.16,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Restless_legs_syndrome,0.01,0.018,-0.027,0.043,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Restless_legs_syndrome,0.1,0.018,0.06,0.131,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Restless_legs_syndrome,0.16,0.016,0.125,0.189,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Restless_legs_syndrome,-0.38,0.016,-0.408,-0.344,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Restless_legs_syndrome,0.07,0.017,0.041,0.107,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Restless_legs_syndrome,0.17,0.017,0.138,0.205,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,0.24,0.017,0.207,0.274,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Restless_legs_syndrome,0.17,0.018,0.13,0.201,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,0.366,0.034,0.296,0.435,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Axial_Spondyloarthritis,0.388,0.037,0.314,0.459,Community,Anxiety : Pain,Anxiety,Pain
+Axial_Spondyloarthritis,0.169,0.044,0.08,0.256,Community,Asthma : Pain,Asthma,Pain
+Axial_Spondyloarthritis,0.131,0.045,0.041,0.221,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Axial_Spondyloarthritis,0.173,0.057,0.061,0.28,Community,Diabetes : Pain,Diabetes,Pain
+Axial_Spondyloarthritis,0.178,0.041,0.096,0.258,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Axial_Spondyloarthritis,0.129,0.045,0.041,0.216,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Axial_Spondyloarthritis,0.104,0.048,0.012,0.198,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Axial_Spondyloarthritis,0.434,0.053,0.325,0.532,Community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Axial_Spondyloarthritis,0.227,0.045,0.139,0.316,Community,Anxiety : Asthma,Anxiety,Asthma
+Axial_Spondyloarthritis,0.188,0.048,0.091,0.281,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Axial_Spondyloarthritis,0.117,0.059,0.001,0.23,Community,Anxiety : Diabetes,Anxiety,Diabetes
+Axial_Spondyloarthritis,0.162,0.052,0.056,0.263,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,0.167,0.059,0.05,0.28,Community,Asthma : Diabetes,Asthma,Diabetes
+Axial_Spondyloarthritis,0.092,0.063,-0.033,0.213,Community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Hypertension,0.24,0.068,0.101,0.368,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Hypertension,-0.095,0.071,-0.233,0.049,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Pulmonary_Hypertension,0.364,0.069,0.223,0.492,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Hypertension,0.073,0.074,-0.072,0.216,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Hypertension,-0.038,0.08,-0.192,0.12,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Hypertension,0.204,0.059,0.09,0.316,Community,Asthma : Pain,Asthma,Pain
+Pulmonary_Hypertension,0.421,0.059,0.302,0.53,Community,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Hypertension,0.282,0.064,0.157,0.405,Community,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Hypertension,0.102,0.073,-0.042,0.248,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Hypertension,0.071,0.065,-0.055,0.198,Community,Arthritis : Asthma,Arthritis,Asthma
+Pulmonary_Hypertension,0.118,0.065,-0.012,0.244,Community,Anxiety : Asthma,Anxiety,Asthma
+Pulmonary_Hypertension,0.211,0.069,0.073,0.343,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Pulmonary_Hypertension,0.066,0.069,-0.068,0.2,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Hypertension,-0.115,0.076,-0.259,0.035,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Hypertension,0.142,0.075,-0.007,0.284,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,0.223,0.022,0.178,0.266,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Parkinson_Disease,0.022,0.023,-0.02,0.067,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Parkinson_Disease,0.055,0.024,0.01,0.1,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Parkinson_Disease,0.378,0.022,0.335,0.42,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Parkinson_Disease,0.129,0.027,0.076,0.181,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Parkinson_Disease,0.229,0.023,0.186,0.274,Community,Anxiety : Pain,Anxiety,Pain
+Parkinson_Disease,0.236,0.023,0.19,0.282,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Parkinson_Disease,0.476,0.021,0.436,0.515,Community,Arthritis : Pain,Arthritis,Pain
+Parkinson_Disease,0.209,0.027,0.157,0.263,Community,Asthma : Pain,Asthma,Pain
+Parkinson_Disease,0.191,0.023,0.145,0.237,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,0.039,0.025,-0.01,0.087,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Parkinson_Disease,0.114,0.028,0.059,0.168,Community,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,-0.165,0.025,-0.216,-0.116,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Parkinson_Disease,0.123,0.028,0.068,0.176,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Parkinson_Disease,0.079,0.03,0.022,0.138,Community,Arthritis : Asthma,Arthritis,Asthma
+Psoriatic_arthritis,0.264,0.026,0.212,0.316,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriatic_arthritis,0.407,0.027,0.354,0.459,Community,Anxiety : Pain,Anxiety,Pain
+Psoriatic_arthritis,0.223,0.032,0.161,0.285,Community,Asthma : Pain,Asthma,Pain
+Psoriatic_arthritis,0.172,0.033,0.107,0.236,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriatic_arthritis,0.187,0.039,0.111,0.264,Community,Diabetes : Pain,Diabetes,Pain
+Psoriatic_arthritis,0.106,0.03,0.049,0.167,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriatic_arthritis,0.084,0.032,0.021,0.147,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriatic_arthritis,0.023,0.035,-0.046,0.089,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriatic_arthritis,0.372,0.036,0.3,0.443,Community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Psoriatic_arthritis,0.176,0.034,0.109,0.24,Community,Anxiety : Asthma,Anxiety,Asthma
+Psoriatic_arthritis,0.139,0.037,0.067,0.21,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriatic_arthritis,0.159,0.041,0.079,0.24,Community,Anxiety : Diabetes,Anxiety,Diabetes
+Psoriatic_arthritis,0.17,0.036,0.101,0.241,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,0.116,0.042,0.031,0.197,Community,Asthma : Diabetes,Asthma,Diabetes
+Psoriatic_arthritis,0.082,0.042,-0.002,0.164,Community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Systemic_Lupus_Erythematosus,0.233,0.048,0.141,0.327,Community,Cardiovascular : Pain,Cardiovascular,Pain
+Systemic_Lupus_Erythematosus,0.397,0.044,0.306,0.481,Community,Arthritis : Pain,Arthritis,Pain
+Systemic_Lupus_Erythematosus,0.354,0.047,0.263,0.444,Community,Anxiety : Pain,Anxiety,Pain
+Systemic_Lupus_Erythematosus,0.148,0.053,0.045,0.251,Community,Acid-related disease : Pain,Acid-related disease,Pain
+Systemic_Lupus_Erythematosus,0.165,0.055,0.055,0.271,Community,Asthma : Pain,Asthma,Pain
+Systemic_Lupus_Erythematosus,0.306,0.047,0.212,0.397,Community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Systemic_Lupus_Erythematosus,0.17,0.05,0.07,0.267,Community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Systemic_Lupus_Erythematosus,0.121,0.053,0.017,0.223,Community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Systemic_Lupus_Erythematosus,0.09,0.055,-0.017,0.196,Community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Systemic_Lupus_Erythematosus,0.17,0.05,0.069,0.265,Community,Anxiety : Arthritis,Anxiety,Arthritis
+Systemic_Lupus_Erythematosus,-0.502,0.047,-0.587,-0.405,Community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Systemic_Lupus_Erythematosus,0.171,0.054,0.064,0.275,Community,Arthritis : Asthma,Arthritis,Asthma
+Systemic_Lupus_Erythematosus,0.049,0.056,-0.062,0.157,Community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Systemic_Lupus_Erythematosus,0.27,0.053,0.164,0.372,Community,Anxiety : Asthma,Anxiety,Asthma
+Systemic_Lupus_Erythematosus,0.008,0.061,-0.112,0.124,Community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,0.376,0.035,0.305,0.443,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Axial_Spondyloarthritis,0.38,0.038,0.305,0.453,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Axial_Spondyloarthritis,0.182,0.045,0.09,0.268,Age restricted community,Asthma : Pain,Asthma,Pain
+Axial_Spondyloarthritis,0.132,0.048,0.039,0.226,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Axial_Spondyloarthritis,0.192,0.057,0.077,0.301,Age restricted community,Diabetes : Pain,Diabetes,Pain
+Axial_Spondyloarthritis,0.187,0.043,0.102,0.27,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Axial_Spondyloarthritis,0.135,0.046,0.046,0.224,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Axial_Spondyloarthritis,0.096,0.051,-0.002,0.196,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Axial_Spondyloarthritis,0.449,0.055,0.338,0.554,Age restricted community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Axial_Spondyloarthritis,0.217,0.049,0.122,0.312,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Axial_Spondyloarthritis,0.194,0.052,0.09,0.293,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Axial_Spondyloarthritis,0.143,0.062,0.02,0.262,Age restricted community,Anxiety : Diabetes,Anxiety,Diabetes
+Axial_Spondyloarthritis,0.154,0.055,0.049,0.261,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,0.213,0.064,0.086,0.338,Age restricted community,Asthma : Diabetes,Asthma,Diabetes
+Axial_Spondyloarthritis,0.132,0.067,-0.004,0.259,Age restricted community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Hypertension,0.222,0.073,0.075,0.365,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Hypertension,-0.125,0.075,-0.272,0.022,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Pulmonary_Hypertension,0.217,0.081,0.058,0.369,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Hypertension,0.053,0.08,-0.105,0.208,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Hypertension,-0.064,0.085,-0.231,0.101,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Hypertension,0.166,0.067,0.039,0.298,Age restricted community,Asthma : Pain,Asthma,Pain
+Pulmonary_Hypertension,0.4,0.065,0.27,0.526,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Hypertension,0.317,0.068,0.177,0.447,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Hypertension,0.09,0.076,-0.064,0.235,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Hypertension,0.059,0.07,-0.079,0.198,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Pulmonary_Hypertension,0.104,0.07,-0.038,0.237,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Pulmonary_Hypertension,0.212,0.075,0.068,0.357,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Pulmonary_Hypertension,0.069,0.073,-0.073,0.211,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Hypertension,-0.112,0.083,-0.273,0.048,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Hypertension,0.111,0.081,-0.05,0.267,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,0.219,0.024,0.172,0.265,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Parkinson_Disease,0.051,0.025,0.001,0.099,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Parkinson_Disease,0.052,0.025,0.003,0.101,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Parkinson_Disease,0.383,0.024,0.335,0.428,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Parkinson_Disease,0.116,0.03,0.059,0.175,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Parkinson_Disease,0.244,0.024,0.195,0.29,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Parkinson_Disease,0.237,0.025,0.187,0.284,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Parkinson_Disease,0.477,0.023,0.432,0.519,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Parkinson_Disease,0.191,0.029,0.132,0.248,Age restricted community,Asthma : Pain,Asthma,Pain
+Parkinson_Disease,0.205,0.026,0.154,0.255,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,0.031,0.027,-0.021,0.085,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Parkinson_Disease,0.13,0.03,0.072,0.189,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,-0.205,0.027,-0.258,-0.151,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Parkinson_Disease,0.11,0.031,0.05,0.172,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Parkinson_Disease,0.074,0.031,0.014,0.134,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Psoriatic_arthritis,0.271,0.027,0.218,0.322,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriatic_arthritis,0.412,0.028,0.356,0.467,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Psoriatic_arthritis,0.224,0.032,0.163,0.286,Age restricted community,Asthma : Pain,Asthma,Pain
+Psoriatic_arthritis,0.178,0.034,0.112,0.243,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriatic_arthritis,0.187,0.039,0.106,0.264,Age restricted community,Diabetes : Pain,Diabetes,Pain
+Psoriatic_arthritis,0.118,0.031,0.059,0.178,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriatic_arthritis,0.089,0.033,0.025,0.151,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriatic_arthritis,0.03,0.035,-0.038,0.098,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriatic_arthritis,0.379,0.036,0.307,0.449,Age restricted community,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Psoriatic_arthritis,0.172,0.035,0.104,0.243,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Psoriatic_arthritis,0.138,0.036,0.066,0.209,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriatic_arthritis,0.159,0.042,0.076,0.239,Age restricted community,Anxiety : Diabetes,Anxiety,Diabetes
+Psoriatic_arthritis,0.197,0.037,0.126,0.268,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,0.118,0.043,0.036,0.203,Age restricted community,Asthma : Diabetes,Asthma,Diabetes
+Psoriatic_arthritis,0.083,0.045,-0.006,0.171,Age restricted community,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Systemic_Lupus_Erythematosus,0.248,0.051,0.149,0.343,Age restricted community,Cardiovascular : Pain,Cardiovascular,Pain
+Systemic_Lupus_Erythematosus,0.389,0.047,0.292,0.476,Age restricted community,Arthritis : Pain,Arthritis,Pain
+Systemic_Lupus_Erythematosus,0.383,0.05,0.281,0.475,Age restricted community,Anxiety : Pain,Anxiety,Pain
+Systemic_Lupus_Erythematosus,0.132,0.056,0.018,0.244,Age restricted community,Acid-related disease : Pain,Acid-related disease,Pain
+Systemic_Lupus_Erythematosus,0.191,0.057,0.075,0.296,Age restricted community,Asthma : Pain,Asthma,Pain
+Systemic_Lupus_Erythematosus,0.306,0.05,0.208,0.405,Age restricted community,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Systemic_Lupus_Erythematosus,0.189,0.054,0.081,0.292,Age restricted community,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Systemic_Lupus_Erythematosus,0.127,0.057,0.012,0.241,Age restricted community,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Systemic_Lupus_Erythematosus,0.099,0.058,-0.015,0.212,Age restricted community,Asthma : Cardiovascular,Asthma,Cardiovascular
+Systemic_Lupus_Erythematosus,0.151,0.053,0.049,0.255,Age restricted community,Anxiety : Arthritis,Anxiety,Arthritis
+Systemic_Lupus_Erythematosus,-0.511,0.048,-0.603,-0.413,Age restricted community,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Systemic_Lupus_Erythematosus,0.177,0.057,0.067,0.287,Age restricted community,Arthritis : Asthma,Arthritis,Asthma
+Systemic_Lupus_Erythematosus,0.05,0.058,-0.061,0.168,Age restricted community,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Systemic_Lupus_Erythematosus,0.256,0.057,0.144,0.364,Age restricted community,Anxiety : Asthma,Anxiety,Asthma
+Systemic_Lupus_Erythematosus,-0.011,0.064,-0.134,0.117,Age restricted community,Acid-related disease : Asthma,Acid-related disease,Asthma
