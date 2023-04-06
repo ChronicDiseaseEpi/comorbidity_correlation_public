@@ -1,0 +1,17 @@
+condition,n,age_mean,age_sd,male_n,male_pcnt,repo,n_trials
+Asthma,1627,42,16,653,40.1,Trials,4
+Axial_Spondyloarthritis,352,40,12,251,71.3,Trials,1
+Benign_Prostatic_Hyperplasia,2816,64,8,2816,100,Trials,6
+Dementia_any,5811,74,8,2364,40.7,Trials,6
+Diabetes_Mellitus_Type_2,17885,57,10,9458,52.9,Trials,22
+Hypertension,6209,56,10,3619,58.3,Trials,10
+Osteoarthritis,1320,64,12,432,32.7,Trials,1
+Osteoporosis,2055,61,12,84,4.1,Trials,2
+Parkinson_Disease,1761,63,10,1038,58.9,Trials,4
+Psoriasis,771,48,12,489,63.4,Trials,2
+Psoriatic_arthritis,822,47,11,452,55,Trials,3
+Pulmonary_Disease_Chronic_Obstructive,4380,64,8,2867,65.5,Trials,6
+Pulmonary_Hypertension,406,55,16,88,21.7,Trials,1
+Restless_legs_syndrome,2065,54,12,783,37.9,Trials,5
+Rheumatoid_arthritis,4715,52,12,964,20.4,Trials,8
+Systemic_Lupus_Erythematosus,1693,38,11,101,6,Trials,2
