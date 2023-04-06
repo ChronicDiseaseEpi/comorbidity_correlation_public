@@ -1,0 +1,12 @@
+condition,n,age_mean,age_sd,male_n,male_pcnt,repo
+Asthma,169912,46,17,74177,43.7,Age restricted community
+Benign_Prostatic_Hyperplasia,18902,71,9,18902,100,Age restricted community
+Dementia_any,11357,79,7,4027,35.5,Age restricted community
+Diabetes_Mellitus_Type_2,79789,64,12,45180,56.6,Age restricted community
+Hypertension,292736,65,12,142371,48.6,Age restricted community
+Osteoarthritis,118577,66,11,48333,40.8,Age restricted community
+Osteoporosis,34295,71,11,3777,11,Age restricted community
+Psoriasis,46578,48,15,21919,47.1,Age restricted community
+Pulmonary_Disease_Chronic_Obstructive,54323,68,10,28040,51.6,Age restricted community
+Restless_legs_syndrome,9961,60,13,2812,28.2,Age restricted community
+Rheumatoid_arthritis,12729,60,14,3712,29.2,Age restricted community
