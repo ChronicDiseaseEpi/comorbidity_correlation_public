@@ -1,0 +1,241 @@
+condition,Omega,diff_mean,diff_sd,CI2.5,CI97.5,abs_diff_mean,abs_diff_sd,abs_CI2.5,abs_CI97.5,cor_flip,comorbidity,Var1,Var2
+Asthma,Omega12,0.16,0.06,0.05,0.28,0.16,0.06,0.05,0.28,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Asthma,Omega13,-0.19,0.04,-0.26,-0.11,0.19,0.04,0.11,0.26,Same,Arthritis : Pain,Arthritis,Pain
+Asthma,Omega14,0.04,0.07,-0.09,0.18,0.06,0.05,0,0.18,Same,Anxiety : Pain,Anxiety,Pain
+Asthma,Omega15,0.19,0.08,0.04,0.34,0.19,0.08,0.04,0.34,Flipped,Acid-related disease : Pain,Acid-related disease,Pain
+Asthma,Omega16,0.02,0.08,-0.14,0.17,0.06,0.05,0,0.18,Same,Inflammatory disorders : Pain,Inflammatory disorders,Pain
+Asthma,Omega23,0.47,0.06,0.35,0.59,0.47,0.06,0.35,0.59,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Asthma,Omega24,0.07,0.08,-0.08,0.22,0.08,0.06,0,0.22,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Asthma,Omega25,-0.11,0.07,-0.25,0.03,0.12,0.07,0.01,0.25,Flipped,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Asthma,Omega26,0.19,0.11,-0.03,0.4,0.19,0.1,0.01,0.4,Flipped,Cardiovascular : Inflammatory disorders,Cardiovascular,Inflammatory disorders
+Asthma,Omega34,0.03,0.07,-0.11,0.18,0.06,0.05,0,0.18,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Asthma,Omega35,0.13,0.08,-0.03,0.29,0.14,0.08,0.01,0.29,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Asthma,Omega36,-0.06,0.08,-0.22,0.11,0.08,0.06,0,0.22,Same,Arthritis : Inflammatory disorders,Arthritis,Inflammatory disorders
+Asthma,Omega45,0.02,0.08,-0.14,0.18,0.07,0.05,0,0.19,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Asthma,Omega46,0.23,0.12,-0.01,0.46,0.23,0.12,0.02,0.46,Flipped,Anxiety : Inflammatory disorders,Anxiety,Inflammatory disorders
+Asthma,Omega56,0.17,0.12,-0.09,0.39,0.18,0.1,0.01,0.39,Flipped,Acid-related disease : Inflammatory disorders,Acid-related disease,Inflammatory disorders
+Axial_Spondyloarthritis,Omega12,0.22,0.11,0.01,0.45,0.22,0.11,0.02,0.45,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Axial_Spondyloarthritis,Omega13,0.13,0.11,-0.08,0.35,0.14,0.09,0.01,0.35,Same,Anxiety : Pain,Anxiety,Pain
+Axial_Spondyloarthritis,Omega14,-0.09,0.14,-0.35,0.19,0.13,0.09,0,0.35,Same,Asthma : Pain,Asthma,Pain
+Axial_Spondyloarthritis,Omega15,-0.21,0.15,-0.49,0.09,0.22,0.13,0.01,0.49,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Axial_Spondyloarthritis,Omega16,0.03,0.17,-0.29,0.36,0.14,0.1,0.01,0.38,Same,Diabetes : Pain,Diabetes,Pain
+Axial_Spondyloarthritis,Omega23,0.11,0.14,-0.16,0.39,0.15,0.11,0.01,0.39,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Axial_Spondyloarthritis,Omega24,0.47,0.18,0.11,0.8,0.47,0.18,0.11,0.8,Flipped,Asthma : Cardiovascular,Asthma,Cardiovascular
+Axial_Spondyloarthritis,Omega25,-0.07,0.17,-0.39,0.26,0.15,0.11,0.01,0.4,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Axial_Spondyloarthritis,Omega26,-0.07,0.16,-0.36,0.27,0.15,0.1,0.01,0.37,Same,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Axial_Spondyloarthritis,Omega34,0.13,0.16,-0.18,0.45,0.17,0.12,0.01,0.45,Same,Anxiety : Asthma,Anxiety,Asthma
+Axial_Spondyloarthritis,Omega35,0.3,0.2,-0.11,0.68,0.31,0.18,0.02,0.68,Flipped,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Axial_Spondyloarthritis,Omega36,-0.1,0.18,-0.45,0.24,0.17,0.12,0.01,0.45,Same,Anxiety : Diabetes,Anxiety,Diabetes
+Axial_Spondyloarthritis,Omega45,0.38,0.26,-0.11,0.88,0.4,0.23,0.02,0.88,Flipped,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,Omega46,0.25,0.24,-0.21,0.7,0.29,0.19,0.01,0.7,Flipped,Asthma : Diabetes,Asthma,Diabetes
+Axial_Spondyloarthritis,Omega56,-0.15,0.21,-0.52,0.28,0.21,0.14,0.01,0.52,Same,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Benign_Prostatic_Hyperplasia,Omega12,0.16,0.05,0.06,0.26,0.16,0.05,0.06,0.26,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Benign_Prostatic_Hyperplasia,Omega13,0.06,0.04,-0.01,0.14,0.07,0.04,0,0.14,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega14,-0.03,0.06,-0.14,0.08,0.05,0.04,0,0.14,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega15,0.03,0.06,-0.08,0.14,0.05,0.04,0,0.14,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega16,-0.02,0.06,-0.14,0.09,0.05,0.04,0,0.14,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega23,0.13,0.05,0.03,0.23,0.13,0.05,0.03,0.23,Same,Arthritis : Pain,Arthritis,Pain
+Benign_Prostatic_Hyperplasia,Omega24,0.05,0.07,-0.09,0.19,0.07,0.05,0,0.19,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Benign_Prostatic_Hyperplasia,Omega25,-0.02,0.07,-0.15,0.11,0.06,0.04,0,0.15,Same,Asthma : Pain,Asthma,Pain
+Benign_Prostatic_Hyperplasia,Omega26,0.19,0.08,0.03,0.35,0.19,0.08,0.03,0.35,Same,Anxiety : Pain,Anxiety,Pain
+Benign_Prostatic_Hyperplasia,Omega34,0.09,0.07,-0.06,0.23,0.09,0.06,0,0.23,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Benign_Prostatic_Hyperplasia,Omega35,-0.07,0.06,-0.19,0.06,0.08,0.05,0,0.19,Same,Arthritis : Asthma,Arthritis,Asthma
+Benign_Prostatic_Hyperplasia,Omega36,-0.12,0.06,-0.23,0,0.12,0.06,0.01,0.23,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Benign_Prostatic_Hyperplasia,Omega45,0.06,0.07,-0.08,0.19,0.07,0.05,0,0.19,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Benign_Prostatic_Hyperplasia,Omega46,-0.08,0.07,-0.22,0.06,0.09,0.06,0,0.22,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Benign_Prostatic_Hyperplasia,Omega56,0.08,0.09,-0.09,0.25,0.09,0.07,0,0.25,Same,Anxiety : Asthma,Anxiety,Asthma
+Dementia_any,Omega12,0.16,0.14,-0.11,0.42,0.17,0.12,0.01,0.42,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Dementia_any,Omega13,-0.05,0.14,-0.31,0.22,0.11,0.09,0,0.31,Same,Anxiety : Pain,Anxiety,Pain
+Dementia_any,Omega14,0.01,0.14,-0.26,0.28,0.11,0.08,0,0.31,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Dementia_any,Omega15,0.18,0.14,-0.08,0.45,0.2,0.12,0.01,0.45,Same,Arthritis : Pain,Arthritis,Pain
+Dementia_any,Omega16,0.12,0.14,-0.15,0.4,0.15,0.11,0.01,0.4,Flipped,Osteoporosis : Pain,Osteoporosis,Pain
+Dementia_any,Omega23,0.22,0.14,-0.04,0.48,0.23,0.13,0.02,0.48,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Dementia_any,Omega24,0.17,0.14,-0.09,0.44,0.19,0.12,0.01,0.44,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Dementia_any,Omega25,0.45,0.14,0.19,0.71,0.45,0.14,0.19,0.71,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Dementia_any,Omega26,0.24,0.14,-0.02,0.5,0.24,0.13,0.02,0.5,Same,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Dementia_any,Omega34,0.13,0.14,-0.13,0.39,0.16,0.11,0.01,0.39,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Dementia_any,Omega35,0,0.14,-0.27,0.27,0.12,0.08,0,0.31,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Dementia_any,Omega36,0.07,0.14,-0.2,0.34,0.13,0.09,0.01,0.34,Flipped,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Dementia_any,Omega45,0.11,0.14,-0.16,0.39,0.15,0.11,0.01,0.39,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Dementia_any,Omega46,-0.11,0.11,-0.32,0.11,0.13,0.09,0,0.32,Same,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Dementia_any,Omega56,0.15,0.14,-0.13,0.42,0.17,0.12,0.01,0.42,Same,Arthritis : Osteoporosis,Arthritis,Osteoporosis
+Diabetes_Mellitus_Type_2,Omega12,0.06,0.02,0.02,0.11,0.06,0.02,0.02,0.11,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Diabetes_Mellitus_Type_2,Omega13,0.07,0.02,0.02,0.11,0.07,0.02,0.02,0.11,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega14,-0.11,0.03,-0.16,-0.06,0.11,0.03,0.06,0.16,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega15,-0.12,0.03,-0.18,-0.07,0.12,0.03,0.07,0.18,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega16,-0.12,0.03,-0.18,-0.06,0.12,0.03,0.06,0.18,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega23,-0.01,0.02,-0.05,0.04,0.02,0.01,0,0.05,Same,Arthritis : Pain,Arthritis,Pain
+Diabetes_Mellitus_Type_2,Omega24,0.07,0.03,0.02,0.12,0.07,0.03,0.02,0.12,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Diabetes_Mellitus_Type_2,Omega25,0.06,0.03,0,0.12,0.06,0.03,0.01,0.12,Same,Anxiety : Pain,Anxiety,Pain
+Diabetes_Mellitus_Type_2,Omega26,0.07,0.03,0.01,0.13,0.07,0.03,0.01,0.13,Same,Asthma : Pain,Asthma,Pain
+Diabetes_Mellitus_Type_2,Omega34,0.17,0.03,0.1,0.23,0.17,0.03,0.1,0.23,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Diabetes_Mellitus_Type_2,Omega35,-0.06,0.03,-0.11,0,0.06,0.03,0.01,0.11,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Diabetes_Mellitus_Type_2,Omega36,-0.02,0.03,-0.08,0.05,0.03,0.02,0,0.08,Same,Arthritis : Asthma,Arthritis,Asthma
+Diabetes_Mellitus_Type_2,Omega45,-0.09,0.03,-0.15,-0.03,0.09,0.03,0.03,0.15,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Diabetes_Mellitus_Type_2,Omega46,-0.01,0.03,-0.08,0.06,0.03,0.02,0,0.08,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Diabetes_Mellitus_Type_2,Omega56,-0.05,0.04,-0.11,0.03,0.05,0.03,0,0.11,Same,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,Omega12,0.17,0.04,0.1,0.25,0.17,0.04,0.1,0.25,Same,Arthritis : Pain,Arthritis,Pain
+Hypertension,Omega13,-0.01,0.04,-0.1,0.08,0.04,0.03,0,0.1,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Hypertension,Omega14,0.12,0.04,0.04,0.2,0.12,0.04,0.04,0.2,Same,Anxiety : Pain,Anxiety,Pain
+Hypertension,Omega15,0.14,0.05,0.04,0.24,0.14,0.05,0.04,0.24,Same,Asthma : Pain,Asthma,Pain
+Hypertension,Omega16,0.12,0.05,0.02,0.22,0.12,0.05,0.02,0.22,Same,Diabetes : Pain,Diabetes,Pain
+Hypertension,Omega23,0.2,0.05,0.1,0.3,0.2,0.05,0.1,0.3,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Hypertension,Omega24,-0.03,0.04,-0.11,0.04,0.04,0.03,0,0.11,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Hypertension,Omega25,0.02,0.05,-0.08,0.11,0.04,0.03,0,0.12,Same,Arthritis : Asthma,Arthritis,Asthma
+Hypertension,Omega26,-0.03,0.05,-0.12,0.07,0.05,0.03,0,0.12,Same,Arthritis : Diabetes,Arthritis,Diabetes
+Hypertension,Omega34,0.02,0.04,-0.06,0.11,0.04,0.03,0,0.11,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Hypertension,Omega35,-0,0.05,-0.1,0.1,0.04,0.03,0,0.12,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Hypertension,Omega36,0.14,0.06,0.02,0.25,0.14,0.06,0.03,0.25,Flipped,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Hypertension,Omega45,0.07,0.05,-0.03,0.17,0.08,0.05,0,0.17,Same,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,Omega46,0.07,0.05,-0.03,0.17,0.08,0.05,0,0.17,Same,Anxiety : Diabetes,Anxiety,Diabetes
+Hypertension,Omega56,0.04,0.07,-0.09,0.17,0.06,0.05,0,0.17,Same,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,Omega12,-0.03,0.05,-0.12,0.06,0.05,0.03,0,0.12,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoarthritis,Omega13,0.01,0.05,-0.08,0.11,0.04,0.03,0,0.11,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoarthritis,Omega14,0.12,0.06,0,0.25,0.12,0.06,0.01,0.25,Flipped,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoarthritis,Omega15,0.06,0.05,-0.04,0.16,0.07,0.04,0,0.16,Same,Cardiovascular : Thyroid disorders,Cardiovascular,Thyroid disorders
+Osteoarthritis,Omega16,0.14,0.06,0.03,0.26,0.14,0.06,0.03,0.26,Same,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Osteoarthritis,Omega23,0.08,0.05,-0.02,0.18,0.08,0.05,0.01,0.18,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoarthritis,Omega24,0.08,0.06,-0.04,0.21,0.09,0.06,0,0.21,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoarthritis,Omega25,-0.39,0.04,-0.47,-0.3,0.39,0.04,0.3,0.47,Same,Acid-related disease : Thyroid disorders,Acid-related disease,Thyroid disorders
+Osteoarthritis,Omega26,0.2,0.07,0.07,0.33,0.2,0.07,0.07,0.33,Flipped,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Osteoarthritis,Omega34,0.07,0.06,-0.06,0.19,0.08,0.05,0,0.19,Same,Anxiety : Asthma,Anxiety,Asthma
+Osteoarthritis,Omega35,-0.1,0.05,-0.2,0.01,0.1,0.05,0.01,0.2,Same,Anxiety : Thyroid disorders,Anxiety,Thyroid disorders
+Osteoarthritis,Omega36,0.23,0.07,0.08,0.36,0.23,0.07,0.08,0.36,Flipped,Anxiety : Diabetes,Anxiety,Diabetes
+Osteoarthritis,Omega45,0.09,0.07,-0.05,0.22,0.09,0.06,0.01,0.22,Flipped,Asthma : Thyroid disorders,Asthma,Thyroid disorders
+Osteoarthritis,Omega46,0.15,0.09,-0.04,0.33,0.15,0.09,0.01,0.33,Flipped,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,Omega56,0.17,0.07,0.03,0.32,0.17,0.07,0.03,0.32,Flipped,Diabetes : Thyroid disorders,Diabetes,Thyroid disorders
+Osteoporosis,Omega12,0.2,0.04,0.13,0.28,0.2,0.04,0.13,0.28,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Osteoporosis,Omega13,0.22,0.04,0.15,0.3,0.22,0.04,0.15,0.3,Same,Arthritis : Pain,Arthritis,Pain
+Osteoporosis,Omega14,0.43,0.04,0.36,0.51,0.43,0.04,0.36,0.51,Flipped,Acid-related disease : Pain,Acid-related disease,Pain
+Osteoporosis,Omega15,-0.01,0.04,-0.09,0.07,0.03,0.03,0,0.1,Same,Anxiety : Pain,Anxiety,Pain
+Osteoporosis,Omega16,0.01,0.05,-0.09,0.11,0.04,0.03,0,0.11,Same,Asthma : Pain,Asthma,Pain
+Osteoporosis,Omega23,0.04,0.04,-0.03,0.12,0.05,0.03,0,0.12,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Osteoporosis,Omega24,0.37,0.04,0.3,0.45,0.37,0.04,0.3,0.45,Flipped,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoporosis,Omega25,-0.03,0.04,-0.11,0.06,0.04,0.03,0,0.11,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoporosis,Omega26,-0.03,0.05,-0.13,0.07,0.05,0.03,0,0.13,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoporosis,Omega34,0.73,0.01,0.7,0.75,0.73,0.01,0.7,0.75,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Osteoporosis,Omega35,-0.03,0.05,-0.12,0.06,0.04,0.03,0,0.12,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Osteoporosis,Omega36,-0.03,0.05,-0.13,0.07,0.05,0.04,0,0.13,Same,Arthritis : Asthma,Arthritis,Asthma
+Osteoporosis,Omega45,0.27,0.04,0.19,0.36,0.27,0.04,0.19,0.36,Flipped,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoporosis,Omega46,0.21,0.05,0.11,0.31,0.21,0.05,0.11,0.31,Flipped,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoporosis,Omega56,0.04,0.06,-0.07,0.15,0.05,0.04,0,0.15,Same,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,Omega12,0.14,0.07,0.01,0.28,0.15,0.07,0.02,0.28,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Parkinson_Disease,Omega13,-0.03,0.05,-0.12,0.07,0.05,0.03,0,0.13,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Parkinson_Disease,Omega14,-0.08,0.06,-0.2,0.03,0.09,0.05,0,0.2,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Parkinson_Disease,Omega15,0.14,0.06,0.02,0.25,0.14,0.06,0.02,0.25,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Parkinson_Disease,Omega16,-0.12,0.09,-0.3,0.06,0.13,0.08,0.01,0.3,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Parkinson_Disease,Omega23,0.06,0.07,-0.08,0.2,0.07,0.05,0,0.2,Same,Anxiety : Pain,Anxiety,Pain
+Parkinson_Disease,Omega24,0.03,0.08,-0.11,0.18,0.07,0.05,0,0.19,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Parkinson_Disease,Omega25,0.05,0.07,-0.07,0.18,0.07,0.05,0,0.18,Same,Arthritis : Pain,Arthritis,Pain
+Parkinson_Disease,Omega26,0.14,0.13,-0.14,0.39,0.16,0.11,0.01,0.39,Same,Asthma : Pain,Asthma,Pain
+Parkinson_Disease,Omega34,-0.06,0.06,-0.18,0.06,0.07,0.05,0,0.18,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,Omega35,-0.06,0.06,-0.18,0.07,0.07,0.05,0,0.18,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Parkinson_Disease,Omega36,-0.02,0.1,-0.2,0.17,0.08,0.06,0,0.21,Same,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,Omega45,0.09,0.08,-0.08,0.24,0.1,0.06,0,0.24,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Parkinson_Disease,Omega46,0.01,0.11,-0.19,0.23,0.09,0.07,0,0.25,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Parkinson_Disease,Omega56,0.04,0.12,-0.2,0.28,0.11,0.08,0,0.29,Same,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,Omega12,0.52,0.07,0.38,0.65,0.52,0.07,0.38,0.65,Flipped,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriasis,Omega13,0.08,0.05,-0.02,0.19,0.08,0.05,0.01,0.19,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Psoriasis,Omega14,0.22,0.07,0.08,0.36,0.22,0.07,0.08,0.36,Flipped,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriasis,Omega15,0.22,0.11,0.01,0.43,0.22,0.1,0.03,0.43,Flipped,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriasis,Omega16,0.04,0.09,-0.14,0.23,0.08,0.06,0,0.23,Flipped,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriasis,Omega23,0.41,0.07,0.28,0.54,0.41,0.07,0.28,0.54,Same,Arthritis : Pain,Arthritis,Pain
+Psoriasis,Omega24,0.38,0.08,0.23,0.52,0.38,0.08,0.23,0.52,Flipped,Anxiety : Pain,Anxiety,Pain
+Psoriasis,Omega25,0.42,0.12,0.18,0.65,0.42,0.12,0.18,0.65,Flipped,Asthma : Pain,Asthma,Pain
+Psoriasis,Omega26,0.11,0.1,-0.09,0.31,0.13,0.09,0.01,0.31,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriasis,Omega34,0.3,0.08,0.16,0.45,0.3,0.08,0.16,0.45,Flipped,Anxiety : Arthritis,Anxiety,Arthritis
+Psoriasis,Omega35,0.13,0.11,-0.07,0.35,0.14,0.09,0.01,0.35,Flipped,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,Omega36,0.14,0.12,-0.09,0.35,0.15,0.1,0.01,0.35,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Psoriasis,Omega45,0.4,0.13,0.14,0.65,0.4,0.13,0.14,0.65,Flipped,Anxiety : Asthma,Anxiety,Asthma
+Psoriasis,Omega46,0.21,0.11,0,0.42,0.21,0.1,0.03,0.42,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriasis,Omega56,0.42,0.18,0.07,0.74,0.42,0.17,0.08,0.74,Flipped,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,Omega12,0.15,0.08,0.01,0.31,0.15,0.07,0.02,0.31,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriatic_arthritis,Omega13,0.15,0.09,-0.02,0.32,0.15,0.08,0.01,0.32,Same,Anxiety : Pain,Anxiety,Pain
+Psoriatic_arthritis,Omega14,-0.14,0.1,-0.33,0.07,0.15,0.09,0.01,0.33,Same,Asthma : Pain,Asthma,Pain
+Psoriatic_arthritis,Omega15,0.02,0.1,-0.18,0.22,0.08,0.06,0,0.23,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriatic_arthritis,Omega16,0.2,0.11,-0.01,0.41,0.2,0.11,0.02,0.41,Flipped,Diabetes : Pain,Diabetes,Pain
+Psoriatic_arthritis,Omega23,-0.07,0.09,-0.25,0.12,0.09,0.07,0,0.25,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriatic_arthritis,Omega24,-0.08,0.11,-0.3,0.14,0.11,0.08,0,0.3,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriatic_arthritis,Omega25,0.13,0.12,-0.11,0.37,0.15,0.1,0.01,0.37,Flipped,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriatic_arthritis,Omega26,0.06,0.1,-0.13,0.26,0.09,0.07,0,0.26,Same,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Psoriatic_arthritis,Omega34,-0.07,0.13,-0.32,0.18,0.12,0.09,0,0.32,Same,Anxiety : Asthma,Anxiety,Asthma
+Psoriatic_arthritis,Omega35,0.04,0.14,-0.22,0.3,0.12,0.08,0,0.31,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriatic_arthritis,Omega36,0.16,0.14,-0.13,0.44,0.18,0.12,0.01,0.44,Same,Anxiety : Diabetes,Anxiety,Diabetes
+Psoriatic_arthritis,Omega45,0.05,0.14,-0.23,0.33,0.12,0.09,0.01,0.34,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,Omega46,0.09,0.15,-0.2,0.38,0.14,0.1,0.01,0.38,Same,Asthma : Diabetes,Asthma,Diabetes
+Psoriatic_arthritis,Omega56,-0.09,0.13,-0.34,0.16,0.13,0.09,0.01,0.34,Same,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega12,0.15,0.03,0.09,0.21,0.15,0.03,0.09,0.21,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega13,-0.16,0.03,-0.22,-0.1,0.16,0.03,0.1,0.22,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega14,0.33,0.03,0.26,0.39,0.33,0.03,0.26,0.39,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega15,-0.08,0.03,-0.14,-0.02,0.08,0.03,0.02,0.14,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega16,0.01,0.03,-0.06,0.07,0.03,0.02,0,0.08,Same,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega23,0.02,0.04,-0.06,0.1,0.03,0.03,0,0.1,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega24,0.05,0.03,-0.01,0.12,0.05,0.03,0,0.12,Same,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega25,-0.06,0.03,-0.12,0.01,0.06,0.03,0.01,0.12,Same,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega26,0.23,0.04,0.14,0.31,0.23,0.04,0.14,0.31,Flipped,Diabetes : Pain,Diabetes,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega34,0.31,0.05,0.21,0.4,0.31,0.05,0.21,0.4,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,Omega35,-0.08,0.04,-0.15,-0.01,0.08,0.04,0.01,0.15,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Pulmonary_Disease_Chronic_Obstructive,Omega36,-0.02,0.04,-0.1,0.06,0.04,0.03,0,0.1,Same,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega45,-0.08,0.04,-0.15,-0,0.08,0.04,0.01,0.15,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,Omega46,0.1,0.04,0.02,0.19,0.1,0.04,0.02,0.19,Flipped,Arthritis : Diabetes,Arthritis,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega56,0.05,0.04,-0.03,0.13,0.05,0.04,0,0.13,Same,Anxiety : Diabetes,Anxiety,Diabetes
+Pulmonary_Hypertension,Omega12,-0.02,0.11,-0.23,0.2,0.09,0.07,0,0.25,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Hypertension,Omega13,-0.36,0.12,-0.58,-0.13,0.36,0.12,0.13,0.58,Flipped,Asthma : Cardiovascular,Asthma,Cardiovascular
+Pulmonary_Hypertension,Omega14,-0.14,0.13,-0.4,0.11,0.16,0.11,0.01,0.4,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Hypertension,Omega15,-0.14,0.11,-0.37,0.08,0.16,0.1,0.01,0.37,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Hypertension,Omega16,-0.14,0.12,-0.37,0.09,0.15,0.1,0.01,0.37,Flipped,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Hypertension,Omega23,-0.14,0.11,-0.35,0.07,0.15,0.09,0.01,0.35,Same,Asthma : Pain,Asthma,Pain
+Pulmonary_Hypertension,Omega24,0.14,0.12,-0.09,0.39,0.15,0.1,0.01,0.39,Same,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Hypertension,Omega25,-0.09,0.1,-0.29,0.11,0.11,0.08,0.01,0.29,Same,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Hypertension,Omega26,-0.07,0.11,-0.28,0.15,0.11,0.08,0,0.29,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Hypertension,Omega34,-0.14,0.13,-0.4,0.1,0.16,0.11,0.01,0.4,Same,Arthritis : Asthma,Arthritis,Asthma
+Pulmonary_Hypertension,Omega35,-0.14,0.11,-0.35,0.08,0.15,0.09,0.01,0.35,Same,Anxiety : Asthma,Anxiety,Asthma
+Pulmonary_Hypertension,Omega36,0.01,0.11,-0.21,0.22,0.09,0.07,0,0.26,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Pulmonary_Hypertension,Omega45,-0.09,0.13,-0.33,0.18,0.13,0.09,0,0.33,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Hypertension,Omega46,0.54,0.14,0.26,0.79,0.54,0.14,0.26,0.79,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Hypertension,Omega56,-0.13,0.11,-0.35,0.09,0.14,0.1,0.01,0.35,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,Omega12,0.3,0.05,0.21,0.4,0.3,0.05,0.21,0.4,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Restless_legs_syndrome,Omega13,0.17,0.05,0.08,0.26,0.17,0.05,0.08,0.26,Same,Arthritis : Pain,Arthritis,Pain
+Restless_legs_syndrome,Omega14,0.19,0.05,0.09,0.3,0.19,0.05,0.09,0.3,Same,Anxiety : Pain,Anxiety,Pain
+Restless_legs_syndrome,Omega15,-0.07,0.06,-0.18,0.04,0.07,0.05,0,0.18,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Restless_legs_syndrome,Omega16,0.13,0.06,0.01,0.25,0.13,0.06,0.02,0.25,Same,Asthma : Pain,Asthma,Pain
+Restless_legs_syndrome,Omega23,0.3,0.04,0.21,0.38,0.3,0.04,0.21,0.38,Same,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Restless_legs_syndrome,Omega24,0.06,0.05,-0.04,0.16,0.07,0.04,0,0.16,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Restless_legs_syndrome,Omega25,-0.15,0.05,-0.25,-0.04,0.15,0.05,0.04,0.25,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Restless_legs_syndrome,Omega26,0.03,0.06,-0.09,0.15,0.05,0.04,0,0.15,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Restless_legs_syndrome,Omega34,0.04,0.05,-0.06,0.14,0.06,0.04,0,0.14,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Restless_legs_syndrome,Omega35,0.12,0.06,-0.01,0.23,0.12,0.06,0.01,0.23,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Restless_legs_syndrome,Omega36,0.01,0.06,-0.1,0.13,0.05,0.04,0,0.14,Same,Arthritis : Asthma,Arthritis,Asthma
+Restless_legs_syndrome,Omega45,0.1,0.06,-0.01,0.22,0.11,0.06,0.01,0.22,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,Omega46,0.05,0.06,-0.07,0.17,0.06,0.05,0,0.17,Same,Anxiety : Asthma,Anxiety,Asthma
+Restless_legs_syndrome,Omega56,-0.06,0.07,-0.18,0.08,0.07,0.05,0,0.18,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,Omega12,0.21,0.03,0.16,0.27,0.21,0.03,0.16,0.27,Same,Cardiovascular : Pain,Cardiovascular,Pain
+Rheumatoid_arthritis,Omega13,0.09,0.04,0.02,0.16,0.09,0.04,0.02,0.16,Same,Acid-related disease : Pain,Acid-related disease,Pain
+Rheumatoid_arthritis,Omega14,0.06,0.05,-0.03,0.15,0.06,0.04,0,0.15,Same,Asthma : Pain,Asthma,Pain
+Rheumatoid_arthritis,Omega15,0.02,0.03,-0.05,0.08,0.03,0.02,0,0.08,Same,Anxiety : Pain,Anxiety,Pain
+Rheumatoid_arthritis,Omega16,0.25,0.04,0.16,0.33,0.25,0.04,0.16,0.33,Flipped,Osteoporosis : Pain,Osteoporosis,Pain
+Rheumatoid_arthritis,Omega23,0.01,0.04,-0.06,0.08,0.03,0.02,0,0.09,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Rheumatoid_arthritis,Omega24,0.06,0.05,-0.03,0.16,0.07,0.04,0,0.16,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Rheumatoid_arthritis,Omega25,-0.04,0.04,-0.11,0.03,0.04,0.03,0,0.11,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Rheumatoid_arthritis,Omega26,0,0.04,-0.08,0.09,0.03,0.03,0,0.1,Same,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Rheumatoid_arthritis,Omega34,0.13,0.06,0.01,0.24,0.13,0.06,0.02,0.24,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,Omega35,0.01,0.05,-0.08,0.1,0.04,0.03,0,0.1,Same,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Rheumatoid_arthritis,Omega36,0.11,0.05,0,0.21,0.11,0.05,0.01,0.21,Same,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Rheumatoid_arthritis,Omega45,-0.02,0.05,-0.12,0.07,0.04,0.03,0,0.12,Same,Anxiety : Asthma,Anxiety,Asthma
+Rheumatoid_arthritis,Omega46,0.17,0.07,0.04,0.31,0.17,0.07,0.04,0.31,Flipped,Asthma : Osteoporosis,Asthma,Osteoporosis
+Rheumatoid_arthritis,Omega56,0.02,0.05,-0.08,0.12,0.04,0.03,0,0.12,Same,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Systemic_Lupus_Erythematosus,Omega12,0.25,0.06,0.12,0.37,0.25,0.06,0.12,0.37,Flipped,Cardiovascular : Pain,Cardiovascular,Pain
+Systemic_Lupus_Erythematosus,Omega13,0.08,0.06,-0.03,0.2,0.09,0.05,0,0.2,Same,Arthritis : Pain,Arthritis,Pain
+Systemic_Lupus_Erythematosus,Omega14,0.02,0.06,-0.11,0.15,0.05,0.04,0,0.15,Same,Anxiety : Pain,Anxiety,Pain
+Systemic_Lupus_Erythematosus,Omega15,0.21,0.07,0.07,0.35,0.21,0.07,0.07,0.35,Flipped,Acid-related disease : Pain,Acid-related disease,Pain
+Systemic_Lupus_Erythematosus,Omega16,-0.19,0.08,-0.34,-0.04,0.19,0.08,0.05,0.34,Same,Asthma : Pain,Asthma,Pain
+Systemic_Lupus_Erythematosus,Omega23,0.43,0.06,0.3,0.55,0.43,0.06,0.3,0.55,Flipped,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega24,0.05,0.07,-0.08,0.19,0.07,0.05,0,0.19,Same,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega25,-0.01,0.07,-0.15,0.13,0.06,0.04,0,0.16,Same,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega26,0.07,0.08,-0.08,0.23,0.09,0.06,0,0.23,Same,Asthma : Cardiovascular,Asthma,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega34,-0.17,0.07,-0.3,-0.04,0.17,0.07,0.04,0.3,Same,Anxiety : Arthritis,Anxiety,Arthritis
+Systemic_Lupus_Erythematosus,Omega35,0.26,0.06,0.15,0.37,0.26,0.06,0.15,0.37,Same,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Systemic_Lupus_Erythematosus,Omega36,-0.11,0.08,-0.26,0.04,0.11,0.07,0.01,0.26,Same,Arthritis : Asthma,Arthritis,Asthma
+Systemic_Lupus_Erythematosus,Omega45,0.15,0.08,-0,0.3,0.15,0.07,0.02,0.3,Flipped,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Systemic_Lupus_Erythematosus,Omega46,0.05,0.08,-0.09,0.2,0.07,0.05,0,0.2,Same,Anxiety : Asthma,Anxiety,Asthma
+Systemic_Lupus_Erythematosus,Omega56,0.08,0.09,-0.1,0.26,0.1,0.07,0,0.26,Same,Acid-related disease : Asthma,Acid-related disease,Asthma
