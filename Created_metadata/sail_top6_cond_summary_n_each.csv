@@ -1,0 +1,6 @@
+index_condition,1st,2nd,3rd,4th,5th,6th
+"Hypertension, Pulmonary",CV - 474,pain - 367,asthma_COPD - 195,arthritis - 149,anxiety - 147,antacids - 94
+Systemic Lupus Erythematosus,pain - 525,CV - 459,arthritis - 367,anxiety - 271,antacids - 217,asthma_COPD - 204
+Axial Spondyloarthritis,pain - 1011,CV - 753,anxiety - 352,asthma_COPD - 263,antacids - 237,diabetes - 124
+Psoriatic arthropathy,pain - 1855,CV - 1513,anxiety - 741,asthma_COPD - 552,antacids - 520,diabetes - 306
+Parkinson's disease (all),CV - 2437,pain - 2333,anxiety - 1520,antacids - 1202,arthritis - 1093,asthma_COPD - 617
