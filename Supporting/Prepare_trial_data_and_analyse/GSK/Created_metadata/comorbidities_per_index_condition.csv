@@ -1,0 +1,7 @@
+"","Asthma","Atrial_Fibrillation","Benign_Prostatic_Hyperplasia","Dementia_any","Diabetes_Mellitus_Type_2","Erectile_dysfunction","Hypertension","Inflammatory_bowel_disease","Migraine","Osteoarthritis","Osteoporosis","Psoriasis","Pulmonary_Disease_Chronic_Obstructive","Restless_legs_syndrome","Rheumatoid_arthritis","Thromboembolism"
+"1","pain","pain","CV","CV","CV","CV","pain","pain","pain","CV","pain","CV","CV","pain","pain","pain"
+"2","CV","arthritis","pain","pain","pain","pain","arthritis","CV","CV","antacids","CV","pain","pain","CV","CV","CV"
+"3","arthritis","asthma_COPD","arthritis","anxiety","arthritis","arthritis","antacids","antacids","arthritis","anxiety","arthritis","arthritis","antacids","arthritis","antacids","arthritis"
+"4","anxiety","anxiety","antacids","antacids","antacids","diabetes","anxiety","arthritis","anxiety","asthma_COPD","antacids","anxiety","arthritis","anxiety","asthma_COPD","asthma_COPD"
+"5","antacids","diabetes","asthma_COPD","schizophrenia","anxiety","antacids","asthma_COPD","anxiety","asthma_COPD","thyroid","anxiety","asthma_COPD","anxiety","antacids","anxiety","anxiety"
+"6","inflammatory","antacids","anxiety","arthritis","asthma_COPD","anxiety","diabetes","asthma_COPD","antacids","diabetes","asthma_COPD","antacids","diabetes","asthma_COPD","osteoporosis","diabetes"

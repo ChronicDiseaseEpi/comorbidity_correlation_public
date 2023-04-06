@@ -1,0 +1,107 @@
+code,str,n_code,action,note
+C02,alpha-adrenoreceptor antagonists,2,assume genitourinary,cardiovascular
+G04,alpha-adrenoreceptor antagonists,2,assume genitourinary,genitourinary
+B02,amino acids,2,remove too ambigious,
+B05,amino acids,2,remove too ambigious,
+N01,"anesthetics, local",2,"remove, irrelevant",
+R02,"anesthetics, local",2,"remove, irrelevant",
+A07,"antiallergic agents, excl. corticosteroids",3,"remove, irrelevant",
+R01,"antiallergic agents, excl. corticosteroids",3,"remove, irrelevant",
+R03,"antiallergic agents, excl. corticosteroids",3,"remove, irrelevant",
+A07,antibiotics,8,"remove, irrelevant",
+C05,antibiotics,8,"remove, irrelevant",
+D01,antibiotics,8,"remove, irrelevant",
+G01,antibiotics,8,"remove, irrelevant",
+J02,antibiotics,8,"remove, irrelevant",
+J04,antibiotics,8,"remove, irrelevant",
+R02,antibiotics,8,"remove, irrelevant",
+S01,antibiotics,8,"remove, irrelevant",
+R03,anticholinergics,2,"use route, if none, exclude",respiratory
+S01,anticholinergics,2,"use route, if none, exclude",eye
+N06,anticholinesterases,2,"exclude, cannot separate",dementia
+N07,anticholinesterases,2,"exclude, cannot separate",movement disorders
+B05,antiinfectives,4,"remove, irrelevant",
+S01,antiinfectives,4,"remove, irrelevant",
+S02,antiinfectives,4,"remove, irrelevant",
+S03,antiinfectives,4,"remove, irrelevant",
+S01,antiinflammatory agents,2,"remove, irrelevant",
+V10,antiinflammatory agents,2,"remove, irrelevant",
+D06,antivirals,2,"remove, irrelevant",
+S01,antivirals,2,"remove, irrelevant",
+G01,arsenic compounds,2,"remove, irrelevant",
+P01,arsenic compounds,2,"remove, irrelevant",
+N01,"barbiturates, plain",2,"as N05, since GA not used in trial",general anaesthetic
+N05,"barbiturates, plain",2,"as N05, since GA not used in trial",sedatives
+N03,benzodiazepine derivatives,2,"remove, unable to separate",antiepileptics
+N05,benzodiazepine derivatives,2,"remove, unable to separate",psycholeptics
+C07,beta blocking agents,2,"use route, if none, exclude",cardiovascular
+S01,beta blocking agents,2,"use route, if none, exclude",eye
+A10,biguanides,2,"as A10, use as antimalarial low probability",diabetes
+P01,biguanides,2,"as A10, use as antimalarial low probability",antimalarial
+C,cardiovascular system,2,"as C, radiopharmaceuticals rare",cardiovascular
+V09,cardiovascular system,2,"as C, radiopharmaceuticals rare",diagnostic radiopharmaceuticals
+C05,corticosteroids,4,"remove, irrelevant",cardiovascular
+R01,corticosteroids,4,"remove, irrelevant",nasal
+S02,corticosteroids,4,"remove, irrelevant",eye
+S03,corticosteroids,4,"remove, irrelevant",eye
+S01,corticosteroids and antiinfectives in combination,3,"remove, irrelevant",eye
+S02,corticosteroids and antiinfectives in combination,3,"remove, irrelevant",eye
+S03,corticosteroids and antiinfectives in combination,3,"remove, irrelevant",eye
+D07,"corticosteroids, plain",2,"remove, irrelevant",skin
+S01,"corticosteroids, plain",2,"remove, irrelevant",eye
+S01,diagnostic agents,2,"remove, irrelevant",eye
+V04,diagnostic agents,2,"remove, irrelevant",diagnostics
+A16,enzymes,6,remove too ambigious,
+B01,enzymes,6,remove too ambigious,
+B06,enzymes,6,remove too ambigious,
+C04,enzymes,6,remove too ambigious,
+D03,enzymes,6,remove too ambigious,
+M09,enzymes,6,remove too ambigious,
+C04,ergot alkaloids,3,"remove, irrelevant",cardiovascular
+G02,ergot alkaloids,3,"remove, irrelevant",genitourinary
+N02,ergot alkaloids,3,"remove, irrelevant",neurological
+A14,estren derivatives,2,"remove, irrelevant",
+G03,estren derivatives,2,"remove, irrelevant",
+G03,estrogens,2,"remove, irrelevant",
+L02,estrogens,2,"remove, irrelevant",
+J01,fluoroquinolones,2,"remove, irrelevant",
+S01,fluoroquinolones,2,"remove, irrelevant",
+H02,glucocorticoids,2,"use route, if none, exclude",
+R03,glucocorticoids,2,"use route, if none, exclude",
+A07,imidazole derivatives,4,"remove, irrelevant",
+G01,imidazole derivatives,4,"remove, irrelevant",
+J01,imidazole derivatives,4,"remove, irrelevant",
+J02,imidazole derivatives,4,"remove, irrelevant",
+V09,iodine (131i) compounds,2,"remove, irrelevant",
+V10,iodine (131i) compounds,2,"remove, irrelevant",
+C05,local anesthetics,3,"remove, irrelevant",
+N01,local anesthetics,3,"remove, irrelevant",
+S01,local anesthetics,3,"remove, irrelevant",
+C05,muscle relaxants,2,"remove, irrelevant",
+M03,muscle relaxants,2,"remove, irrelevant",
+C04,nicotinic acid and derivatives,2,"leave as C04, nakes no difference to diagnosis",
+C10,nicotinic acid and derivatives,2,"leave as C04, nakes no difference to diagnosis",
+D08,nitrofuran derivatives,3,"remove, irrelevant",
+J01,nitrofuran derivatives,3,"remove, irrelevant",
+P01,nitrofuran derivatives,3,"remove, irrelevant",
+N07,parasympathomimetics,2,"use route, if none, exclude",
+S01,parasympathomimetics,2,"use route, if none, exclude",
+G03,progestogens,2,"remove, irrelevant",
+L02,progestogens,2,"remove, irrelevant",
+A02,prostaglandins,3,"remove, irrelevant",
+C01,prostaglandins,3,"remove, irrelevant",
+G02,prostaglandins,3,"remove, irrelevant",
+D08,quinoline derivatives,2,"remove, irrelevant",
+G01,quinoline derivatives,2,"remove, irrelevant",
+R,respiratory system,2,as R,
+V09,respiratory system,2,as R,
+A07,sulfonamides,4,"remove, irrelevant",
+D06,sulfonamides,4,"remove, irrelevant",
+G01,sulfonamides,4,"remove, irrelevant",
+S01,sulfonamides,4,"remove, irrelevant",
+G01,triazole derivatives,2,"remove, irrelevant",
+J02,triazole derivatives,2,"remove, irrelevant",
+A11,vitamins,2,"remove, irrelevant",
+B05,vitamins,2,"remove, irrelevant",
+C03,xanthine derivatives,2,"ignore, rarely used",
+N06,xanthine derivatives,2,"ignore, rarely used",

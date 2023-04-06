@@ -1,0 +1,159 @@
+﻿,Cohort,Type of condition,nct_id,Indication,Pain,CV,Arthritis,Affective,Acid-related,Airways,Diabetes,Osteoporosis,Thyroid,Thromboembolic,Inflammatory,BPH,Gout,Glaucoma,Urological,ED,Antipsychotics,Epilepsy,Migraine,Parkinson,Dementia
+1,TRIAL,Cardiovascular,NCT00262600,Atrial Fibrillation,11.9,,11.5,13.7,5.2,9.7,19.7,3.7,9.9,,5.8,4.4,6.8,2.7,1.6,1.4,0.8,1.1,0.3,1.3,0.9
+2,UKB,Cardiovascular,,Atrial Fibrillation,24.2,,14.2,8.3,3.5,10.4,8.7,2.6,6.8,,3.3,4.3,5,1.5,1.5,1.4,0.5,1.3,0.8,0.3,0.1
+3,SAIL,Cardiovascular,,Atrial Fibrillation,53.2,,23.3,18.4,14,21,14.8,9.8,12.5,,8.2,9.1,9.2,5.9,4,3.1,2,1.9,0.7,1.4,0.4
+4,TRIAL,Cardiovascular,NCT00734474,"Diabetes Mellitus, Type 2",12.6,64.3,15.9,11.1,11.6,3.7,,0.5,9.2,0.3,4.1,2.9,2.6,1.4,0.3,2.7,0.7,1.1,0.4,0.7,0.9
+5,TRIAL,Cardiovascular,NCT00856284,"Diabetes Mellitus, Type 2",7.4,31,7.4,4.8,4.9,2.6,,0.7,2,0.4,1.1,1.1,0.8,0.5,0.3,0.8,0.3,0.2,0.1,0.1,0
+6,TRIAL,Cardiovascular,NCT00968708,"Diabetes Mellitus, Type 2",30.5,93.7,9.5,28.3,1.9,7.4,,0.2,2.7,7.6,7,3.3,2.7,18.5,0.5,0.6,1.2,0.9,1.2,1.5,0.4
+7,TRIAL,Cardiovascular,NCT00968812,"Diabetes Mellitus, Type 2",31,22,27,25,32,7,,4,15,4,6,10,7,8,1,11,5,8,2,3,1
+8,TRIAL,Cardiovascular,NCT01064687,"Diabetes Mellitus, Type 2",22.1,74,27.8,19,11.3,10.6,,0.7,9.5,2.1,6.6,3.1,2.1,3.2,1.1,6.7,0.6,1.2,1.6,1,0.2
+9,TRIAL,Cardiovascular,NCT01075282,"Diabetes Mellitus, Type 2",21.6,66.9,22.2,9.2,7.2,3.3,,1,7.5,0.8,2.7,1.9,2.3,3.1,0.5,0.8,0.6,0.7,0.1,0.5,0.2
+10,TRIAL,Cardiovascular,NCT01081834,"Diabetes Mellitus, Type 2",4,27,6,26,28,10,,6,13,1,7,12,1,8,6,6,1,2,1,1,1
+11,TRIAL,Cardiovascular,NCT01106625,"Diabetes Mellitus, Type 2",3,16,26,29,24,5,,1,12,7,4,3,7,4,1,12,1,1,3,4,1
+12,TRIAL,Cardiovascular,NCT01106651,"Diabetes Mellitus, Type 2",30,23,19,28,26,11,,2,16,7,5,15,11,9,7,16,1,9,2,5,1
+13,TRIAL,Cardiovascular,NCT01106677,"Diabetes Mellitus, Type 2",29,20,24,24,22,5,,2,10,5,5,6,11,4,4,11,2,10,2,3,1
+14,TRIAL,Cardiovascular,NCT01106690,"Diabetes Mellitus, Type 2",2,21,3,32,14,14,,3,22,4,3,13,7,7,4,15,4,3,1,1,1
+15,TRIAL,Cardiovascular,NCT01126580,"Diabetes Mellitus, Type 2",18.2,62.7,18.2,12.3,8.1,6.8,,1.1,8.4,1.5,2.6,1.2,3.6,2.9,0.9,0.6,1.7,0.6,1,1.5,0.2
+16,TRIAL,Cardiovascular,NCT01137812,"Diabetes Mellitus, Type 2",29,29,25,27,33,7,,2,14,3,2,9,12,5,3,11,6,13,1,6,1
+17,TRIAL,Cardiovascular,NCT01191268,"Diabetes Mellitus, Type 2",25.6,79.7,25.6,16.5,10.9,6.6,,0.8,10.3,2.4,3.5,2.4,3.4,5,1,3,1.7,1.6,0.8,0.6,0.2
+18,TRIAL,Cardiovascular,NCT01370005,"Diabetes Mellitus, Type 2",15.4,,11.8,7.6,8.7,7,,0.6,9.3,3.5,2.9,2.1,3.8,5,1.1,2.2,0.4,0.8,0.4,1,0
+19,TRIAL,Cardiovascular,NCT01624259,"Diabetes Mellitus, Type 2",19.5,69.8,20.9,8.8,7.3,5.7,,0.2,7.8,2,3.2,2.5,4.7,3.3,0.3,1.3,0.7,0.7,1.3,1.2,0
+20,TRIAL,Cardiovascular,NCT01719003,"Diabetes Mellitus, Type 2",3.7,17,4.1,1.1,2,1.8,,0.2,0.7,0,1.3,0.7,0.6,0.4,0.2,0.4,0.1,0.3,0.1,0.1,0
+21,TRIAL,Cardiovascular,NCT01769378,"Diabetes Mellitus, Type 2",7,65.7,12,6,4.3,2.7,,0,6.7,2.7,1.7,2,2.7,2.3,0,0,0,0.3,0.3,0.7,0
+22,UKB,Cardiovascular,,"Diabetes Mellitus, Type 2",26.2,67.1,17.9,10.2,7.1,9.8,,1.4,6.6,2.8,2.9,3.1,4.1,1.9,1.8,3.3,1.2,1.1,0.7,0.4,0
+23,SAIL,Cardiovascular,,"Diabetes Mellitus, Type 2",50.5,80.9,29.1,23,25,19.7,,4.5,10.8,7,8.7,5.9,5.5,4.3,4,8.7,2.6,1.8,1.2,1.2,0.2
+24,TRIAL,Cardiovascular,NCT00153023,"Diabetes Mellitus, Type 2 (with renal disease)",12.3,0,4.4,8,9.3,2.7,,0.1,4.7,4.1,2.1,15.7,21.2,13.9,0.7,0.8,0.7,1.5,3.6,0.3,1.5
+25,TRIAL,Cardiovascular,NCT00153088,"Diabetes Mellitus, Type 2 (with renal disease)",5.5,66,21.1,7.2,11.2,3.8,,0.6,1.3,0.2,1.7,8.7,6.5,7.4,1.1,2.1,0.8,0.8,0.4,0.8,0
+26,TRIAL,Cardiovascular,NCT01164501,"Diabetes Mellitus, Type 2 (with renal disease)",4.5,13.5,2.4,0.8,2.6,0.8,,0.1,0.1,0.4,0.7,0.8,0.7,0.8,0.1,0,0.1,0,0.3,0.1,0
+27,TRIAL,Cardiovascular,NCT00274599,Hypertension,23.8,,28.4,12.4,7.6,9.7,6.8,1.5,3.6,0.1,5.3,2.6,2.5,1.1,0.5,1.4,0.9,1.2,1.4,0.1,0.4
+28,TRIAL,Cardiovascular,NCT00274612,Hypertension,16.4,,17,10.2,8.2,4.7,3.5,0.4,3.6,0.4,5.5,2.7,3.9,0.9,0.1,0.2,0.4,0.1,1,0.1,0.7
+29,TRIAL,Cardiovascular,NCT00926289,Hypertension,7.7,,5.6,4.7,3.3,3.3,9.5,0.8,2.1,0.7,0.6,1.3,1.5,2.7,0.3,0.4,0.1,0.2,1.6,0.1,0.2
+30,TRIAL,Cardiovascular,NCT02172586,Hypertension,0,,3,6.6,1.1,0.3,1.4,0,1.1,0,0.3,3.9,1.1,0.6,0,0,0,0,0,0,0
+31,TRIAL,Cardiovascular,NCT02175355,Hypertension,8.8,,13.5,7.6,5.9,4.6,5.4,1.3,2.6,0.8,3.8,1.8,1.8,1.3,0.3,0,0.5,0.2,0.4,0.4,0.2
+32,TRIAL,Cardiovascular,NCT02177396,Hypertension,14.8,,18.1,9.4,5.9,4.7,7.5,0.5,3.5,0,2.1,4.5,1.2,0.9,0.2,0.5,0,0.5,0.2,0.2,1.4
+33,TRIAL,Cardiovascular,NCT02177461,Hypertension,2.4,,2.9,6.1,1.9,1.6,1.6,0.5,1.1,0,0.3,3.2,1.6,0.5,0,0,1.3,0.3,0.3,0.5,0
+34,TRIAL,Cardiovascular,NCT02242318,Hypertension,10.8,,11,9.6,4.3,6.5,5.4,0.4,2.7,0,4.9,1.1,4.3,0.9,0,0,0.2,0.4,1.6,0.7,0.2
+35,UKB,Cardiovascular,,Hypertension,25.8,,21.1,8.5,8.9,9,9.3,1.9,5.6,2,2.6,2.1,2.7,1.4,1.3,1.1,0.7,1,1.2,0.3,0
+36,SAIL,Cardiovascular,,Hypertension,46,,30.2,19.1,22.9,17.9,16.5,6.2,9.8,6.5,7,5,5.1,4.4,3.4,3.9,1.6,1.7,1.4,0.9,0.2
+37,TRIAL,Cardiovascular,NCT00291330,Thromboembolism,34.5,44.5,25.8,15.4,0,9.4,6.9,2.3,6.1,,6.4,3,2.6,3,0.7,0.9,1.7,2,0.6,1.2,0.4
+38,TRIAL,Cardiovascular,NCT00329238,Thromboembolism,11.3,38.7,6.1,10.1,5,5.5,7.1,1.7,5.1,,4.1,3.5,3.6,2.7,0.5,0.9,1.3,1.8,0.6,0.7,0.2
+39,TRIAL,Cardiovascular,NCT00558259,Thromboembolism,7.7,39.2,6.2,9.8,13,6.4,6.1,1.9,5.8,,4.1,4.2,3.7,2.7,0.6,0.3,1,1.6,1,0.8,0.6
+40,TRIAL,Cardiovascular,NCT00680186,Thromboembolism,29,42,23.2,13.6,0.1,8.7,8.8,1.7,5.4,,5.4,3.6,2.2,4,0.5,1,1,1.2,0.6,1.3,1.5
+41,UKB,Cardiovascular,,Thromboembolism,33.1,32.4,22.9,11.2,9.8,11.2,6.7,3.9,6.3,,3.6,1.8,2.2,1.3,2,0.8,0.9,1.9,1.7,0.5,0
+42,SAIL,Cardiovascular,,Thromboembolism,61.7,61.6,26.1,23.5,0,24.9,12.6,10.8,10.5,,11.6,6.2,6.6,4,4.6,3,2.5,3.3,1.6,1.1,0.3
+43,TRIAL,Inflammatory,NCT00265096,"Arthritis, Psoriatic",18,13,,9,21,25,26,16,27,9,,5,14,6,4,7,4,11,3,1,1
+44,TRIAL,Inflammatory,NCT01009086,"Arthritis, Psoriatic",32,37,,1,23,3,12,9,19,5,,4,8,1,1,5,1,4,1,1,1
+45,TRIAL,Inflammatory,NCT01077362,"Arthritis, Psoriatic",12,2,,4,31,8,18,17,4,7,,1,13,7,1,1,7,11,1,1,1
+46,SAIL,Inflammatory,,"Arthritis, Psoriatic",55,45.4,,21.6,15.8,16.5,9.1,5.6,7.8,3,,2.4,3.7,1.9,2.4,2.4,1.4,1.8,2.4,0.5,0.1
+47,TRIAL,Inflammatory,NCT00106535,"Arthritis, Rheumatoid",37.4,32.6,,13.4,0,4.3,7.3,13.2,12.4,0.9,,1,0.8,1.7,0.7,0,0.1,0.9,0.9,0.7,0.5
+48,TRIAL,Inflammatory,NCT00144508,"Arthritis, Rheumatoid",8.2,21.9,,6.2,7.5,2.3,5.2,8.5,2.3,0,,0.7,1,0,0.7,0,0.3,0.3,0.3,0,0
+49,TRIAL,Inflammatory,NCT00236028,"Arthritis, Rheumatoid",16,14,,4,34,17,20,16,8,9,,9,13,3,3,5,8,8,5,2,1
+50,TRIAL,Inflammatory,NCT00264537,"Arthritis, Rheumatoid",20,12,,3,30,22,17,22,32,1,,3,9,6,3,3,10,16,2,4,1
+51,TRIAL,Inflammatory,NCT00264550,"Arthritis, Rheumatoid",22,15,,6,35,14,17,29,34,11,,2,8,8,3,3,3,10,6,3,1
+52,TRIAL,Inflammatory,NCT00299546,"Arthritis, Rheumatoid",28,33,,21,5,26,28,15,17,13,,7,10,11,10,6,10,14,14,8,1
+53,TRIAL,Inflammatory,NCT00361335,"Arthritis, Rheumatoid",27,19,,8,36,20,23,12,9,9,,8,6,13,3,3,6,18,8,10,1
+54,TRIAL,Inflammatory,NCT00973479,"Arthritis, Rheumatoid",6,10,,19,29,8,11,25,21,5,,2,12,3,1,1,3,4,1,1,1
+55,TRIAL,Inflammatory,NCT01007435,"Arthritis, Rheumatoid",31.4,23.9,,9,0.1,5.3,5.5,2.5,9.4,0.8,,0.7,1.3,0.7,0.4,0.4,0.2,0.5,0.6,0.1,0.1
+56,TRIAL,Inflammatory,NCT01119859,"Arthritis, Rheumatoid",46.9,41.4,,19.3,0,7.7,10.1,7.7,12.9,1.5,,1.8,0.3,0.9,1.5,0.3,0.9,0.6,0.6,0.3,0.3
+57,TRIAL,Inflammatory,NCT01232569,"Arthritis, Rheumatoid",32,33.1,,14.3,12,4.4,8.1,11,8.5,0.5,,0.2,0.2,1.1,0.3,0.2,0.6,0.6,0.5,0.2,0.9
+58,UKB,Inflammatory,,"Arthritis, Rheumatoid",50,32.7,,11.6,13.5,12,5.9,8.4,7.8,1.8,,1.4,1.8,1.2,2,0.6,0.7,1.1,2.2,0.3,0
+59,SAIL,Inflammatory,,"Arthritis, Rheumatoid",66,51.9,,20.7,22,21.3,8.9,20,11.7,4.9,,2.8,2.5,3.2,3.8,1.6,1.5,1.5,2.4,0.9,0.2
+60,TRIAL,Inflammatory,NCT00036439,Inflammatory bowel disease,17,6,14,7,17,14,21,25,29,1,,14,7,9,4,4,1,3,1,1,1
+61,TRIAL,Inflammatory,NCT00094458,Inflammatory bowel disease,19,36,2,31,13,1,3,6,5,6,,5,3,1,3,3,8,9,1,1,1
+62,TRIAL,Inflammatory,NCT00096655,Inflammatory bowel disease,21,3,21,10,8,6,22,26,33,12,,14,7,11,4,10,7,3,9,1,1
+63,TRIAL,Inflammatory,NCT00207662,Inflammatory bowel disease,25,4,16,16,16,12,5,19,31,9,,4,9,5,3,1,7,12,13,1,1
+64,TRIAL,Inflammatory,NCT00207766,Inflammatory bowel disease,23,5,23,12,11,21,12,24,18,5,,1,10,5,5,1,5,4,8,1,1
+65,TRIAL,Inflammatory,NCT00487539,Inflammatory bowel disease,14,9,22,2,18,15,15,13,26,7,,11,4,9,2,2,4,10,10,1,1
+66,TRIAL,Inflammatory,NCT00488631,Inflammatory bowel disease,10,8,20,2,19,13,16,13,11,8,,6,6,8,2,2,5,15,6,1,1
+67,TRIAL,Inflammatory,NCT00783718,Inflammatory bowel disease,20.8,12.1,4.9,11.3,23.7,2.7,4.2,3.6,5.1,0.7,,0.9,0.8,0.4,0.2,0.1,1,0.2,0.4,0.9,0
+68,TRIAL,Inflammatory,NCT01224171,Inflammatory bowel disease,33.7,10.8,6,16.6,33.7,4.1,1.4,4.1,3.4,1,,0.5,0.5,1.2,0,0.2,1.7,1,1.9,0.7,0
+69,TRIAL,Inflammatory,NCT01369329,Inflammatory bowel disease,15,24,15,4,7,2,2,14,3,4,,1,6,3,1,3,8,2,3,1,1
+70,TRIAL,Inflammatory,NCT01369342,Inflammatory bowel disease,11,26,18,30,10,5,7,7,1,5,,6,9,1,3,3,3,9,4,1,1
+71,TRIAL,Inflammatory,NCT01369355,Inflammatory bowel disease,13,25,16,34,9,4,4,11,2,5,,3,7,2,2,3,6,5,4,1,1
+72,UKB,Inflammatory,,Inflammatory bowel disease,33.5,29.7,21.4,13.1,15.6,11.3,6.8,4.5,6,2.1,,2,1.6,1.2,1.8,0.9,0.9,1.4,2,0.4,0
+73,SAIL,Inflammatory,,Inflammatory bowel disease,40.3,34.6,23.1,20.5,23.5,16.5,6.8,7.7,6.2,3.1,,3,2.2,2.2,2.2,2.6,1.5,1.5,2.5,0.7,0.1
+74,TRIAL,Inflammatory,NCT00267969,Psoriasis,9,17,8,5,25,16,8,3,23,4,,13,8,12,1,9,1,17,11,1,1
+75,TRIAL,Inflammatory,NCT00307437,Psoriasis,8,18,7,14,27,19,9,5,28,10,,16,17,5,5,8,10,11,5,9,1
+76,TRIAL,Inflammatory,NCT01358578,Psoriasis,2.1,1.3,3.1,0.8,0.7,0.1,0.2,0,0.1,0.1,,0.1,0.2,0,0,0,0,0,0,0,0
+77,TRIAL,Inflammatory,NCT01365455,Psoriasis,3.4,2.4,5.7,1.4,0.3,11.5,0.5,0,0.1,0.1,,0.3,0.3,0,0,0,0.3,0.1,0.3,0.1,0
+78,TRIAL,Inflammatory,NCT01474512,Psoriasis,33.6,33.7,36.2,14.4,6.9,8.7,10.8,0.5,7.1,1.2,,1.6,1.5,0.8,0.5,0.5,1.5,0.9,0.8,0.8,0
+79,TRIAL,Inflammatory,NCT01597245,Psoriasis,37.1,28.1,38.2,14.1,5.6,8.6,9.2,0.3,5.5,1.1,,1.4,2.1,0.5,0.4,0.9,2.4,1.3,0.7,0.2,0
+80,TRIAL,Inflammatory,NCT01646177,Psoriasis,21.3,29.3,23.9,10,6.9,5.6,10.2,0.2,5.6,1.5,,1.3,2.5,0.6,0.1,0.4,1.3,1,0.5,0.4,0
+81,UKB,Inflammatory,,Psoriasis,27.7,26.9,26.8,9.1,8.2,8.3,5.5,1.8,4.2,1.3,,1.8,1.8,1.3,1.3,0.8,0.8,0.9,1.3,0.3,0
+82,SAIL,Inflammatory,,Psoriasis,32.5,35.7,27.1,18.6,14,15,6.9,3,6,2.4,,2,2.1,1.7,1.9,2,1.6,1.4,1.9,0.6,0.1
+83,TRIAL,Inflammatory,NCT00410384,Systemic Lupus Erythematosus,69,45,57.5,34.9,14.6,13.7,5,19.6,12.5,10.8,,0.2,2.4,2.9,1.3,0.5,1.6,0,5.4,1.5,0.1
+84,TRIAL,Inflammatory,NCT00424476,Systemic Lupus Erythematosus,55.9,41.9,46,19.1,17.1,7.8,2.8,7.5,8.4,5.2,,0.1,2.2,1.7,0.3,0.2,1.5,0,1.5,0.1,0
+85,UKB,Inflammatory,,Systemic Lupus Erythematosus,44.2,32.5,31.4,16.3,16.2,12.3,4.7,13.5,11.7,7,,0.4,1,1,2.3,0.1,1.2,1.9,2.1,0.7,0
+86,SAIL,Inflammatory,,Systemic Lupus Erythematosus,57.6,51.9,38.1,28.6,24.5,22.1,5,21.2,14.5,9.8,,0.8,1.3,2,3.8,1.4,1.5,3.5,5,0.9,0.3
+87,TRIAL,Musculoskeletal,NCT00265083,Axial Spondyloarthritis,26,7,,11,20,23,13,21,20,7,,6,16,10,4,13,7,12,12,4,1
+88,TRIAL,Musculoskeletal,NCT01209702,Axial Spondyloarthritis,13.7,20.6,,12.7,0,6.9,2.9,3.9,4.9,0,,1,0,2,0,0,1,2,0,0,1
+89,UKB,Musculoskeletal,,Axial Spondyloarthritis,45,30.8,,11.5,9.5,9.9,4.5,3.8,4.3,2.2,,2.2,2,1.4,1.7,0.8,0.5,1.3,1.1,0.5,0
+90,SAIL,Musculoskeletal,,Axial Spondyloarthritis,55,41.8,,19.4,13.9,14.7,7.1,5.3,4,2.8,,5.4,2.7,2.2,2.3,3.6,1.1,1.2,1.7,0.4,0.2
+91,TRIAL,Musculoskeletal,NCT02183064,Osteoarthritis,,52.2,,28.7,24.1,15.1,8,6.1,14.1,1.1,8.9,4.8,2.2,3.3,2,0.2,0.6,1.4,2.1,1.4,1.9
+92,UKB,Musculoskeletal,,Osteoarthritis,,31.9,,10.9,10.1,10.6,5.4,3,6.1,1.6,3,1.9,1.9,1.2,1.9,0.7,0.7,1.1,2,0.4,0
+93,SAIL,Musculoskeletal,,Osteoarthritis,,60.3,,22,23.4,20.1,10.5,7.9,10.7,5.7,7.7,5.1,3.8,4,4.5,2.9,1.7,1.8,2.1,1.3,0.3
+94,TRIAL,Musculoskeletal,NCT00046254,Osteoporosis,42.8,58.4,17.8,30.9,15,9.9,13.7,,8.8,9.9,7.4,1.9,1.7,4.9,2.5,0.1,5.5,2.4,0.7,3,4
+95,TRIAL,Musculoskeletal,NCT00049829,Osteoporosis,16.2,49.9,24.8,15.4,13.1,6.9,4.9,,11.2,1.7,4.7,0.6,0.7,3.5,1.3,0.1,1,1.2,1,1.1,1.8
+96,TRIAL,Musculoskeletal,NCT00051558,Osteoporosis,30.8,51.7,55.9,21,38.7,16.1,5.8,,14,2.6,90.9,1.9,1.2,1.6,0.5,0.7,1.9,3.5,1.2,0.7,2.1
+97,TRIAL,Musculoskeletal,NCT00100620,Osteoporosis,21.1,47.5,47.3,14.2,32.9,11,6.6,,5.6,3.7,77.2,2.2,2.5,4.9,0.7,0.2,1.1,1.8,0.8,1,1
+98,TRIAL,Musculoskeletal,NCT00439244,Osteoporosis,34,49.5,30.8,19.7,16.3,10.4,4.9,,16,2.2,7,0,1.2,5.3,3.2,0,2.9,1,2.4,1.5,1.5
+99,TRIAL,Musculoskeletal,NCT00439647,Osteoporosis,15,45.1,17.1,10.6,13.5,12.5,7.1,,3.2,5.4,7.8,8.8,3.1,3.1,1.3,0.4,1,1.4,0.4,1.6,0.4
+100,TRIAL,Musculoskeletal,NCT00670501,Osteoporosis,26,47.2,20.2,16.4,77.3,10.2,3.3,,15,0.1,4.9,1,0.3,8.3,0.6,0.1,0.8,1.8,1.3,1.6,0.6
+101,UKB,Musculoskeletal,,Osteoporosis,32.7,25.2,24.5,11.7,36.1,13.1,3.2,,8,1.7,5.7,1,0.8,1.4,2.1,0.5,0.7,2,2.4,0.5,0
+102,SAIL,Musculoskeletal,,Osteoporosis,59.7,57.5,32.4,24.3,30.9,24.1,6.7,,14.4,6.5,11.7,2,1.9,5.2,5.5,0.8,2.4,2.8,2,1.7,0.6
+103,TRIAL,Neurological,NCT00216593,Dementia,24,32,17,33,15,18,27,18,34,15,8,5,14,14,13,1,,21,1,11,
+104,TRIAL,Neurological,NCT00236431,Dementia,7,30,9,18,3,21,24,27,6,14,10,18,15,15,12,14,,7,7,4,
+105,TRIAL,Neurological,NCT00236574,Dementia,5,31,10,22,6,24,25,28,7,16,9,17,16,16,11,9,,5,4,6,
+106,TRIAL,Neurological,NCT00348140,Dementia,30.4,45.6,29.4,31.4,6.9,1.8,2.1,5.5,8.3,2.8,2.1,3.5,2,1.8,2,0.5,,0,0.3,1.3,
+107,TRIAL,Neurological,NCT00348309,Dementia,27.7,45.7,25.7,36.3,5.5,1.7,2.1,5.5,7.5,2.7,2,4.6,1.9,2.3,3.1,0.1,,0,0.5,1.9,
+108,TRIAL,Neurological,NCT00423085,Dementia,3.1,46.2,14.2,19.8,19.4,2.4,9,1.7,1,0.7,3.1,3.8,2.4,2.4,5.2,0,,2.1,0,2.1,
+109,TRIAL,Neurological,NCT00428090,Dementia,18.4,38.2,19.4,16.4,3.1,0.7,2.1,1.9,3.6,0.9,1.2,2.9,0.9,1.2,0.9,0.2,,0,1,0.3,
+110,UKB,Neurological,,Dementia,30.7,29.7,21.9,26,7.8,10.9,6.2,2.6,4.7,3.1,2.1,4.2,0.5,4.2,3.1,0.5,,7.3,2.1,4.2,
+111,SAIL,Neurological,,Dementia,50.9,50.7,18.3,48.4,27.3,12,9.7,14.7,13,3.9,7.5,5.4,1.9,6.4,5.3,0.5,,3.2,0.4,1.8,
+112,TRIAL,Neurological,NCT00210912,Migraine,,11,4,23,12,6,10,8,25,1,11,9,5,1,8,5,5,19,,5,1
+113,TRIAL,Neurological,NCT00212810,Migraine,,35,5,20,4,27,14,10,34,2,9,2,2,2,9,2,9,6,,7,1
+114,TRIAL,Neurological,NCT00231595,Migraine,,1,12,15,1,28,19,23,30,1,11,1,19,1,15,1,1,22,,13,1
+115,TRIAL,Neurological,NCT00236509,Migraine,,34,13,17,2,9,20,20,26,1,12,1,18,1,14,1,1,16,,12,1
+116,TRIAL,Neurological,NCT00236561,Migraine,,28,11,13,26,4,6,1,24,1,1,1,1,12,11,1,11,20,,1,1
+117,UKB,Neurological,,Migraine,,21.4,35.6,11,9.4,8.4,1.8,2.1,5.3,0.8,1.8,0.8,0.5,0.7,1.4,0.3,0.6,1.9,,0.2,0
+118,SAIL,Neurological,,Migraine,,40.8,39.3,28.3,14.5,18.7,2.6,1.9,7.3,0.9,6.1,0.8,0.5,0.8,2.6,0.9,1.7,4.7,,0.5,0
+119,TRIAL,Neurological,NCT00402233,Parkinson's disease,15.4,61.7,27,22.8,18.6,5.5,15.4,7.7,11.9,2.6,2.9,10.9,3.2,4.8,3.9,2.9,0.6,4.2,2.3,,1
+120,TRIAL,Neurological,NCT00466167,Parkinson's disease,3.5,29.5,6.2,22.8,8.9,1,6.2,0.6,2.5,0.4,0.8,3.7,0.8,3.7,1,0.2,1,0.8,0.4,,1
+121,TRIAL,Neurological,NCT00479401,Parkinson's disease,4.8,46.2,9.8,17.6,10.8,2.8,8.5,1.5,5.9,0.9,1.7,3,1.9,2.8,2.4,0.4,0.4,0.9,0.2,,0.7
+122,UKB,Neurological,,Parkinson's disease,24.7,31.4,20,14.6,9.7,8.5,4.4,3.8,4.9,1.4,1.3,5.1,1.5,1.3,7.7,5.7,1.7,4,0.8,,0.9
+123,SAIL,Neurological,,Parkinson's disease,57,58,25.4,35.3,30,14.4,11,12.1,10.1,6.2,7.7,11.3,3,5.9,9.9,5.1,8,6.3,0.6,,3.9
+124,TRIAL,Neurological,NCT00133198,Restless legs syndrome,30.4,44.3,44.1,7.8,14.2,9.3,2,4.3,18.8,0.9,7.5,2.6,0.9,1.2,0.6,1.4,0,0.6,3.2,,0.6
+125,TRIAL,Neurological,NCT00472199,Restless legs syndrome,20.2,40.5,21.8,10,10.6,12.4,4.5,5.1,8.5,1.8,7.3,5.1,2.1,2.1,0.9,0.6,0.6,1.2,1.5,,0.6
+126,SAIL,Neurological,,Restless legs syndrome,62.2,57.2,41.6,35.1,27.5,23.2,10.1,8.7,12.9,5,9.3,4.5,2.7,3.6,5.6,2.3,2.3,6.1,4,,0.1
+127,TRIAL,Respiratory,NCT01159912,Asthma,20.3,13.2,17.5,4.3,6,,4.3,0.6,2.3,0.3,2.9,0,0.9,0.6,0,0,0.9,0,1.1,0,0
+128,TRIAL,Respiratory,NCT01181895,Asthma,10.4,17.3,9.2,3.2,4,,2.9,0.6,3.7,0,1.2,1.2,0.6,0,0.6,0,0,0,1.2,0,0
+129,TRIAL,Respiratory,NCT01436110,Asthma,6.8,7.7,5.7,2.3,3.1,,3.4,0.3,1.7,0,0.6,0.6,0,0,0.3,0,0.3,0,0,0,0
+130,TRIAL,Respiratory,NCT01691521,Asthma,13.6,23.8,8.6,11.6,23.6,,8.6,7.4,5.5,0.2,23.6,2.6,1.2,1,0.7,0.2,1,0.5,0.7,0.5,0
+131,UKB,Respiratory,,Asthma,29.3,23.2,23.2,11.2,10.8,,4.7,2.4,5,1.2,3.5,1.5,1.2,1,1.3,0.6,0.8,1.1,1.8,0.3,0
+132,SAIL,Respiratory,,Asthma,39.5,35.5,25.4,21,18.3,,6.5,4.5,6.4,2.8,6.6,2.4,2,1.7,2.3,1.7,1.7,1.7,2.6,0.6,0.1
+133,TRIAL,Respiratory,NCT00125918,"Hypertension, Pulmonary",22.2,39.7,13.8,26.8,27.6,17.5,9.4,6.9,19,,17.7,2.2,7.6,2.7,1,0.2,2,2.2,2,1,0.2
+134,UKB,Respiratory,,"Hypertension, Pulmonary",38.9,67.3,10.9,14.2,7.1,16.1,12.8,7.1,9,,8.5,2.8,8.1,0.9,0.9,3.3,0,1.9,0,0.5,0
+135,SAIL,Respiratory,,"Hypertension, Pulmonary",57.2,70.9,22.7,21.1,14.6,30.7,11.7,12.1,11.6,,9.9,3.2,10.4,3.8,2.4,2.9,1.8,2.6,0.4,1.2,0.4
+136,TRIAL,Respiratory,NCT01316900,"Pulmonary Disease, Chronic Obstructive",11,48.6,10.5,10.2,8.9,,8,2.1,7,0.8,1.7,5,2.4,2.7,0.5,0.9,1.1,0.4,0.9,0.8,0.2
+137,TRIAL,Respiratory,NCT01316913,"Pulmonary Disease, Chronic Obstructive",14,47.1,15.4,17.4,14.6,,11.8,2.9,8.3,1.9,2.2,5.5,2.2,1.6,0.7,1,1.7,0.8,0.5,1.1,0.7
+138,TRIAL,Respiratory,NCT01772134,"Pulmonary Disease, Chronic Obstructive",19.8,51.4,15.2,16.7,14.1,,14.3,2.6,11.7,2.4,1.6,6.6,4.5,2.1,1,1,2.6,0.6,0.6,1,0.2
+139,TRIAL,Respiratory,NCT01957163,"Pulmonary Disease, Chronic Obstructive",18.4,54.6,15.7,21.2,12.4,,12.9,2.1,7.9,2.4,1.1,4.7,1.1,1.6,0.6,1.5,2.6,0.8,0.5,1.3,0.6
+140,TRIAL,Respiratory,NCT02119286,"Pulmonary Disease, Chronic Obstructive",14,52.4,15.6,16.5,12.9,,15.3,2.4,9.5,3.1,1.6,6,5.2,1,1.1,1.9,1.5,1,0.6,1.5,0.3
+141,TRIAL,Respiratory,NCT02177344,"Pulmonary Disease, Chronic Obstructive",24.8,30.5,11.3,23.1,17,,4.3,3.1,8.2,1.2,19.7,2,1.9,1.1,0.5,0.2,1.2,1.4,0.5,0.2,0.6
+142,TRIAL,Respiratory,NCT02236611,"Pulmonary Disease, Chronic Obstructive",8.5,59.1,8,9.9,9.3,,12.5,1.1,6.3,2.9,0.6,2.2,2.8,0.9,0.4,0.4,1.3,0.9,0.1,0.6,0.1
+143,UKB,Respiratory,,"Pulmonary Disease, Chronic Obstructive",40.8,37.7,22.2,25.8,15.5,,8.1,5,6.3,3.4,5.2,2.9,2.1,1.3,2,1.2,1.5,1.8,1.3,0.5,0
+144,SAIL,Respiratory,,"Pulmonary Disease, Chronic Obstructive",58.4,61.2,29.1,26.8,30.3,,12.5,11.4,10,8,10.7,7.1,4.2,4.1,3.8,3.2,2.6,2.3,1.5,1.2,0.3
+145,TRIAL,Respiratory,NCT01335464,Pulmonary fibrosis,21.6,50.8,15.2,14.6,30.9,18.5,16.7,6,9.3,1,0,8.4,5.8,3.7,1.2,2.3,0.8,2.1,0.2,0.6,0.2
+146,TRIAL,Respiratory,NCT01335477,Pulmonary fibrosis,19.9,48.3,15.5,14.8,29.5,24,19.3,4.6,9.1,0.2,0,6.9,4.4,3.5,1.1,3.1,2.2,0.7,0.2,1.6,1.1
+147,UKB,Respiratory,,Pulmonary fibrosis,36.5,40.5,18.2,14.4,25.9,29.5,10.3,18.5,6.7,4.8,20.4,4.8,3.4,2.4,1.9,2.6,1.4,1.9,1.4,1,0
+148,SAIL,Respiratory,,Pulmonary fibrosis,60.5,66.2,30.8,22,38.6,44.8,14,25.7,12.4,12.6,0,9.8,6.3,4.9,4.2,3.2,1.8,1.8,0.8,1.5,0.2
+149,TRIAL,Urological,NCT00384930,Benign Prostatic Hyperplasia,12.4,44.5,24.8,8.2,9.6,5.2,7.7,0.2,4,0.7,6.1,,1.9,2.8,,32.1,0.5,0.7,0.9,0.9,0
+150,TRIAL,Urological,NCT00827242,Benign Prostatic Hyperplasia,2.2,4.3,2.8,0.3,1.8,1.2,2.5,0.3,0,1.5,1.5,,0,0.3,,15.7,0.3,0.3,0,0,0
+151,TRIAL,Urological,NCT00848081,Benign Prostatic Hyperplasia,13.5,86.5,27,11.9,16,8.8,14.2,0.9,11.3,3.1,6.3,,6.3,4.7,,30.8,0.3,0.9,1.9,0.6,2.2
+152,TRIAL,Urological,NCT00861757,Benign Prostatic Hyperplasia,3,53.3,11.3,5.7,10.3,4.5,9.2,0,1.9,0,3.8,,5.4,1.4,,0,0.6,0,0,0,0.5
+153,TRIAL,Urological,NCT00970632,Benign Prostatic Hyperplasia,2.5,50.9,4.3,1.4,5.7,2.3,11.4,0.6,2.3,2,2.2,,4.5,0.8,,12.7,0.2,0.2,0.2,0,0.6
+154,UKB,Urological,,Benign Prostatic Hyperplasia,21.2,39.4,19.4,7.5,8.3,8.6,6,1.1,2.1,2.8,2.3,,2.6,1.8,,2.6,0.6,1.3,0.5,0.6,0
+155,SAIL,Urological,,Benign Prostatic Hyperplasia,43.3,64.1,29.5,15.1,25.2,18.9,12.5,3.5,4.6,8.5,7.1,,5.9,5.5,,8.3,1.6,2.1,0.9,1.9,0.4
+156,TRIAL,Urological,NCT00855582,Erectile dysfunction,7.8,44.1,12.4,5.4,7.8,5.1,11.4,1.2,5.1,0.8,2.6,,2.5,2.6,,,0.5,0.3,0.8,0.5,0.8
+157,UKB,Urological,,Erectile dysfunction,26.4,45.9,19,10.9,8.2,11.4,18.8,1.5,2.7,2.6,3.2,,4.4,1.8,,,0.5,2.4,0.3,1.1,0
+158,SAIL,Urological,,Erectile dysfunction,37.3,56.5,28.9,18.3,19.9,15.8,20.2,1.7,3.5,4.9,6.2,,5.3,2.8,,,1.9,1.8,0.9,1.1,0.1

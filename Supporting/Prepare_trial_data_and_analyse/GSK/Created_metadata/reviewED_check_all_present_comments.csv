@@ -1,0 +1,43 @@
+trial,Comment
+BI107_210,No lab data collected in this study
+BI1123_10,"No WHO ATC conmed collected. Medical history limited, mainly cardiovascular and diabetes. No lab results located, sampling at least for haematology is mentioned in the CSR"
+BI1123_11,"No WHO ATC conmed collected. Medical history limited, mainly cardiovascular and diabetes. No lab results located, sampling at least for haematology is mentioned in the CSR"
+BI1123_12,"No WHO ATC conmed collected. Medical history limited, mainly cardiovascular and diabetes. No lab results located, sampling at least for haematology is mentioned in the CSR"
+BI1123_28,"No WHO ATC conmed collected. Medical history still limited, but includes COPD. Baseline lab results located, Hb, Plat, Glucose and Creatinine found."
+BI1160_26,MedDRA systems but non-MedDRA terms (18 specific diagnoses recorded)
+BI1160_63,MedDRA systems but non-MedDRA terms (13 specific diagnoses recorded)
+BI248_622,No lab data collected in this study
+BI248_629,No lab data collected in this study
+BI502_391,"No evidence of collection of lab data in dictionary, CRF or any mention in the protocol"
+GSK200109,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 21 classes in this trial."
+GSK200110,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 21 classes in this trial."
+GSKDB2113360_v02,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 7 classes in this trial."
+GSKDB2113374_v02,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 22 classes in this trial."
+GSKB2C112060,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 22 classes in this trial. No lab results although was collected"
+GSKAC4116135,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes). No lab results although was collected.
+GSKFFA112059,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 8 classes in this trial. No blood pressure measured on reviewing protocol"
+GSKFFA115285,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 7 classes in this trial. No lab results although was collected"
+GSKFFR106080,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKMEA115588,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 10 classes in this trial."
+LILLY-H6D-MC-LVGY,Height recorded for less than one quarter of participants. BMI not recorded at all.
+RCHQ4881G,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+RCHQ4882G,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+RCHQ4883G,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+TKAMLN0002_C13006,Medical history redacted
+TKAMLN0002_C13011,Medical history redacted
+ucbAS0001,"No concomitant medication, bp or lab data provided"
+ucbC87085,"No concomitant medication, bp or lab data provided"
+ucbN01252,"No concomitant medication, bp or lab data provided"
+ucbN01253,"No concomitant medication, bp or lab data provided"
+ucbPSA001,"No concomitant medication, bp or lab data provided"
+BI502_376,No lab data in the dictionary or in the sas files
+GSK201315,"tiny 15kb lab file with no data in it, although has all the names"
+GSK200165V02,No lab data collected in this study
+GSKAR2103413V02,"MI trial. Concomitant medication data limited to cardiovascular and diabetes drugs. Medical hsitory was not MedDRA (14 classes which were mostly cardiometabolic, for one remaining class [Other relevant ongoing medical conditions prior to randomization] there were 1900 unique terms, the commonest being ""redacted"", the first non-cv conditions were chronic bronchitis (54 records) and COPD (44 records)."
+GSK101468205 ,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30003,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30006,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30007,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFU111439,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKAR1103420,"MI trial. Concomitant medication data limited to cardiovascular and diabetes drugs. Medical hsitory was not MedDRA (15 classes which were mostly cardiometabolic, for one remaining class [Other relevant ongoing medical conditions prior to randomization] all of the other terms were redacted"
+GSKFFR101816,"Lab data redacted, although there was lab testing in this trial. No bp or height or weight data provided. MedDRA class provided, No medical history terms. No smoking data, but tobacco use within past year is exclusion criterion."

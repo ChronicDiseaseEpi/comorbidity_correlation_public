@@ -1,0 +1,96 @@
+document_type,document,res2
+protocol,files_BI_1245_36/Files/Documents/report/1245-0036--16101--protocol-or-amendment_Redacted.pdf," both locally on site (not recorded
+    in eCRF) and the via central laboratory. A positive result triggers the sampling of mid-stream
+ urine for urine culture.
+ Albumin/creatinine ratio and the α1 microglobulin/creatinine ratio in spot urine will be
+ calculated at the central laboratory.
+ The estimated glomerular filtration rate (eGFR) will be derived from serum creatinine values
+ based on the MDRD formula:
+ eGFR (ml/min) = 175 x [Screatinine (umol/L)/88.4]-1.154 x [age]-0.203 x [0.742 if patient is
+ female] x [1.212 if patient is of African origin]
+ Renal function impairment will be classified in the f_ollowing way:
+     • _   No renal function impairment: eGFR ≥90 ml/min (not eligible for this trial)
+  _   •    Mild renal function impairment: eGFR ≥60 and <90 ml/min
+     •    Moderate renal function impairment: eGFR ≥30 and <60 ml/min
+     •    Severe renal function impairment: eGFR ≥15 and <30 ml/min.
+ These classes of renal impairment will be the ba_sis for stratification at randomisation and
+ subgroup analysis.
+__"
+protocol,files_SAN-EFC11628/Files/Documents/redact-efc11628-combined CSR protocol and amendments SAP CRF-final.pdf,"(neutrophils, lymphocytes, monocytes, eosinophils, basophils) and platelets;
+     •    Clinical chemistry: total bilirubin (in case of values above the normal range,
+          differentiation in conjugated and non-conjugated bilirubin), AST, ALT, alkaline
+          phosphatase (ALP), creatinine, estimated glomerular filtration rate (GFR [modification of
+          diet in renal disease; MDRD]), uric acid, sodium, potassium, calcium, chloride;
+     •    Lipid parameters (total cholesterol, high density lipoprotein [HDL], low density
+          lipoprotein [LDL], triglycerides). All lipid parameters were taken _in fasting condition"
+protocol,files_SAN-EFC11628/Files/Documents/redact-efc11628-combined CSR protocol and amendments SAP CRF-final.pdf,"      Eastern Europe, Rest of the World (ROW)) /
+                             within subgroup
+                                                                 Countries
+                             analyses and also to be
+                             in line with the entire         •   Baseline estimated glomerular filtration rate
+                             project                             (GFR, using MDRD formula,
+                                                                 mL/min/1.73m2),
+                                                             •   Baseline estimated GFR categories
+        _                                                         (mL/min/1.73m2): ≥ 90; [60 – 9_0[, [30 –
+                                                                 60]; <30,
+                                                             • Duration of diabetes (<10, ≥10 years)
+1.0"
+csr,files_GSK-FFA112059/Files/Documents/Clinical Study Report/gsk-112059-clinical-study-report-redact.pdf,"Urine RBC/erythrocyte, urine sediment microscopic examination.
+ Quantitative:
+     Albumin, creatinine
+     Albumin/creatinine ratio in spot urine was calculated at the central laboratory.
+     For assessment of patient eligibility, stratification at randomisation, and group analysis,
+     the estimated glomerular filtration rate (eGFR) was derived from the serum creatinine
+     (SCr) value based on the MDRD formula below:
+     eGFR (mL/min/1.73m2) = 175 x [SCr (µmol/L)/88.4]-1.154 x [age]-0.203 x [0.742 if
+                                 patient is female] x [1.212 if patient is of African origin]
+    _ Renal function was cl_assified using eGFR value as follows: normal renal function
+     (≥90 mL/min/1.73 m2), mild impairme_nt (60 to <90 mL/min/1.73 m2), moderate
+     impairment (30 to <60 mL/min/1.73 m2), and severe impairment (≥15 to <30 mL/min/1.73
+     m2). Patients with normal renal function were not eligible for the trial.
+     F_ansaminases, alkaline phosphatase,
+ serum creatinine, th"
+csr,files_TKA-SYR322_305/Files/Documents/SYR-322_305-Clinical Study Report-Redacted-2016-12-05.pdf,"05.59)      1837.2 (373.06) 1823.4 (390.63)       1828.6 (389.85)
+     Median (range)                               1700.0             1700.0           1700.0               1700.0
+                                              (500-3550)          (500-3000)       (500-3400)           (500-3550)
+  GFR, mL/min/1.73m2 (e)                          n=877              n=883            n=870                n=2630
+    MDRD, mean (SD)                         83.04 (16.586)       82.35 (16.199)  82.28 (16.994)        82.56 (16.591)
+    Cockcroft-Gault, mean (SD)              109.3 (33.40)        109.3 _F for all other subjects.
+ (b) Subjects who selected more than 1 race category were counted in the multiracial group.
+ (c) BMI was calculated as: weight in kilograms / (height in centimeters/100)2.
+ (d) Diabetes duration was defined as: (date of screening − date of diagnosis + 1) / 365.25.
+ (e) GFR was calculated with creatinine clearance in mg/dL, age in years, and weight in kilograms using: the MDRD
+ formula as GFR = 175 × (serum creatinine)-1.154 × (age)-0.203 × (0.742 if female) × (1.212 if Black or African
+ American); and the Cockcroft-Gault formula as GFR = [(140 − age) × weight × (0._85 if female)] / (72 × serum
+ creatinine).
+ 11.2.2 Medical History and Other Baseline Characteristics
+ 11.2.2.1 Medical_ History
+ Medical history consisted of any significant conditions or diseases that stopped at or prior to
+ Screening (time of informed consent). T"
+protocol,files_TKA-SYR322_402/Files/Documents/SYR-322_402_Redacted_2016-03-04.pdf," and Baseline Characteristics (FAS) (continued)
+                                                                     Placebo           Alogliptin             Total
+Characteristic                                                      (N=2679)            (N=2701)            (N=5380)
+Renal Function, eGFR (MDRD), mL/min/1.73 m2 (e)
+  Mean (SD)                                                        71.01 (21.541)      70.86 (21.297)      70.93 (21.417)
+  Median (min, max)                                             71.19 (5.0,171.8)   71.15 (4.2,186.1)    71.19 (4.2,186.1)
+  Renal impairment categ_ory, n (%)
+    Normal (eGFR ≥90 mL/min/1.73 m2)                               440 (16.4)          399 (14.8)           839 (15.6)
+    Mild (eGFR ≥60 and <90 mL/min/1.73 m2)                        1446 (54.0)         1530 (56.6)         2976 (55.3)
+    Moderate (eGFR ≥30 and <60 mL/min/1.73 m2)                     714 (26.7)_          694 (25.7)         1408 (26.2)
+    Severe renal impairment (eGFR <30 mL/min/                        79 (2.9_)            78 (2.9)           157 (2.9)
+    1.73 m2) or ESRD (eGFR <15 mL/min/1.73 m2)
+Index ACS event type, n (%)
+  M_I                                                              2068 (77.2)         2084 (77.2)         4152 (77.2)
+    MI, post–PCI  _                                                 162 (6.0)           161 (6.0)            323 (6.0)
+    MI, pos_r all other subjects.
+(b) Subjects who selected more than 1 race category were counted only in the multiracial group.
+(c) BMI was calculated as: weight in kilograms / (height in centimeters/100)2.
+(d) T2DM duration was defined as: (date of informed consent − date of diagnosis + 1) / 365.25.
+(e) eGFR was calculated with creatinine clearance in mg/dL, age in years, and weight in kilograms using the MDRD
+formula as GFR=175 × (serum creatinine)-1.154 × (age)-0.203 × (0.742 if female) × (1.212 if Black or African
+American). Study sites in Japan used the Japanese Nephrology Society MDRD equation: _GFR=194 × (serum
+creatinine)-1.094 × (age)-0.287 × (0.739 if female). Renal function data were also calculated using th_e Cockcroft-Gault
+formula (see Table 15.1.3).
+11.2.2 Medical History and Other Baseline Characteristics
+11.2.2.1 Medical History
+Medical history consisted of any significant condi"

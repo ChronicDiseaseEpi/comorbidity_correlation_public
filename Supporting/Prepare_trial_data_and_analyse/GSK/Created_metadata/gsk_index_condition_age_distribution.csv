@@ -1,0 +1,15 @@
+condition,sex,n_patients,min_age,max_age,mean_age,sd_age,repo
+Asthma,female,974,12,84,44.34,16.21,GSK
+Asthma,male,653,12,77,41.68,17.43,GSK
+Dementia_any,female,2068,50,89,73.78,8.01,GSK
+Dementia_any,male,1457,50,89,73,8.11,GSK
+Hypertension,female,270,25,80,53.69,9.9,GSK
+Hypertension,male,298,22,80,50.38,11.33,GSK
+Parkinson_Disease,female,146,47,82,67.22,8.26,GSK
+Parkinson_Disease,male,247,34,87,65.52,10.04,GSK
+Pulmonary_Disease_Chronic_Obstructive,female,1238,40,88,62.73,8.59,GSK
+Pulmonary_Disease_Chronic_Obstructive,male,2497,40,89,63.94,8.36,GSK
+Restless_legs_syndrome,female,1084,18,79,54.1,12.39,GSK
+Restless_legs_syndrome,male,650,18,79,53.61,12.35,GSK
+Systemic_Lupus_Erythematosus,female,1592,18,73,37.77,11.47,GSK
+Systemic_Lupus_Erythematosus,male,101,18,68,38.34,12.25,GSK

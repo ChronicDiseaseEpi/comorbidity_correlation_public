@@ -1,0 +1,44 @@
+unit	unit_rename
+µmol/L	umol/L
+10^9/L	10E9/L
+10E9/L	10E9/L
+BILL/L	10E9/L
+g/dl	g/dl
+g/dL	g/dl
+G/DL	g/dl
+g/L	g/L
+G/L	g/L
+GI/L	GI/L
+gram/deciliter	g/dl
+Int'l Units/Liter	IU/L
+IU/L	IU/L
+kg	kg
+mcmol/L	umol/L
+mg/dl	mg/dL
+mg/dL	mg/dL
+micromole/Liter	umol/L
+milligram/deciliter	mg/dL
+milliliter/minute	mL/min
+milliliter/second	mL/sec
+millimole/Liter	mmol/L
+ml/min	mL/min
+mL/min	mL/min
+ML/MIN	mL/min
+ml/min/1.73 m^2	mL/min/1.73 m^2
+ml/s	mL/sec
+mml/L-Fe	mmol/L
+mmol/L	mmol/L
+MMOL/L	mmol/L
+mmol/Liter (Fe)	mmol/L
+THOU/uL	THOU/uL
+Thousand/microliter	10E9/L
+U/L	U/L
+umol/L	umol/L
+UMOL/L	umol/L
+Units/Liter	U/L
+x 10^9/L	10E9/L
+x10^9/L	10E9/L
+x10E3/uL	10E9/L
+X10E3/UL	10E9/L
+X10E9/L	10E9/L
+NA	

@@ -1,0 +1,107 @@
+document_type,document,res2
+protocol,files_BI_1245_36/Files/Documents/report/1245-0036--16101--protocol-or-amendment_Redacted.pdf,"formed consent and an eGFR of <90
+ for inclusion:            ml/min, as determined during screening and the run-in phase, using the Modification
+                           of Diet in Renal Disease (MDRD) equation
+                         • Male and female patients on diet and exercise regimen who are pre-treated with any
+                           antidiabetic therapy (excluding only SGLT-2 inhibi"
+protocol,files_BI_1245_48/Files/Documents/report/1245-0048--16101--protocol-or-amendment_Redacted.pdf,"for
+ urine culture.
+ Albumin/creatinine ratio in spot urine will be calculated at the central lab.
+ The glomerular filtration rate (GFR) will be derived from serum creatinine values based on
+ the MDRD formula:
+ GFR (ml/min) = 175 x [Screatinine (µmol/L)/88.4]-1.154 x [age]-0.203 x [0.742 if patient is
+                       female] x [1.212 if patient is of African origin]
+ Renal function impai"
+protocol,files_BI_1276_1/Files/Documents/report/1276-0001--16101--protocol-or-amendment_Redacted.pdf,"       Albumin/creatinine ratio in spot urine will be calculated at the central lab.
+        Creatinine clearance and glomerular filtration rate
+        The eCCr (Cockcroft-Gault formula) and eGFR (MDRD formula) will be calculated
+        according to the two formulas:
+        Cockcroft-Gault formula:
+        eCCr (ml/min) = [140 – age] x [weight in kg] x [1.23 if patient is male or 1.04 if patie_nt is
+        female]/ [72 x serum creatinine (µmol/L)]
+        MDRD formula:
+        eGFR (ml/min/1.73m2) = 175 x [serum creatinine (µmol/L)/88.4]-1.154 x [age]-0.203 x [0.742 if
+        patient is female] x [1.212 if patient is of African origin]
+        The race_ of the patient will be entered because T2DM treatment results may differ depending
+        on race. Furthermore, the renal function will be assessed using the MDRD formula. This
+        formula considers the race as an adjustment factor, therefore, the race must be known for
+        accurate estimation.
+                                                       "
+protocol,files_BI_248_524/Files/Documents/report/0248-0524--16101--protocol-or-amendment_Redacted.pdf,"r 2007
+ BI Trial No.: 248.524             Protocol amendment 4                             Page 12 of 13
+ Change 6:      The creatinine clearance (exclusion criterion 12) will be estimated by the
+ Modification of Diet in Renal Disease (MDRD) formula instead of Cockcroft and Gault
+ formula, which underestimates the glomerular filtration rate, especially in elderly patients
+ with low body weight.
+ Reason for Change 6:
+ In patien_ts wit_a
+ underestimates the glomerular filtration rate (GFR) in patients with low body weight and in
+ the elderly. On the other hand it overestimates the GFR in obese patients [R07-4216].
+ Therefore the MDRD (Modification of Diet in Renal Disease) formula will be used instead of
+ the Cockcroft and Gault formula, as it is more precise in our target population. The actual
+ GRF will still be underestimate_d with the MDRD formula, but would prov_ide a better
+ estimate of GRF compared to the CG formula. The estimated creatinine clearance will be
+ calculated with the MDRD formula by the central lab on screening lab tes_t, as done currently
+ with the Cockcroft and Gault formula.
+ Changes made to the CTP:
+ Trial protocol page 27, Chapter 3.3.2 Exclusion Criteria
+ 12._d by the central lab on screening lab test)
+"
+protocol,files_BI_248_525/Files/Documents/report/0248-0525--16101--protocol-or-amendment_Redacted.pdf,"v 2007
+ BI Trial No.: 248.525              Protocol amendment 3                            Page 9 of 10
+ Change 3:        The creatinine clearance (exclusion criteria 13) will be estimated by the
+ Modification of Diet in Renal Disease (MDRD) formula instead of Cockcroft and Gault
+ formula, which underestimates the glomerular filtration rate, especially in elderly patients
+ with low body weight.
+ Reason for Change 3:
+ In patien_ts wit_. This formula
+ underestimates the glomerular filtration rate (GFR) in patients with low body weight and in
+ the elderly. It also overestimates the GFR in obese patients [R07-4216].
+ Therefore the MDRD (Modification of Diet in Renal Disease) formula will be used instead of
+ the Cockcroft and Gault formula, as it is more precise in our target population. The actual
+ GRF will still be underestimate_d with the MDRD formula, but would prov_ide a better
+ estimate of GRF compared to the CG formula. The estimated creatinine clearance will be
+ calculated with the MDRD formula by the central lab on screening lab tes_t, as done currently
+ with the Cockcroft and Gault formula.
+ Changes made to the CTP:
+ Trial protocol page 27, Chapter 3.3.2 Exclusion criteria
+ 13._lated by the central lab on screening lab test)
+"
+protocol,files_SAN-EFC11628/Files/Documents/redact-efc11628-combined CSR protocol and amendments SAP CRF-final.pdf,"288 (35.7%)
+     ≥8                                                         260 (64.4%)   259 (64.3%)     519 (64.3%)
+ BMI = Body Mass Index
+ GFR = Glomerular filtration rate
+ GFR is derived from MDRD formula
+ PGM=PRODOPS/HOE901/EFC11628/CSR/REPORT/PGM/dem_demo_r_t.sas OUT=REPORT/OUTPUT/dem_demo_r_t_1_i.rtf
+ (20FEB2014 - 6:28)
+Property of the Sanofi Group - strictly confidential                "
+protocol,files_SAN-EFC11628/Files/Documents/redact-efc11628-combined CSR protocol and amendments SAP CRF-final.pdf,"han creatinine was assessed.
+For Male:
+CLcr (mL/min) = [(140 - age (years)) x weight (kg)] / [0.814 x serum creatinine (µmol/L)]
+For Female: result above multiplied by 0.85 for females.
+GFR using MDRD formula:
+                                ⎡175x Serum Creatinine (mg/dL) -1.154
+                                                                      x Age -0.203 x 1.212 (if black) ⎤
+GFR (mL/min/1"
+csr,files_LILLY-I1F-MC-RHBC/Files/Documents/clinical_study_report/RHBC 03 Synopsis_redacted.pdf,"or reservations about some aspect of the skin
+ examination.
+ In addition the exclusion criterion 12 was modified as follows: The creatinine clearance
+ (exclusion criterion 12) was estimated by the Modification of Diet in Renal Disease (MDRD)
+ formula instead of Cockcroft and Gault formula, which underestimates the glomerular
+ filtration rate, especially in elderly patients with low body weight.
+ Amendment no. 5 (global), dated _29 Jan"
+csr,files_LILLY-I1F-MC-RHAZ/Files/Documents/clinical_study_report/RHAZ 03 Synopsis_redacted.pdf,"g lab test). Following
+         amendment No. 3 (dated 14 November 2007) the formula initially used to calculate
+         the creatinine clearance was changed and the new formula to be used was the MDRD
+         (Modification of Diet in Renal Disease). For details of amendment no. 3 refer to 9.8
+         and appendix 16.1.1.2.
+ Pharmacological exclusions:
+ 14.     Any dopamine agonist (including_ pramipexole) within 4 weeks prior to baseline vi"
+csr,files_GSK-FFA112059/Files/Documents/Clinical Study Report/gsk-112059-clinical-study-report-redact.pdf,") after
+          an overnight fast during placebo run-in and confirmed by a second measurement (not
+          on the same day)
+      • Impaired renal function, defined as eGFR<15 ml/min using the MDRD (modification
+          of diet in renal disease) equation, as determined during screening and/or the run-in
+          phase
+      • Renal impairment requiring any form of chronic dialysis
+      "

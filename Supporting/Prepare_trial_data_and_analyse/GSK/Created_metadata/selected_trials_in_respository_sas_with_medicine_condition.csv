@@ -1,0 +1,116 @@
+nct_id,sponsor_id_sas,sponsor_id,sponsor,medicine,condition
+NCT02183064,107.21,BI-107.210,Boehringer Ingelheim,meloxicam,Osteoarthritis
+NCT02177344,244.2484,BI-244.2484,Boehringer Ingelheim,ipratropium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT00479401,248.524,BI-248.524,Boehringer Ingelheim,pramipexole,Parkinson Disease
+NCT00466167,248.525,BI-248.525,Boehringer Ingelheim,Pramipexol,Parkinson Disease
+NCT00133198,248.543,BI-248.543,Boehringer Ingelheim,pramipexole,Restless Legs Syndrome
+NCT00402233,248.622,BI-248.622,Boehringer Ingelheim,pramipexole,Parkinson Disease
+NCT00472199,248.629,BI-248.629,Boehringer Ingelheim,pramipexole,Restless Legs Syndrome
+NCT02175355,502.254,BI-502.254,Boehringer Ingelheim,telmisartan,Hypertension
+NCT02177396,502.256,BI-502.256,Boehringer Ingelheim,telmisartan,Hypertension
+NCT02172586,502.316,BI-502.316,Boehringer Ingelheim,telmisartan,Hypertension
+NCT02177461,502.317,BI-502.317,Boehringer Ingelheim,telmisartan,Hypertension
+NCT00034840,502.327,BI-502.327,Boehringer Ingelheim,telmisartan,Hypertension
+NCT02242318,502.376,BI-502.376,Boehringer Ingelheim,telmisartan,Hypertension
+NCT00274612,502.391,BI-502.391,Boehringer Ingelheim,telmisartan,Hypertension
+NCT00274599,502.392,BI-502.392,Boehringer Ingelheim,telmisartan,Hypertension
+NCT00168857,502.397,BI-502.397,Boehringer Ingelheim,telmisartan,Hypertension; Diabetic Nephropathies
+NCT00153088,502.413,BI-502.413,Boehringer Ingelheim,telmisartan,Diabetic Nephropathies
+NCT00926289,502.55,BI-502.550,Boehringer Ingelheim,telmisartan,Hypertension
+NCT02181985,1123.1,*BI-1123.10,Boehringer Ingelheim,tenecteplase,Myocardial Infarction
+NCT02181998,1123.11,*BI-1123.11,Boehringer Ingelheim,tenecteplase,Myocardial Infarction
+NCT00168792,1123.12,*BI-1123.12,Boehringer Ingelheim,tenecteplase,Myocardial Infarction
+NCT00623623,1123.28,*BI-1123.28,Boehringer Ingelheim,tenecteplase,Myocardial Infarction
+NCT00152971,1160.24,BI-1160.24,Boehringer Ingelheim,dabigatran etexilate,"Arthroplasty, Replacement, Knee; Thromboembolism"
+NCT00262600,1160.26,BI-1160.26,Boehringer Ingelheim,dabigatran etexilate,"Atrial Fibrillation, Stroke"
+NCT00680186,1160.46,BI-1160.46,Boehringer Ingelheim,dabigatran etexilate,Thromboembolism
+NCT00329238,1160.47,BI-1160.47,Boehringer Ingelheim,dabigatran etexilate,Thromboembolism
+NCT00168818,1160.48,BI-1160.48,Boehringer Ingelheim,dabigatran etexilate,"Thromboembolism; Arthroplasty, Replacement, Hip"
+NCT00291330,1160.53,BI-1160.53,Boehringer Ingelheim,dabigatran etexilate,Thromboembolism
+NCT00558259,1160.63,BI-1160.63,Boehringer Ingelheim,dabigatran etexilate,Venous Thromboembolism
+NCT00657150,1160.64,BI-1160.64,Boehringer Ingelheim,dabigatran etexilate,Venous Thromboembolism
+NCT01335464,1199.32,BI-1199.32,Boehringer Ingelheim,nintedanib,Pulmonary Fibrosis
+NCT01335477,1199.34,BI-1199.34,Boehringer Ingelheim,nintedanib,Pulmonary Fibrosis
+NCT01164501,1245.36,BI-1245.36,Boehringer Ingelheim,empagliflozin,"Diabetes Mellitus, Type 2; Renal Insufficiency"
+NCT01370005,1245.48,BI-1245.48,Boehringer Ingelheim,empagliflozin,"Diabetes Mellitus, Type 2; Hypertension"
+NCT01719003,1276.1,BI- 1276.1,Boehringer Ingelheim.,empagliflozin,"Diabetes Mellitus, Type 2;   Hyperglycemia"
+NCT01087762,aks001,UCB-AKS001,UCB,Certolizumab Pegol,Axial Spondyloarthritis
+NCT00552058,c87085,UCB-C87085,UCB,Certolizumab Pegol,Crohn's Disease
+NCT00694382,EFC6521,SANOFI-EFC6521,Sanofi,Semuloparin (AVE5026),Thromboprophylaxis
+NCT00381472,GSK-101468/169,GSK-101468/169,GSK,ropinirole,Parkinson Disease
+NCT00314860,GSK-101468/204,GSK-101468/204,GSK,ropinirole,Restless Legs Syndrome
+NCT00197080,GSK-101468/205,GSK-101468/205,GSK,ropinirole,Restless Legs Syndrome
+NCT00363857,GSK-101468/249,GSK-101468/249,GSK,ropinirole,Restless Legs Syndrome
+NCT01957163,GSK-200109,GSK-200109,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT02119286,GSK-200110,GSK-200110,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT02236611,GSK-201315,GSK-201315,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT01772134,GSK-AC4116135,GSK-AC4116135,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive, Ph"
+NCT00348140,GSK-AVA102670,GSK-AVA102670,GSK,rosiglitazone,Alzheimer's Disease
+NCT00348309,GSK-AVA102672,GSK-AVA102672,GSK,rosiglitazone,Alzheimer's Disease
+NCT00428090,GSK-AVA105640,GSK-AVA105640,GSK,rosiglitazone,Alzheimer's Disease
+NCT00116831,GSK-AVD100521,GSK-AVD100521,GSK,rosiglitazone,Atherosclerosis
+NCT01181895,GSK-B2C112060,GSK-B2C112060,GSK,vilanterol,Asthma
+NCT00123903,GSK-COR103560,GSK-COR103560,GSK,carvedilol,"Heart failure, Congestive and Microalbuminuria"
+NCT00273052,GSK-COR103561,GSK-COR103561,GSK,carvedilol,Hypertension
+NCT00064428,GSK-AR2103413-V02,GSK-AR2103413,GSK,fondaparinux sodium,Myocardial Infarction
+NCT01316900,GSK-DB2113360-V02,GSK-DB2113360,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT01916226,GSK-200165-V02,GSK-200165,GSK,fluticasone propionate,"Rhinitis, Allergic, Perennial and Seasonal"
+NCT01316913,GSK-DB2113374-V02,GSK-DB2113374,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive"
+NCT01159912,GSK-FFA112059,GSK-FFA112059,GSK,fluticasone furoate,Asthma
+NCT01436110,GSK-FFA115285,GSK-FFA115285,GSK,fluticasone furoate,Asthma
+NCT00289198,GSK-FFR106080,GSK-FFR106080,GSK,fluticasone furoate,"Rhinitis, Allergic, Perennial"
+NCT00115622,GSK-FFR30003,GSK-FFR30003,GSK,fluticasone furoate,"Rhinitis, Allergic, Seasonal"
+NCT00117325,GSK-FFR30006,GSK-FFR30006,GSK,fluticasone furoate,"Rhinitis, Vasomotor"
+NCT00118703,GSK-FFR30007,GSK-FFR30007,GSK,fluticasone furoate,"Rhinitis, Vasomotor"
+NCT00609674,GSK-FFU111439,GSK-FFU111439,GSK,fluticasone furoate,"Rhinitis, Allergic, Perennial"
+NCT00410384,GSK-HGS1006-C1056,GSK-HGS1006-C1056,GSK,belimumab,Systemic Lupus Erythematosus
+NCT00424476,GSK-HGS1006-C1057,GSK-HGS1006-C1057,GSK,belimumab,Systemic Lupus Erythematosus
+NCT01691521,GSK-MEA115588,GSK-MEA115588,GSK,mepolizumab,Asthma
+NCT00670501,LILLY-B3D-MC-GHAC,LILLY-B3D-MC-GHAC,Lilly,Teriparatide,Osteoporosis
+NCT00051558,LILLY-B3D-US-GHBZ,LILLY-B3D-US-GHBZ,Lilly,Teriparatide,Osteoporosis
+NCT00125918,LILLY-H6D-MC-LVGY,LILLY-H6D-MC-LVGY,Lilly.,Tadalafil,"Hypertension, Pulmonary"
+NCT00861757,LILLY-H6D-MC-LVHB,LILLY-H6D-MC-LVHB,Lilly.,Tadalafil,Benign Prostatic Hyperplasia
+NCT00384930,LILLY-H6D-MC-LVHG,LILLY-H6D-MC-LVHG,Lilly.,Tadalafil,Benign Prostatic Hyperplasia
+NCT00827242,LILLY-H6D-MC-LVHJ,LILLY-H6D-MC-LVHJ,Lilly.,Tadalafil,Benign Prostatic Hyperplasia
+NCT00855582,LILLY-H6D-MC-LVHR,LILLY-H6D-MC-LVHR,Lilly.,Tadalafil,"Erectile Dysfunction, Benign Prostatic Hyperplasia"
+NCT00848081,LILLY-H6D-MC-LVHS,LILLY-H6D-MC-LVHS,Lilly.,Tadalafil,Benign Prostatic Hyperplasia
+NCT00970632,LILLY-H6D-MC-LVID,LILLY-H6D-MC-LVID,Lilly.,Tadalafil,Benign Prostatic Hyperplasia
+NCT00734474,LILLY-H9X-MC-GBCF,LILLY-H9X-MC-GBCF,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01064687,LILLY-H9X-MC-GBDA,LILLY-H9X-MC-GBDA,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01075282,LILLY-H9X-MC-GBDB,LILLY-H9X-MC-GBDB,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01126580,LILLY-H9X-MC-GBDC,LILLY-H9X-MC-GBDC,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01191268,LILLY-H9X-MC-GBDD,LILLY-H9X-MC-GBDD,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01624259,LILLY-H9X-MC-GBDE,LILLY-H9X-MC-GBDE,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01769378,LILLY-H9X-MC-GBDG,LILLY-H9X-MC-GBDG,Lilly,Dulaglutide,Diabetes Mellitus
+NCT01474512,LILLY-I1F-MC-RHAZ,LILLY-I1F-MC-RHAZ,Lilly.,Ixekizumab,Psoriasis
+NCT01597245,LILLY-I1F-MC-RHBA,LILLY-I1F-MC-RHBA,Lilly.,Ixekizumab,Psoriasis
+NCT01646177,LILLY-I1F-MC-RHBC,LILLY-I1F-MC-RHBC,Lilly.,Ixekizumab,Psoriasis
+NCT00490035,no1252,UCB-NO1252,UCB.,Brivaracetam,Epilepsy
+NCT00464269,no1253,UCB-NO1253,UCB.,Brivaracetam,Epilepsy
+NCT01365455,NVT_SA_AIN457A2302,NOVARTIS-CAIN457A2302,Novartis.,secukinumab,Psoriasis
+NCT01358578,NVT_SA_AIN457A2303,NOVARTIS-CAIN457A2303,Novartis.,secukinumab,Psoriasis
+NCT00423085,NVT_SA_ENA713D1301,NOVARTIS-CENA713D1301,Novartis,rivastigmine,Alzheimer's Disease
+NCT00049829,NVT_SA_ZOL446H2301,NOVARTIS-CZOL446H2301,Novartis,zoledronic acid,Osteoporosis
+NCT00145327,NVT_SA_ZOL446H2301E1,NOVARTIS-CZOL446H2301E1,Novartis,zoledronic acid,Osteoporosis
+NCT00046254,NVT_SA_ZOL446H2310,NOVARTIS-CZOL446H2310,Novartis,zoledronic acid,Osteoporosis; Hip Fracture
+NCT00439244,NVT_SA_ZOL446H2409,NOVARTIS-CZOL446H2409,Novartis,zoledronic acid,Osteoporosis
+NCT00439647,NVT_SA_ZOL446M2309,NOVARTIS-CZOL446M2309,Novartis,zoledronic acid,"Osteoporosis, Male"
+NCT00100620,NVT_SA_ZOL446O2306,NOVARTIS-CZOL446O2306,Novartis,zoledronic acid,Osteoporosis
+NCT01087788,psa001,UCB-PsA001,UCB,Certolizumab Pegol,Psoriatic Arthritis
+NCT00144508,RCH-MRA012JP,ROCHE-MRA012JP,Roche,tocilizumab,rheumatoid arthritis
+NCT01209702,RCH-NA22823,ROCHE-NA22823,Roche,Tocilizumab,ankylosing spondylitis
+NCT01232569,RCH-NA25220,ROCHE-NA25220,Roche,Tocilizumab,rheumatoid arthritis
+NCT01287117,RCH-Q4881G,NOVARTIS-Q4881g,Novartis.,omalizumab,Chronic Idiopathic Urticaria (CIU)
+NCT01292473,RCH-Q4882G,NOVARTIS-Q4882g,Novartis.,omalizumab,Chronic Idiopathic Urticaria (CIU)
+NCT01264939,RCH-Q4883G,NOVARTIS-Q4883g,Novartis,omalizumab,Chronic Idiopathic Urticaria (CIU)
+NCT00106535,RCH-WA17823,ROCHE-WA17823,Roche,tocilizumab,rheumatoid arthritis
+NCT01119859,RCH-WA19924,ROCHE-WA19924,Roche,Tocilizumab,rheumatoid arthritis
+NCT01007435,RCH-WA19926,ROCHE-WA19926,Roche,Tocilizumab,rheumatoid arthritis
+NCT00783718,TKA-MLN0002_C13006,TAKEDA-C13006,Takeda,vedolizumab,Ulcerative Colitis; Crohn's Disease
+NCT01224171,TKA-MLN0002_C13011,TAKEDA-C13011,Takeda,vedolizumab,Ulcerative Colitis; Crohn's Disease
+NCT00856284,TKA-SYR322_305,TAKEDA-SYR-322_305,Takeda,alogliptin,Type 2 Diabetes Mellitus
+NCT00968708,TKA-SYR322_402,TAKEDA-SYR-322_402,Takeda,alogliptin,"Diabetes Mellitus, Type 2"
+NCT00139815,AR1103420,AR1103420,GSK,fondaparinux sodium,Thromboembolism
+NCT00118729,FFR101816,FFR101816,GSK,fluticasone furoate,"Rhinitis, Allergic, Seasonal"
+NCT00329602,ROR104836,ROR104836,GSK,ropinirole,Restless Legs Syndrome
+NCT00153023,BI-502.396,BI-502.396,BI,telmisartan,"Diabetes Mellitus, Type 2, nephropathy"

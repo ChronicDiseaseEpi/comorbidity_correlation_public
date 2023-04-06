@@ -1,0 +1,252 @@
+route,route_classify,route_classify_broad
+-0,numerical,numerical
+1,numerical,numerical
+4,numerical,numerical
+6,numerical,numerical
+8,numerical,numerical
+88,numerical,numerical
+99,numerical,numerical
+0ral,oral,oral/enteral
+apply,unknown,unknown
+auricular (otic),ear,ear
+both eyes,eye,eye
+bronchial,inhaled/nebulised,inhaled/nebulised
+buc,buccal,buccal/sublingual
+buccal,buccal,buccal/sublingual
+by mouth,oral,oral/enteral
+cigarette,unknown,unknown
+conjunctival,eye,eye
+cutaneous,skin,topical
+daily,unknown,unknown
+de,unknown,unknown
+dental,dental,buccal/sublingual
+dermal patch,transdermal,parenteral
+dermatological,skin,topical
+dermic,skin,topical
+drop in the eyes,eye,eye
+drops,unknown,unknown
+enamas,rectal,rectal
+epid,skin,topical
+eye,eye,eye
+eye drop,eye,eye
+eye drops,eye,eye
+gastrostomy tube,enteral,oral/enteral
+i.m,im,parenteral
+i.m.,im,parenteral
+i.v.,iv,parenteral
+iart,iv,parenteral
+ib,unknown,unknown
+ih,unknown,unknown
+ij,unknown,unknown
+im,im,parenteral
+in,unknown,unknown
+in eye,eye,eye
+in loco,unknown,unknown
+inahalation,inhaled/nebulised,inhaled/nebulised
+inalatory,inhaled/nebulised,inhaled/nebulised
+inasl,nasal,nasal
+inh,inhaled/nebulised,inhaled/nebulised
+inhail,inhaled/nebulised,inhaled/nebulised
+inhal,inhaled/nebulised,inhaled/nebulised
+inhal.,inhaled/nebulised,inhaled/nebulised
+inhalanat,inhaled/nebulised,inhaled/nebulised
+inhalant,inhaled/nebulised,inhaled/nebulised
+inhalated,inhaled/nebulised,inhaled/nebulised
+inhalatio,inhaled/nebulised,inhaled/nebulised
+inhalation,inhaled/nebulised,inhaled/nebulised
+inhalative,inhaled/nebulised,inhaled/nebulised
+inhalator,inhaled/nebulised,inhaled/nebulised
+inhald,inhaled/nebulised,inhaled/nebulised
+inhale,inhaled/nebulised,inhaled/nebulised
+inhaled,inhaled/nebulised,inhaled/nebulised
+inhaler,inhaled/nebulised,inhaled/nebulised
+inhaletor,inhaled/nebulised,inhaled/nebulised
+inj,injected,parenteral
+injection,injected,parenteral
+intra muscular,im,parenteral
+intra uterine,pv,pv
+intra venous,iv,parenteral
+intra-arterial,ia,parenteral
+intra-articular,ia,parenteral
+intra-rectal,rectal,rectal
+intraarticulation,intraarticular,intraarticular
+intracardiac,intracardiac,parenteral
+intradermal,skin,topical
+intralesional,skin,topical
+intramuscle,im,parenteral
+intramusculaer,im,parenteral
+intramuscular,im,parenteral
+intramuscular injection,nasal,nasal
+intranasal,nasal,nasal
+intraocular,eye,eye
+intrauterine,pv,pv
+intravaginal,pv,pv
+intravenos,iv,parenteral
+intravenous,iv,parenteral
+intravenous drip,iv,parenteral
+intravenously,iv,parenteral
+io,unknown,unknown
+ip,unknown,unknown
+its,unknown,unknown
+iv,iv,parenteral
+ivi,iv,parenteral
+ivinf,iv,parenteral
+left & right eye,eye,eye
+left eye,eye,eye
+local,skin,topical
+local smear,skin,topical
+locally,skin,topical
+mouth,oral,oral/enteral
+n/a,unknown,unknown
+NA,unknown,unknown
+na,unknown,unknown
+nasal,nasal,nasal
+nasal spray,nasal,nasal
+nasally,nasal,nasal
+nebulized,inhaled/nebulised,inhaled/nebulised
+nk,unknown,unknown
+nose spray,nasal,nasal
+o,oral,oral/enteral
+o.u.,unknown,unknown
+occular,eye,eye
+ocul,eye,eye
+ocular,eye,eye
+once a day,unknown,unknown
+op,eye,eye
+oph,eye,eye
+ophtalmic,eye,eye
+ophthalmic,eye,eye
+ophthalmic drop,eye,eye
+opthalmic,eye,eye
+or,oral,oral/enteral
+oral,oral,oral/enteral
+oral administration,oral,oral/enteral
+oral as required,oral,oral/enteral
+oral spray,oral,oral/enteral
+oral`,oral,oral/enteral
+orale,oral,oral/enteral
+orallly,oral,oral/enteral
+orally,oral,oral/enteral
+oraly,oral,oral/enteral
+oran,unknown,unknown
+orl,unknown,unknown
+orla,unknown,unknown
+ot,unknown,unknown
+other,unknown,unknown
+otic,ear,ear
+otitic,ear,ear
+ototic,ear,ear
+p o,oral,oral/enteral
+p.o,oral,oral/enteral
+p.o.,oral,oral/enteral
+p\per rectum,rectal,rectal
+parenteral,parenteral,parenteral
+per eyes,eye,eye
+per mouth,oral,oral/enteral
+per ops,unknown,unknown
+per oral,oral,oral/enteral
+per os,pv,pv
+per rectum,rectal,rectal
+per vagina,pv,pv
+peroral,oral,oral/enteral
+po,oral,oral/enteral
+po  oral,oral,oral/enteral
+po oral,oral,oral/enteral
+po qw,unknown,unknown
+pr,rectal,rectal
+pre os,pv,pv
+puff,inhaled/nebulised,inhaled/nebulised
+pump,unknown,unknown
+pv,pv,pv
+q week,unknown,unknown
+q24h,unknown,unknown
+qd,unknown,unknown
+qid,unknown,unknown
+ral,unknown,unknown
+rec,rectal,rectal
+rect,rectal,rectal
+rectal,rectal,rectal
+rectally,rectal,rectal
+rectum,rectal,rectal
+respiratory (inhalation),inhaled/nebulised,inhaled/nebulised
+right eye,eye,eye
+route,unknown,unknown
+s.c.,subcutaneous,parenteral
+s/c,subcutaneous,parenteral
+sc,subcutaneous,parenteral
+sc injection,subcutaneous,parenteral
+skin,skin,topical
+sl,sublingual,buccal/sublingual
+sq,subcutaneous,parenteral
+sub cutaneous,subcutaneous,parenteral
+sub q,subcutaneous,parenteral
+sub-cutaneous,subcutaneous,parenteral
+sub-q,subcutaneous,parenteral
+subcut,subcutaneous,parenteral
+subcutaneous,subcutaneous,parenteral
+subcutaneous injecti,subcutaneous,parenteral
+subcutaneus,subcutaneous,parenteral
+subcutanious,subcutaneous,parenteral
+subl,sublingual,buccal/sublingual
+sublingual,sublingual,buccal/sublingual
+sublinqual,sublingual,buccal/sublingual
+subq,subcutaneous,parenteral
+sup.,rectal,rectal
+swish and spit,gargle,buccal/sublingual
+tab,oral,oral/enteral
+throat administration,gargle,buccal/sublingual
+to,topical,topical
+top,topical,topical
+top.,topical,topical
+topic,topical,topical
+topical,topical,topical
+topically,topical,topical
+topique,topical,topical
+transdermal,transdermal,parenteral
+transmucosal,transdermal,parenteral
+trc,unknown,unknown
+tropical,topical,topical
+twice a day,unknown,unknown
+uk,unknown,unknown
+unk,unknown,unknown
+unknown,unknown,unknown
+vag,pv,pv
+vaginal,pv,pv
+vaginalis,pv,pv
+vaginally,pv,pv
+with meals,unknown,unknown
+intra v,iv,parenteral
+pr.os,oral,oral/enteral
+supp,rectal,rectal
+tbl,unknown,unknown
+inf,infusion,parenteral
+t,unknown,unknown
+ia,intraarticular,intraarticular
+e,unknown,unknown
+intravenous central vein,iv,parenteral
+intravenous peripheral vein,iv,parenteral
+implant,unknown,unknown
+ear,ear,ear
+nas,nasal,nasal
+os,oral,oral/enteral
+va,pv,pv
+-0,numerical,numerical
+aer,unknown,unknown
+bu,unknown,unknown
+co,unknown,unknown
+du,unknown,unknown
+ed,unknown,unknown
+en,unknown,unknown
+id,unknown,unknown
+ie,unknown,unknown
+il,unknown,unknown
+ir,unknown,unknown
+iu,unknown,unknown
+loc,unknown,unknown
+nc,unknown,unknown
+ne,unknown,unknown
+pu,unknown,unknown
+td,unknown,unknown
+tr,unknown,unknown
+ur,unknown,unknown
+x,unknown,unknown
