@@ -1,0 +1,49 @@
+company,trial,arm,randdt
+bi,BI1245_36,"Empagliflozin 25mg, Placebo, Empagliflozin 10mg",741
+bi,BI1245_48,"Empagliflozin 25 mg, Empagliflozin 10 mg, Placebo",825
+bi,BI248_524,"Pramipexole ER, Pramipexole IR, Placebo",539
+bi,BI248_525,"Pramipexole IR, Placebo, Pramipexole ER, B",683
+bi,BI248_622,"Pramipexole 0.5 mg BID, Placebo, Pramipexole 0.5 mg TID, Pramipexole 0.75 mg BID",311
+bi_new,BI107_210,"Meloxicam, 1*7.5 mg, Usual Care",1321
+bi_new,BI1123_11,,1639
+bi_new,BI1199_32,"Nintedanib 150 mg bid, Placebo 150 mg bid",514
+bi_new,BI1199_34,"Nintedanib 150 mg bid, Placebo 150 mg bid",549
+bi_new,BI1276_1,"Empagliflozin 12.5 mg, bid + Metformin 1000 mg, bid ol, Empagliflozin 12.5 mg, bid + Metformin 500 mg, bid, Empagliflozin 5 mg, bid + Metformin 500 mg, bid, Empagliflozin 5 mg, bid + Metformin 1000 mg, bid, Metformin,500mg bid, Empagliflozin 25 mg qd, Metformin,1000mg bid, Empagliflozin 12.5 mg, bid + Metformin 1000 mg, bid, Empagliflozin 10 mg qd",1418
+bi_new,BI244_2484,"Ipratropium Bromide, Respimat, 40mcg/puff, qid, Placebo, Metered-Dose Inhalant, qid, Ipratropium Bromide, Respimat, 20mcg/puff, qid, Ipratropium Bromide, MDI, 2*20mcg(from valve)/puff, qid, Placebo, Respimat, qid",646
+bi_new,BI248_629,"Pramipexole, Placebo",331
+bi_new,BI502_254,"Telmi 40mg, Telmi 80mg, Placebo, HCTZ 12.5mg, Telmi 20mg",1039
+bi_new,BI502_256,"Telmisartan, Tablet, 80 mg, Valsartan, Tablet, 80 mg",426
+bi_new,BI502_316,"Telmisartan, Losartan",362
+bi_new,BI502_317,"Telmisartan, Enalapril",374
+bi_new,BI502_327,"Val/Missed dose/Val, Telm/Telm/Missed dose, Val/Val/Missed dose, Telm/Missed dose/Telm",490
+bi_new,BI502_376,"Val/Val/MD, Val/MD/Val, Telm/Telm/MD, Telm/MD/Telm",446
+bi_new,BI502_391,"Telm 40/80/80, Ram 2.5/5/10",801
+bi_new,BI502_392,"Telmisartan 40/80/80 mg, Ramipril 2.5/5/10 mg",812
+bi_new,BI502_396,"Valsartan, Telmisartan",885
+bi_new,BI502_397,"Losartan 50 mg, Losartan 100 mg, Telmisartan 40 mg, Telmisartan 80 mg",860
+bi_new,BI502_413,"Placebo, Telmisartan 40mg, Telmisartan 80mg",527
+bi_new,BI502_550,"Telmisartan+HCTZ, Telmisartan",892
+lilly,LILLY_B3D_MC_GHAC,"Placebo, PTH20, PTH40",1637
+lilly,LILLY_B3D_US_GHBZ,"PTH20, ALN10",0
+lilly,LILLY_H3S_MC_GGGK,"RLX120, PLACEBO, RLX060",0
+lilly,LILLY_H6D_MC_LVGY,"Placebo, Tadalafil 10mg, Tadalafil 20mg, Tadalafil 40mg, Tadalafil 2.5mg",0
+lilly,LILLY_H6D_MC_LVHB,"tamsulosin 0.2 mg OaD, tadalafil 5 mg OaD, tadalafil 2.5 mg OaD, placebo OaD",629
+lilly,LILLY_H6D_MC_LVHG,Tadalafil 5 mg,0
+lilly,LILLY_H6D_MC_LVHJ,"Tadalafil, Placebo",325
+lilly,LILLY_H6D_MC_LVHR,"Tadalafil 2.5mg, Tadalafil 5mg, Placebo",606
+lilly,LILLY_H6D_MC_LVHS,"Tadalafil, Placebo",318
+lilly,LILLY_H6D_MC_LVID,"Tadalafil, Tamsulosin, Placebo",511
+lilly,LILLY_H9X_MC_GBCF,"LY 0.50mg, Sitagliptin, LY 1.0mg, LY 0.75mg, LY 1.5mg, Placebo/Sitagliptin, LY 3.0mg, LY 2.0mg, LY 0.25mg",1202
+lilly,LILLY_H9X_MC_GBDA,"LY2189265 0.75 mg, Exenatide, LY2189265 1.5 mg, Placebo/LY2189265 1.5 mg, Placebo/LY2189265 0.75 mg, Placebo",978
+lilly,LILLY_H9X_MC_GBDB,"Dula 0.75, Dula 1.5, Insulin Glargine",829
+lilly,LILLY_H9X_MC_GBDC,"Dula 0.75, Metformin, Dula 1.5",807
+lilly,LILLY_H9X_MC_GBDD,"Dula 1.5, Dula 0.75, Glargine",892
+lilly,LILLY_H9X_MC_GBDE,"Dula 1.5, Lira 1.8",599
+lilly,LILLY_H9X_MC_GBDG,"Dula 1.5, Placebo",300
+rch,RCHNA25220,"TCZ PFS q2w, Placebo PFS q2w",656
+rch,RCHQ4881G,"Omalizumab 150mg, Omalizumab 300mg, Placebo, Omalizumab 75mg",0
+rch,RCHQ4882G,"Omalizumab 150mg, Placebo, Omalizumab 300mg, Omalizumab 75mg",0
+rch,RCHQ4883G,"Placebo, Omalizumab 300mg",0
+rch,RCHWA19924,"ADA 40mg + Placebo (IV), TCZ 8mg/kg + Placebo (SC)",0
+tak,TKASYR322_305,"Glipizide, Alogliptin 12.5 mg, Alogliptin 25 mg",0
+tak,TKASYR322_402,"Alogliptin, Placebo",0

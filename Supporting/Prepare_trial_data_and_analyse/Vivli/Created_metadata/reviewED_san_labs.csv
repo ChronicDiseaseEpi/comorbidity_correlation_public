@@ -1,0 +1,18 @@
+lbtestcd,lbstresu,lbtest,keep
+ALB,g/L,Albumin,
+ALP,IU/L,Alkaline Phosphatase,
+ALT,IU/L,Alanine Aminotransferase,1
+APTT,sec,Activated Partial Thromboplastin Time,
+APTTC,sec,Activated Partial Thromboplastin Control,
+APTTR,1,Activated Partial Thromboplastin Ratio,
+AST,IU/L,Aspartate Aminotransferase,1
+BILDIR,umol/L,Direct Bilirubin,
+BILI,umol/L,Bilirubin,
+CREAT,umol/L,Creatinine,1
+CREATCLR,mL/min,Creatinine Clearance,1
+CTBILI,%,Ratio Direct Bilirubin / Total Bilirubin,
+HGB,g/L,Hemoglobin,1
+INR,1,Prothrombin Intl. Normalized Ratio,
+NEUT,10^9/L,Neutrophils,
+PLAT,10^9/L,Platelet,1
+WBC,10^9/L,Leukocytes,

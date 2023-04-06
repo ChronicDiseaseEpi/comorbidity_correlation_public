@@ -1,0 +1,805 @@
+diagnostics for trial model fits 
+
+
+## TRIALS WITH BOTH SEXES MODEL WARNINGS ##
+
+Divergences:
+15 of 3000 iterations ended with a divergence (0.5%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI1245_36 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 11:07:09"
+[1] 2
+
+
+
+Divergences:
+3 of 3000 iterations ended with a divergence (0.1%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI1276_1 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 12:04:55"
+[1] 3
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_396 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 12:41:11"
+[1] 4
+
+
+
+Divergences:
+2 of 3000 iterations ended with a divergence (0.0666666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_397 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 13:19:08"
+[1] 5
+
+
+
+Divergences:
+2 of 3000 iterations ended with a divergence (0.0666666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_413 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 13:45:23"
+[1] 6
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBCF Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 14:51:32"
+[1] 7
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDA Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 15:36:46"
+[1] 8
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDB Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 16:23:41"
+[1] 9
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDC Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 17:02:15"
+[1] 10
+
+
+
+Divergences:
+4 of 3000 iterations ended with a divergence (0.133333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDD Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 17:50:30"
+[1] 11
+
+
+
+Divergences:
+2 of 3000 iterations ended with a divergence (0.0666666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDE Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 18:24:56"
+[1] 12
+
+
+
+Divergences:
+23 of 3000 iterations ended with a divergence (0.766666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H9X_MC_GBDG Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 18:39:15"
+[1] 13
+
+
+
+Divergences:
+3 of 3000 iterations ended with a divergence (0.1%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "TKASYR322_305 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-05 21:23:43"
+[1] 14
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "TKASYR322_402 Diabetes_Mellitus_Type_2 has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 06:55:22"
+[1] 15
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_254 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 07:49:10"
+[1] 16
+
+
+
+Divergences:
+48 of 3000 iterations ended with a divergence (1.6%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_256 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 08:06:56"
+[1] 17
+
+
+
+Divergences:
+91 of 3000 iterations ended with a divergence (3.03333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_316 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 08:32:14"
+[1] 18
+
+
+
+Divergences:
+18 of 3000 iterations ended with a divergence (0.6%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_317 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 08:50:10"
+[1] 19
+
+
+
+Divergences:
+10 of 3000 iterations ended with a divergence (0.333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_327 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 09:12:40"
+[1] 20
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_376 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 09:27:30"
+[1] 21
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_391 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 09:57:45"
+[1] 22
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_392 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 10:35:49"
+[1] 23
+
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI502_550 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 11:13:16"
+[1] 24
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI107_210 Osteoarthritis has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 12:25:15"
+[1] 25
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_B3D_US_GHBZ Osteoporosis has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 12:50:15"
+[1] 26
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI248_524 Parkinson_Disease has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 13:12:04"
+[1] 27
+
+
+
+Divergences:
+8 of 3000 iterations ended with a divergence (0.266666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI248_525 Parkinson_Disease has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 13:36:59"
+[1] 28
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI248_622 Parkinson_Disease has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 13:47:46"
+[1] 29
+
+
+
+Divergences:
+10 of 3000 iterations ended with a divergence (0.333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI244_2484 Pulmonary_Disease_Chronic_Obstructive has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 14:21:31"
+[1] 30
+
+
+
+Divergences:
+7 of 3000 iterations ended with a divergence (0.233333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "BI248_629 Restless_legs_syndrome has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 14:33:07"
+[1] 31
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "RCHNA25220 Rheumatoid_arthritis has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 14:56:44"
+[1] 32
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "RCHWA19924 Rheumatoid_arthritis has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 15:07:26"
+
+
+
+There were 50 or more warnings (use warnings() to see the first 50)
+
+Warning messages:
+1: There were 15 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+2: Examine the pairs() plot to diagnose sampling problems
+
+3: There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+4: Examine the pairs() plot to diagnose sampling problems
+
+5: The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat
+6: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+7: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+8: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+9: There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+10: Examine the pairs() plot to diagnose sampling problems
+
+11: The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat
+12: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+13: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+14: There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+15: Examine the pairs() plot to diagnose sampling problems
+
+16: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+17: There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+18: Examine the pairs() plot to diagnose sampling problems
+
+19: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+20: There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+21: Examine the pairs() plot to diagnose sampling problems
+
+22: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+23: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+24: There were 4 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+25: Examine the pairs() plot to diagnose sampling problems
+
+26: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+27: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+28: There were 2 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+29: Examine the pairs() plot to diagnose sampling problems
+
+30: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+31: There were 23 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+32: Examine the pairs() plot to diagnose sampling problems
+
+33: There were 3 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+34: Examine the pairs() plot to diagnose sampling problems
+
+35: The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat
+36: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+37: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+38: The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat
+39: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+40: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+41: There were 1 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+42: Examine the pairs() plot to diagnose sampling problems
+
+43: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+44: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+45: There were 48 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+46: Examine the pairs() plot to diagnose sampling problems
+
+47: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+48: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+49: There were 91 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+50: Examine the pairs() plot to diagnose sampling problems
+
+
+
+## TRIALS WITH BOTH SEXES MODEL WARNINGS ##
+
+
+Divergences:
+14 of 3000 iterations ended with a divergence (0.466666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVHB Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 16:33:15"
+[1] 2
+
+
+
+Divergences:
+9 of 3000 iterations ended with a divergence (0.3%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVHG Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 16:54:12"
+[1] 3
+
+
+
+Divergences:
+37 of 3000 iterations ended with a divergence (1.23333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVHJ Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 17:05:50"
+[1] 4
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVHR Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 17:35:55"
+[1] 5
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVHS Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 17:48:06"
+[1] 6
+
+
+
+Divergences:
+17 of 3000 iterations ended with a divergence (0.566666666666667%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+[1] "LILLY_H6D_MC_LVID Benign_Prostatic_Hyperplasia has finished sampling and output has been saved in Results/model_fits/ on 2022-10-06 18:12:44"
+
+
+There were 12 warnings (use warnings() to see them)
+
+Warning messages:
+1: There were 14 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+2: Examine the pairs() plot to diagnose sampling problems
+
+3: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+4: There were 9 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+5: Examine the pairs() plot to diagnose sampling problems
+
+6: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+7: There were 37 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+8: Examine the pairs() plot to diagnose sampling problems
+
+9: There were 17 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+10: Examine the pairs() plot to diagnose sampling problems
+
+11: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+12: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+
+
+
+
+
+
+
+
+
+Divergences:
+12 of 3000 iterations ended with a divergence (0.4%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+
+[1] "LILLY_H6D_MC_LVGY Pulmonary_Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-11 15:56:05"
+
+Warning messages:
+1: There were 12 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. 
+2: Examine the pairs() plot to diagnose sampling problems
+ 
+3: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess 
+
+
+
+Divergences:
+12 of 3000 iterations ended with a divergence (0.4%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+
+Warning messages:
+1: There were 12 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. 
+2: Examine the pairs() plot to diagnose sampling problems
+ 
+3: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+
+"LILLY_H6D_MC_LVGY Pulmonary_Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-10-13 16:44:50"
+
+
+
+Divergences:
+0 of 3000 iterations ended with a divergence.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 10.
+
+Energy:
+E-BFMI indicated no pathological behavior.
+
+Warning messages:
+1: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess 
+2: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+
+"LILLY_B3D_MC_GHAC Osteoporosis has finished sampling and output has been saved in Results/model_fits/ on 2022-10-13 20:20:09"
+
+
+
+
+
+
+
+
+############################################
+
+Re -runs 
+
+
+Divergences:
+1 of 3000 iterations ended with a divergence (0.0333333333333333%).
+Try increasing 'adapt_delta' to remove the divergences.
+
+Tree depth:
+0 of 3000 iterations saturated the maximum tree depth of 12.
+
+"BI502_316 Hypertension has finished sampling and output has been saved in Results/model_fits/ on 2022-11-18 17:34:36"
+
+Energy:
+E-BFMI indicated no pathological behavior.
+
+
+
+

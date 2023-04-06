@@ -1,0 +1,29 @@
+index_condition,condition_grp,condition_grp_lbl,wider_categories
+Asthma,Asthma,Asthma,Respiratory
+Atrial Fibrillation,Atrial_Fibrillation,Atrial Fibrillation,Cardiovascular
+Axial Spondyloarthritis,Axial_Spondyloarthritis,Axial Spondyloarthritis,Musculoskeletal
+Benign Prostatic Hyperplasia,Benign_Prostatic_Hyperplasia,Benign Prostatic Hyperplasia,Urological
+Dementia (any),Alzheimers_Disease,Dementia,Neurological
+Alzheimer's Disease,Alzheimers_Disease,Dementia,Neurological
+"Diabetes Mellitus, Type 2",Diabetes_Mellitus_Type_2,"Diabetes Mellitus, Type 2",Cardiovascular
+,Diabetes_Mellitus_Type_2_plus_renal,"Diabetes Mellitus, Type 2 (with renal disease)",Cardiovascular
+Erectile dysfunction,Erectile_Dysfunction_Benign_Prostatic_Hyperplasia,Erectile dysfunction,Urological
+Hip arthroplasty,Arthroplasty_Replacement_Hip,"Arthroplasty, hip",Musculoskeletal
+Hypertension,Hypertension,Hypertension,Cardiovascular
+"Hypertension, Pulmonary",Hypertension_Pulmonary,"Hypertension, Pulmonary",Respiratory
+Inflammatory bowel disease,Inflammatory_bowel_disease,Inflammatory bowel disease,Inflammatory
+Knee arthroplasty,Arthroplasty_Replacement_Knee,"Arthroplasty, knee",Musculoskeletal
+Migraine,Migraine,Migraine,Neurological
+Osteoarthritis,Osteoarthritis,Osteoarthritis,Musculoskeletal
+Osteoporosis,Osteoporosis,Osteoporosis,Musculoskeletal
+Parkinson's disease (all),Parkinson_Disease,Parkinson's disease,Neurological
+Parkinson's disease (excluding secondary),Parkinson_Disease,Parkinson's disease,Neurological
+Psoriasis,Psoriasis,Psoriasis,Inflammatory
+Psoriatic arthropathy,Psoriatic_arthritis,"Arthritis, Psoriatic",Inflammatory
+"Pulmonary Disease, Chronic Obstructive",Pulmonary_Disease_Chronic_Obstructive,"Pulmonary Disease, Chronic Obstructive",Respiratory
+Pulmonary fibrosis,Pulmonary_Fibrosis,Pulmonary fibrosis,Respiratory
+Restless legs syndrome,Restless_Legs_Syndrome,Restless legs syndrome,Neurological
+Rheumatoid arthritis,rheumatoid_arthritis,"Arthritis, Rheumatoid",Inflammatory
+Systemic Lupus Erythematosus,Systemic_Lupus_Erythematosus,Systemic Lupus Erythematosus,Inflammatory
+Thromboembolism,Thromboembolism,Thromboembolism,Cardiovascular
+Epilepsy,Epilepsy,Epilepsy,Neurological

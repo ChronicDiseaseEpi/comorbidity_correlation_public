@@ -1,0 +1,46 @@
+trial,race,smoke
+BI107_210,"black, other, white",
+BI1123_11,"african descent, asian, caucasian, other","current, ex, never"
+BI1199_32,"Asian, White","Currently smokes, Ex-smoker, Never smoked"
+BI1199_34,"Asian, Black, White","Currently smokes, Ex-smoker, Never smoked"
+BI1245_36,"Amer.Ind./Alaska Nat, Asian, Black/African Amer., Hawaiian/Pacif. Isle, White","Currently smokes, Ex-smoker, Never smoked"
+BI1245_48,"Amer.Ind./Alaska Nat, Asian, Black/African Amer., Hawaiian/Pacif. Isle, White","Currently smokes, Ex-smoker, Never smoked"
+BI1276_1,"Amer.Ind./Alaska Nat, Asian, Black/African Amer., Hawaiian/Pacif. Isle, White","Currently smokes, Ex-smoker, Never smoked"
+BI244_2484,"black, other, white",
+BI248_524,"Asian, White",
+BI248_525,"Asian, White",
+BI248_622,"1, 2, 3, 5","0, 1, 2"
+BI248_629,"1, 3",
+BI502_254,"black, other, white",
+BI502_256,"black, other, white",
+BI502_316,"black, white",
+BI502_317,white,
+BI502_327,"black, other, white",
+BI502_376,"black, other, white",
+BI502_391,"1, 2, 3",
+BI502_392,"black, other, white",
+BI502_396,"black, other, white",
+BI502_397,"black, other, white",
+BI502_550,"Asian, Black/African American, Hawain/Pacific Islander, White",
+LILLY_B3D_MC_GHAC,"CAUCASIAN, OTHER","CURRENT, NON + QUIT>6MO."
+LILLY_B3D_US_GHBZ,"AF, CA, EA, HP, O",
+LILLY_H3S_MC_GGGK,"AF, AS, CA, EA, HP, O","N, Y"
+LILLY_H6D_MC_LVGY,"American Indian or Alaska Native, American Indian or Alaska Native / White, Asian, Black or African American, Black or African American / Native Hawaiian or Other Pacific Islander, Native Hawaiian or Other Pacific Islander, White",
+LILLY_H6D_MC_LVHB,Asian,"0, 1"
+LILLY_H6D_MC_LVHG,"African, Caucasian, East Asian, Hispanic, West Asian (Indian sub-continent)",
+LILLY_H6D_MC_LVHJ,"American Indian or Alaska Native, Asian, Black or African American, Multiple, White",1
+LILLY_H6D_MC_LVHR,"American Indian or Alaska Native, Asian, Black or African American, Multiple, White",1
+LILLY_H6D_MC_LVHS,"American Indian or Alaska Native, Asian, Black or African American, Multiple, Native Hawaiian or Other Pacific Islander, White",1
+LILLY_H6D_MC_LVID,"American Indian or Alaska Native, Black or African American, White",1
+LILLY_H9X_MC_GBCF,"Aboriginal and/or Torres Strait Islander, African, Caucasian, East Asian, Hispanic, Native American, West Asian (Indian sub-continent)","0, 1"
+LILLY_H9X_MC_GBDA,"AMERICAN INDIAN OR ALASKA NATIVE, ASIAN, Black or African American, Multiple, NATIVE HAWAIIAN OR PACIFIC ISLANDER, WHITE","0, 1"
+LILLY_H9X_MC_GBDB,"American Indian or Alaska Native, Asian, Black or African American, Multiple, White","0, 1"
+LILLY_H9X_MC_GBDC,"American Indian or Alaska Native, Asian, Black or African American, Multiple, Native Hawaiian or Other Pacific Islander, White","0, 1"
+LILLY_H9X_MC_GBDD,"American Indian or Alaska Native, Asian, Black or African American, Multiple, Native Hawaiian or Other Pacific Islander, White","0, 1"
+LILLY_H9X_MC_GBDE,"American Indian or Alaska Native, Asian, Black or African American, Multiple, White","0, 1"
+LILLY_H9X_MC_GBDG,"American Indian or Alaska Native, Asian, Black or African American, Multiple, White","0, 1"
+RCHNA25220,"OTHER, WHITE","CURRENT, NEVER, PREVIOUS"
+RCHQ4881G,"AMERICAN INDIAN OR ALASKA NATIVE, ASIAN, BLACK OR AFRICAN AMERICAN, OTHER, WHITE",
+RCHQ4882G,"AMERICAN INDIAN OR ALASKA NATIVE, ASIAN, BLACK OR AFRICAN AMERICAN, OTHER, WHITE",
+RCHQ4883G,"AMERICAN INDIAN OR ALASKA NATIVE, ASIAN, BLACK OR AFRICAN AMERICAN, OTHER, WHITE",
+RCHWA19924,"AMERICAN INDIAN OR ALASKA NATIVE, ASIAN, BLACK OR AFRICAN AMERICAN, OTHER, WHITE","CURRENT SMOKER, NEVER SMOKED, PAST SMOKER"

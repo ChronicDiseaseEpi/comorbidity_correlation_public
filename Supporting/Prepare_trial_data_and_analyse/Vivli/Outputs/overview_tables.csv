@@ -1,0 +1,49 @@
+trial,medhist,conmed,bmi,bp,labs,Comment
+BI107_210,,,,,X,No lab data collected in this study
+BI1123_11,X,X,,,X,"No WHO ATC conmed collected. Medical history limited, mainly cardiovascular and diabetes. No lab results located, sampling at least for haematology is mentioned in the CSR"
+BI1199_32,,X,,,,
+BI1199_34,,X,,,,
+BI1245_36,,,X,,X,
+BI1245_48,,X,X,X,,
+BI1276_1,,,,,,
+BI244_2484,,,,,,
+BI248_524,,,,,,
+BI248_525,,,,,,
+BI248_622,,,,,X,No lab data collected in this study
+BI248_629,,,,,X,No lab data collected in this study
+BI502_254,,,,,,
+BI502_256,,,,,,
+BI502_316,,,,,,
+BI502_317,,,,,,
+BI502_327,,,,,,
+BI502_376,,,,,X,No lab data in the dictionary or in the sas files
+BI502_391,,,,,X,"No evidence of collection of lab data in dictionary, CRF or any mention in the protocol"
+BI502_392,,,,,,
+BI502_396,,,,,,
+BI502_397,,,,,,
+BI502_413,,,,,,
+BI502_550,,,,,,
+LILLY_B3D_MC_GHAC,,,,,,
+LILLY_B3D_US_GHBZ,,,,,,
+LILLY_H3S_MC_GGGK,,,,,,
+LILLY_H6D_MC_LVGY,,,,,,
+LILLY_H6D_MC_LVHB,,,,,,
+LILLY_H6D_MC_LVHG,,,,,,
+LILLY_H6D_MC_LVHJ,,,,,,
+LILLY_H6D_MC_LVHR,,,,,,
+LILLY_H6D_MC_LVHS,,,,,,
+LILLY_H6D_MC_LVID,,,,,,
+LILLY_H9X_MC_GBCF,,,,,,
+LILLY_H9X_MC_GBDA,,,,,,
+LILLY_H9X_MC_GBDB,,,,,,
+LILLY_H9X_MC_GBDC,,,,,,
+LILLY_H9X_MC_GBDD,,,,,,
+LILLY_H9X_MC_GBDE,,,,,,
+LILLY_H9X_MC_GBDG,,,,,,
+RCHNA25220,,,,,,
+RCHQ4881G,X,,,,,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+RCHQ4882G,X,,,,,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+RCHQ4883G,X,,,,,MedDRA systems but non-MedDRA terms. Approx 1900 unique terms across the three RCHQ488__ trials
+RCHWA19924,,,,,,
+TKASYR322_305,,,,,,
+TKASYR322_402,,,,,,

@@ -1,0 +1,820 @@
+mean,Var1,Var2,ci2.5,ci97.5,sd,n_eff,rhat,trial,condition,comorbidity,repo
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI107_210,Osteoarthritis,Cardiovascular : Cardiovascular,Vivli
+0.06,Cardiovascular,Acid-related disease,-0.031,0.149,0.046,2497.29,1,BI107_210,Osteoarthritis,Cardiovascular : Acid-related disease,Vivli
+0.11,Cardiovascular,Anxiety,0.026,0.203,0.046,2297.44,1,BI107_210,Osteoarthritis,Cardiovascular : Anxiety,Vivli
+-0,Cardiovascular,Asthma,-0.122,0.119,0.061,2241.52,1.001,BI107_210,Osteoarthritis,Cardiovascular : Asthma,Vivli
+0.06,Thyroid disorders,Cardiovascular,-0.033,0.158,0.049,2154.15,1.001,BI107_210,Osteoarthritis,Thyroid disorders : Cardiovascular,Vivli
+0.29,Diabetes,Cardiovascular,0.177,0.402,0.059,2391.45,1.001,BI107_210,Osteoarthritis,Diabetes : Cardiovascular,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,3203.14,0.999,BI107_210,Osteoarthritis,Acid-related disease : Acid-related disease,Vivli
+0.1,Anxiety,Acid-related disease,0.003,0.193,0.049,1727.55,1.001,BI107_210,Osteoarthritis,Anxiety : Acid-related disease,Vivli
+0.12,Asthma,Acid-related disease,-0.008,0.235,0.063,1765.44,1.001,BI107_210,Osteoarthritis,Asthma : Acid-related disease,Vivli
+0.48,Thyroid disorders,Acid-related disease,0.399,0.554,0.04,2261.6,1,BI107_210,Osteoarthritis,Thyroid disorders : Acid-related disease,Vivli
+-0.09,Diabetes,Acid-related disease,-0.216,0.035,0.065,2107.98,1.001,BI107_210,Osteoarthritis,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2812.03,0.999,BI107_210,Osteoarthritis,Anxiety : Anxiety,Vivli
+0.13,Asthma,Anxiety,0.009,0.254,0.062,2110.96,1.002,BI107_210,Osteoarthritis,Asthma : Anxiety,Vivli
+0.17,Thyroid disorders,Anxiety,0.065,0.266,0.051,2173.93,1,BI107_210,Osteoarthritis,Thyroid disorders : Anxiety,Vivli
+-0.11,Diabetes,Anxiety,-0.241,0.027,0.068,1910.79,1,BI107_210,Osteoarthritis,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2721.76,0.999,BI107_210,Osteoarthritis,Asthma : Asthma,Vivli
+-0.03,Thyroid disorders,Asthma,-0.164,0.095,0.067,1289.37,1.002,BI107_210,Osteoarthritis,Thyroid disorders : Asthma,Vivli
+-0.05,Diabetes,Asthma,-0.231,0.128,0.091,1003.25,0.999,BI107_210,Osteoarthritis,Diabetes : Asthma,Vivli
+1,Thyroid disorders,Thyroid disorders,1,1,0,2321.55,0.999,BI107_210,Osteoarthritis,Thyroid disorders : Thyroid disorders,Vivli
+-0.05,Thyroid disorders,Diabetes,-0.189,0.08,0.069,2141.44,1,BI107_210,Osteoarthritis,Thyroid disorders : Diabetes,Vivli
+1,Diabetes,Diabetes,1,1,0,2612.48,0.999,BI107_210,Osteoarthritis,Diabetes : Diabetes,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI1245_36,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.35,Pain,Cardiovascular,0.136,0.535,0.101,2191.69,1.001,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.47,Cardiovascular,Arthritis,0.252,0.657,0.104,2533.98,1,BI1245_36,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.25,Cardiovascular,Acid-related disease,0.009,0.48,0.123,1837.14,1,BI1245_36,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+-0.25,Cardiovascular,Anxiety,-0.683,0.201,0.232,1317.01,1,BI1245_36,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+-0.02,Cardiovascular,Asthma,-0.376,0.333,0.187,1747,1,BI1245_36,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3067.41,0.999,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.04,Pain,Arthritis,-0.296,0.391,0.179,1285.43,1.001,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+0.5,Pain,Acid-related disease,0.26,0.711,0.115,2335.2,1.001,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+-0.28,Pain,Anxiety,-0.8,0.315,0.297,974.22,1.003,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.34,Pain,Asthma,-0.006,0.656,0.17,1876.91,1.002,BI1245_36,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,1956.79,0.999,BI1245_36,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.16,Arthritis,Acid-related disease,-0.621,0.315,0.244,647.49,1,BI1245_36,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.24,Arthritis,Anxiety,-0.16,0.612,0.202,2081.18,1,BI1245_36,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+-0.13,Asthma,Arthritis,-0.687,0.403,0.287,759.61,1,BI1245_36,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1199.34,0.999,BI1245_36,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+-0.29,Anxiety,Acid-related disease,-0.828,0.318,0.308,986.99,1.001,BI1245_36,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+-0.07,Asthma,Acid-related disease,-0.541,0.434,0.255,952.2,1.001,BI1245_36,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2956.81,0.999,BI1245_36,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+-0.14,Asthma,Anxiety,-0.757,0.503,0.331,1002.85,1,BI1245_36,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,628.95,0.999,BI1245_36,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI1276_1,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.18,Pain,Cardiovascular,0.024,0.335,0.08,1956.56,1.001,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.45,Cardiovascular,Arthritis,0.318,0.567,0.065,1728.99,1,BI1276_1,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.13,Cardiovascular,Acid-related disease,-0.075,0.322,0.103,1200.58,1.001,BI1276_1,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.21,Cardiovascular,Anxiety,-0.059,0.441,0.128,1338.19,1.001,BI1276_1,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.21,Cardiovascular,Asthma,0.006,0.405,0.105,1393.1,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3080.5,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.45,Pain,Arthritis,0.27,0.606,0.086,1363.71,1,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+0.41,Pain,Acid-related disease,0.196,0.608,0.105,1047.26,1,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.15,Pain,Anxiety,-0.15,0.44,0.151,1046.16,1.003,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.26,Pain,Asthma,-0.005,0.509,0.131,860.87,1.007,BI1276_1,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,613.97,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.22,Arthritis,Acid-related disease,-0.504,0.09,0.154,426.67,1.017,BI1276_1,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0,Arthritis,Anxiety,-0.349,0.367,0.185,313.6,1.009,BI1276_1,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.3,Asthma,Arthritis,0.054,0.529,0.12,833.53,1.005,BI1276_1,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1529.96,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.6,Anxiety,Acid-related disease,0.358,0.786,0.11,2148.6,1.001,BI1276_1,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.24,Asthma,Acid-related disease,-0.062,0.515,0.15,481.64,1.013,BI1276_1,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2623.95,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.49,Asthma,Anxiety,0.187,0.738,0.14,853.44,1.003,BI1276_1,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,481.15,0.999,BI1276_1,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Cardiovascular,Vivli
+0.03,Pain,Cardiovascular,-0.12,0.17,0.072,2990.83,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Cardiovascular,Vivli
+0,Cardiovascular,Acid-related disease,-0.139,0.151,0.075,3246.69,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Acid-related disease,Vivli
+0.09,Cardiovascular,Arthritis,-0.07,0.252,0.083,1827.24,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Arthritis,Vivli
+0.14,Cardiovascular,Anxiety,-0.005,0.268,0.07,3113.11,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Anxiety,Vivli
+0.24,Diabetes,Cardiovascular,0.033,0.428,0.102,2871.94,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Cardiovascular,Vivli
+1,Pain,Pain,1,1,0,3152.4,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Pain,Vivli
+0.19,Pain,Acid-related disease,0.046,0.331,0.073,2580.04,1.001,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Acid-related disease,Vivli
+0.07,Pain,Arthritis,-0.109,0.241,0.087,1776.04,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Arthritis,Vivli
+0.29,Pain,Anxiety,0.155,0.419,0.068,3101.53,1.001,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Anxiety,Vivli
+-0.19,Pain,Diabetes,-0.429,0.047,0.122,1901.78,1.001,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Pain : Diabetes,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2868.3,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Acid-related disease : Acid-related disease,Vivli
+-0.77,Arthritis,Acid-related disease,-0.943,-0.518,0.114,163.11,1.018,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Acid-related disease,Vivli
+0.04,Anxiety,Acid-related disease,-0.115,0.195,0.078,778.02,1.005,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Anxiety : Acid-related disease,Vivli
+-0.07,Diabetes,Acid-related disease,-0.302,0.161,0.118,1267.06,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Acid-related disease,Vivli
+1,Arthritis,Arthritis,1,1,0,147.85,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Arthritis,Vivli
+0.11,Arthritis,Anxiety,-0.057,0.283,0.087,369.22,1.007,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Anxiety,Vivli
+0.02,Diabetes,Arthritis,-0.238,0.266,0.13,944.98,1.001,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Arthritis,Vivli
+1,Anxiety,Anxiety,1,1,0,2911.2,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Anxiety : Anxiety,Vivli
+0.06,Diabetes,Anxiety,-0.171,0.271,0.114,2701.59,1,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Anxiety,Vivli
+1,Diabetes,Diabetes,1,1,0,2906.87,0.999,BI244_2484,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Diabetes,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI248_524,Parkinson_Disease,Cardiovascular : Cardiovascular,Vivli
+0.11,Pain,Cardiovascular,-0.131,0.347,0.119,1632.71,1,BI248_524,Parkinson_Disease,Pain : Cardiovascular,Vivli
+0.1,Cardiovascular,Anxiety,-0.057,0.245,0.077,1940.25,1.001,BI248_524,Parkinson_Disease,Cardiovascular : Anxiety,Vivli
+0.13,Cardiovascular,Acid-related disease,-0.036,0.306,0.089,1672.62,1.001,BI248_524,Parkinson_Disease,Cardiovascular : Acid-related disease,Vivli
+0.2,Cardiovascular,Arthritis,0.016,0.364,0.089,1919.62,1.003,BI248_524,Parkinson_Disease,Cardiovascular : Arthritis,Vivli
+0.25,Cardiovascular,Asthma,0.043,0.461,0.107,1424.62,1.002,BI248_524,Parkinson_Disease,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2874.29,0.999,BI248_524,Parkinson_Disease,Pain : Pain,Vivli
+0.23,Pain,Anxiety,-0.023,0.461,0.124,588.19,1.001,BI248_524,Parkinson_Disease,Pain : Anxiety,Vivli
+0.29,Pain,Acid-related disease,0.03,0.531,0.129,695.74,1.004,BI248_524,Parkinson_Disease,Pain : Acid-related disease,Vivli
+0.34,Pain,Arthritis,0.102,0.562,0.121,838.12,1.001,BI248_524,Parkinson_Disease,Pain : Arthritis,Vivli
+0.36,Pain,Asthma,0.063,0.617,0.141,834.6,1.003,BI248_524,Parkinson_Disease,Pain : Asthma,Vivli
+1,Anxiety,Anxiety,1,1,0,3221.73,0.999,BI248_524,Parkinson_Disease,Anxiety : Anxiety,Vivli
+0.27,Anxiety,Acid-related disease,0.085,0.446,0.092,1523.36,1.001,BI248_524,Parkinson_Disease,Anxiety : Acid-related disease,Vivli
+0.04,Arthritis,Anxiety,-0.16,0.246,0.105,1323.49,1.002,BI248_524,Parkinson_Disease,Arthritis : Anxiety,Vivli
+0.3,Asthma,Anxiety,0.076,0.506,0.111,1806,1,BI248_524,Parkinson_Disease,Asthma : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2590.95,0.999,BI248_524,Parkinson_Disease,Acid-related disease : Acid-related disease,Vivli
+-0.23,Arthritis,Acid-related disease,-0.475,0.027,0.128,607.91,1.004,BI248_524,Parkinson_Disease,Arthritis : Acid-related disease,Vivli
+0.03,Asthma,Acid-related disease,-0.268,0.316,0.148,982.2,1.001,BI248_524,Parkinson_Disease,Asthma : Acid-related disease,Vivli
+1,Arthritis,Arthritis,1,1,0,2899.34,0.999,BI248_524,Parkinson_Disease,Arthritis : Arthritis,Vivli
+0.28,Asthma,Arthritis,0.024,0.512,0.124,1403.61,1.004,BI248_524,Parkinson_Disease,Asthma : Arthritis,Vivli
+1,Asthma,Asthma,1,1,0,2855.44,0.999,BI248_524,Parkinson_Disease,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI248_525,Parkinson_Disease,Cardiovascular : Cardiovascular,Vivli
+-0.1,Pain,Cardiovascular,-0.361,0.174,0.137,1674.26,1,BI248_525,Parkinson_Disease,Pain : Cardiovascular,Vivli
+0.02,Cardiovascular,Anxiety,-0.139,0.185,0.082,1531.84,1,BI248_525,Parkinson_Disease,Cardiovascular : Anxiety,Vivli
+0.05,Cardiovascular,Acid-related disease,-0.159,0.241,0.101,2251.68,0.999,BI248_525,Parkinson_Disease,Cardiovascular : Acid-related disease,Vivli
+0.22,Cardiovascular,Arthritis,0.005,0.429,0.109,1572.02,1.001,BI248_525,Parkinson_Disease,Cardiovascular : Arthritis,Vivli
+0.21,Cardiovascular,Asthma,-0.17,0.583,0.195,2094.74,1,BI248_525,Parkinson_Disease,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2907.22,0.999,BI248_525,Parkinson_Disease,Pain : Pain,Vivli
+0.28,Pain,Anxiety,0.024,0.52,0.127,627.62,1.002,BI248_525,Parkinson_Disease,Pain : Anxiety,Vivli
+0.14,Pain,Acid-related disease,-0.163,0.443,0.155,772.55,1.001,BI248_525,Parkinson_Disease,Pain : Acid-related disease,Vivli
+0.47,Pain,Arthritis,0.205,0.689,0.125,893.14,1.002,BI248_525,Parkinson_Disease,Pain : Arthritis,Vivli
+-0.25,Pain,Asthma,-0.812,0.384,0.323,847.37,1.001,BI248_525,Parkinson_Disease,Pain : Asthma,Vivli
+1,Anxiety,Anxiety,1,1,0,3024.71,0.999,BI248_525,Parkinson_Disease,Anxiety : Anxiety,Vivli
+0.39,Anxiety,Acid-related disease,0.215,0.551,0.088,2477.58,1.001,BI248_525,Parkinson_Disease,Anxiety : Acid-related disease,Vivli
+-0.02,Arthritis,Anxiety,-0.249,0.211,0.117,1848.12,1.001,BI248_525,Parkinson_Disease,Arthritis : Anxiety,Vivli
+0.01,Asthma,Anxiety,-0.405,0.41,0.214,1830.85,1.001,BI248_525,Parkinson_Disease,Asthma : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2381.73,0.999,BI248_525,Parkinson_Disease,Acid-related disease : Acid-related disease,Vivli
+-0.44,Arthritis,Acid-related disease,-0.754,-0.066,0.181,439.57,1.004,BI248_525,Parkinson_Disease,Arthritis : Acid-related disease,Vivli
+0.21,Asthma,Acid-related disease,-0.213,0.589,0.211,1838.67,1,BI248_525,Parkinson_Disease,Asthma : Acid-related disease,Vivli
+1,Arthritis,Arthritis,1,1,0,2898.73,0.999,BI248_525,Parkinson_Disease,Arthritis : Arthritis,Vivli
+-0.26,Asthma,Arthritis,-0.781,0.34,0.295,1062.42,1.003,BI248_525,Parkinson_Disease,Asthma : Arthritis,Vivli
+1,Asthma,Asthma,1,1,0,3032.82,0.999,BI248_525,Parkinson_Disease,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI248_622,Parkinson_Disease,Cardiovascular : Cardiovascular,Vivli
+0.13,Pain,Cardiovascular,-0.078,0.329,0.104,1993.45,0.999,BI248_622,Parkinson_Disease,Pain : Cardiovascular,Vivli
+0.03,Cardiovascular,Anxiety,-0.164,0.22,0.096,2490.32,1,BI248_622,Parkinson_Disease,Cardiovascular : Anxiety,Vivli
+-0.1,Cardiovascular,Acid-related disease,-0.296,0.098,0.099,1809.44,0.999,BI248_622,Parkinson_Disease,Cardiovascular : Acid-related disease,Vivli
+0.35,Cardiovascular,Arthritis,0.181,0.518,0.088,1882.88,1,BI248_622,Parkinson_Disease,Cardiovascular : Arthritis,Vivli
+0.14,Cardiovascular,Asthma,-0.112,0.402,0.133,1604.25,1,BI248_622,Parkinson_Disease,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2967.99,0.999,BI248_622,Parkinson_Disease,Pain : Pain,Vivli
+0.04,Pain,Anxiety,-0.181,0.269,0.115,1524.72,1.001,BI248_622,Parkinson_Disease,Pain : Anxiety,Vivli
+-0.08,Pain,Acid-related disease,-0.309,0.151,0.119,1346.56,1.001,BI248_622,Parkinson_Disease,Pain : Acid-related disease,Vivli
+0.27,Pain,Arthritis,0.045,0.462,0.105,1679.01,1.001,BI248_622,Parkinson_Disease,Pain : Arthritis,Vivli
+0.29,Pain,Asthma,0.044,0.532,0.128,2488.76,1,BI248_622,Parkinson_Disease,Pain : Asthma,Vivli
+1,Anxiety,Anxiety,1,1,0,2888.12,0.999,BI248_622,Parkinson_Disease,Anxiety : Anxiety,Vivli
+0.17,Anxiety,Acid-related disease,-0.039,0.369,0.104,2049.52,1.003,BI248_622,Parkinson_Disease,Anxiety : Acid-related disease,Vivli
+0.09,Arthritis,Anxiety,-0.113,0.297,0.104,1728.25,1.002,BI248_622,Parkinson_Disease,Arthritis : Anxiety,Vivli
+0.19,Asthma,Anxiety,-0.072,0.433,0.13,2281.6,1,BI248_622,Parkinson_Disease,Asthma : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2745.98,0.999,BI248_622,Parkinson_Disease,Acid-related disease : Acid-related disease,Vivli
+-0.42,Arthritis,Acid-related disease,-0.605,-0.202,0.102,1235.39,1.002,BI248_622,Parkinson_Disease,Arthritis : Acid-related disease,Vivli
+0.13,Asthma,Acid-related disease,-0.135,0.387,0.136,2106.06,1.001,BI248_622,Parkinson_Disease,Asthma : Acid-related disease,Vivli
+1,Arthritis,Arthritis,1,1,0,414.72,0.999,BI248_622,Parkinson_Disease,Arthritis : Arthritis,Vivli
+0.23,Asthma,Arthritis,-0.018,0.46,0.124,2519.67,1,BI248_622,Parkinson_Disease,Asthma : Arthritis,Vivli
+1,Asthma,Asthma,1,1,0,2403.18,0.999,BI248_622,Parkinson_Disease,Asthma : Asthma,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI248_629,Restless_legs_syndrome,Pain : Pain,Vivli
+0.13,Pain,Cardiovascular,-0.071,0.322,0.099,1835.13,1.001,BI248_629,Restless_legs_syndrome,Pain : Cardiovascular,Vivli
+0.32,Pain,Arthritis,0.122,0.491,0.095,2059.26,1,BI248_629,Restless_legs_syndrome,Pain : Arthritis,Vivli
+0.08,Pain,Anxiety,-0.17,0.322,0.127,1871.88,1.002,BI248_629,Restless_legs_syndrome,Pain : Anxiety,Vivli
+0.13,Pain,Acid-related disease,-0.095,0.365,0.118,1260.55,1.002,BI248_629,Restless_legs_syndrome,Pain : Acid-related disease,Vivli
+0.01,Pain,Asthma,-0.233,0.256,0.127,1830.78,1.001,BI248_629,Restless_legs_syndrome,Pain : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,3022.85,0.999,BI248_629,Restless_legs_syndrome,Cardiovascular : Cardiovascular,Vivli
+0.19,Cardiovascular,Arthritis,0.002,0.369,0.094,2623.57,1,BI248_629,Restless_legs_syndrome,Cardiovascular : Arthritis,Vivli
+-0.04,Cardiovascular,Anxiety,-0.28,0.195,0.124,2355.79,1.001,BI248_629,Restless_legs_syndrome,Cardiovascular : Anxiety,Vivli
+0.1,Cardiovascular,Acid-related disease,-0.126,0.334,0.117,1445.39,1,BI248_629,Restless_legs_syndrome,Cardiovascular : Acid-related disease,Vivli
+0.09,Cardiovascular,Asthma,-0.129,0.319,0.116,2267.68,1,BI248_629,Restless_legs_syndrome,Cardiovascular : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,3025.96,0.999,BI248_629,Restless_legs_syndrome,Arthritis : Arthritis,Vivli
+-0.06,Arthritis,Anxiety,-0.304,0.189,0.129,1361.41,1.002,BI248_629,Restless_legs_syndrome,Arthritis : Anxiety,Vivli
+-0.64,Arthritis,Acid-related disease,-0.86,-0.344,0.135,287.2,1.009,BI248_629,Restless_legs_syndrome,Arthritis : Acid-related disease,Vivli
+0.12,Asthma,Arthritis,-0.127,0.349,0.122,1255.35,1.004,BI248_629,Restless_legs_syndrome,Asthma : Arthritis,Vivli
+1,Anxiety,Anxiety,1,1,0,2514.17,0.999,BI248_629,Restless_legs_syndrome,Anxiety : Anxiety,Vivli
+0.18,Anxiety,Acid-related disease,-0.096,0.447,0.14,1601.8,1.001,BI248_629,Restless_legs_syndrome,Anxiety : Acid-related disease,Vivli
+0.15,Asthma,Anxiety,-0.123,0.409,0.136,1314.29,1.002,BI248_629,Restless_legs_syndrome,Asthma : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2358.01,0.999,BI248_629,Restless_legs_syndrome,Acid-related disease : Acid-related disease,Vivli
+-0.02,Asthma,Acid-related disease,-0.315,0.275,0.154,584.8,1.008,BI248_629,Restless_legs_syndrome,Asthma : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2544.26,0.999,BI248_629,Restless_legs_syndrome,Asthma : Asthma,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_254,Hypertension,Pain : Pain,Vivli
+0.43,Pain,Arthritis,0.297,0.553,0.066,1721.09,1.001,BI502_254,Hypertension,Pain : Arthritis,Vivli
+0.31,Pain,Acid-related disease,0.128,0.475,0.089,1357.99,1.004,BI502_254,Hypertension,Pain : Acid-related disease,Vivli
+0.21,Pain,Anxiety,0.036,0.385,0.09,1694.19,1.001,BI502_254,Hypertension,Pain : Anxiety,Vivli
+0.09,Pain,Asthma,-0.129,0.312,0.112,1224.11,1.003,BI502_254,Hypertension,Pain : Asthma,Vivli
+-0.08,Pain,Diabetes,-0.313,0.157,0.12,1147.57,1.003,BI502_254,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2950.13,0.999,BI502_254,Hypertension,Arthritis : Arthritis,Vivli
+-0.54,Arthritis,Acid-related disease,-0.732,-0.317,0.109,303.74,1.013,BI502_254,Hypertension,Arthritis : Acid-related disease,Vivli
+0.13,Arthritis,Anxiety,-0.03,0.291,0.082,1483.1,1,BI502_254,Hypertension,Arthritis : Anxiety,Vivli
+-0.2,Asthma,Arthritis,-0.397,0.015,0.108,896.81,1.003,BI502_254,Hypertension,Asthma : Arthritis,Vivli
+0.03,Diabetes,Arthritis,-0.166,0.217,0.098,1440.06,1.002,BI502_254,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2752.53,0.999,BI502_254,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.23,Anxiety,Acid-related disease,0.038,0.412,0.094,949.77,1.005,BI502_254,Hypertension,Anxiety : Acid-related disease,Vivli
+0.22,Asthma,Acid-related disease,0.012,0.416,0.104,983.35,1.001,BI502_254,Hypertension,Asthma : Acid-related disease,Vivli
+-0.04,Diabetes,Acid-related disease,-0.277,0.198,0.121,596.11,1.006,BI502_254,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,3010.03,0.999,BI502_254,Hypertension,Anxiety : Anxiety,Vivli
+0.08,Asthma,Anxiety,-0.139,0.298,0.111,2699.52,1,BI502_254,Hypertension,Asthma : Anxiety,Vivli
+0,Diabetes,Anxiety,-0.227,0.223,0.115,2310.71,1.001,BI502_254,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2713.5,0.999,BI502_254,Hypertension,Asthma : Asthma,Vivli
+0.11,Diabetes,Asthma,-0.138,0.351,0.124,1594.83,1,BI502_254,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2696.56,0.999,BI502_254,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_256,Hypertension,Pain : Pain,Vivli
+0.05,Pain,Arthritis,-0.148,0.252,0.104,1282.8,1.001,BI502_256,Hypertension,Pain : Arthritis,Vivli
+0.08,Pain,Acid-related disease,-0.215,0.393,0.151,446.45,1.004,BI502_256,Hypertension,Pain : Acid-related disease,Vivli
+0.12,Pain,Anxiety,-0.113,0.355,0.121,1599.78,1.001,BI502_256,Hypertension,Pain : Anxiety,Vivli
+-0.03,Pain,Asthma,-0.396,0.35,0.191,1149.73,1.001,BI502_256,Hypertension,Pain : Asthma,Vivli
+-0.31,Pain,Diabetes,-0.601,-0.019,0.152,574.16,1.011,BI502_256,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2867.62,0.999,BI502_256,Hypertension,Arthritis : Arthritis,Vivli
+-0.57,Arthritis,Acid-related disease,-0.841,-0.21,0.163,271.73,1.008,BI502_256,Hypertension,Arthritis : Acid-related disease,Vivli
+0.17,Arthritis,Anxiety,-0.05,0.374,0.111,1329.85,1.001,BI502_256,Hypertension,Arthritis : Anxiety,Vivli
+0.25,Asthma,Arthritis,-0.065,0.535,0.153,2013.06,1.002,BI502_256,Hypertension,Asthma : Arthritis,Vivli
+-0.28,Diabetes,Arthritis,-0.518,-0.009,0.133,511.21,1.008,BI502_256,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2469.58,0.999,BI502_256,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.2,Anxiety,Acid-related disease,-0.072,0.462,0.137,859.35,1.004,BI502_256,Hypertension,Anxiety : Acid-related disease,Vivli
+0.28,Asthma,Acid-related disease,-0.089,0.62,0.185,904.26,1.001,BI502_256,Hypertension,Asthma : Acid-related disease,Vivli
+0.04,Diabetes,Acid-related disease,-0.258,0.356,0.159,659.88,1.004,BI502_256,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2048.76,0.999,BI502_256,Hypertension,Anxiety : Anxiety,Vivli
+0.34,Asthma,Anxiety,-0,0.636,0.164,1365.46,1.004,BI502_256,Hypertension,Asthma : Anxiety,Vivli
+0.09,Diabetes,Anxiety,-0.198,0.376,0.145,1503.41,1.002,BI502_256,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,1791.31,0.999,BI502_256,Hypertension,Asthma : Asthma,Vivli
+-0.3,Diabetes,Asthma,-0.77,0.228,0.255,293.64,1,BI502_256,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2302,0.999,BI502_256,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_316,Hypertension,Pain : Pain,Vivli
+-0.01,Pain,Arthritis,-0.746,0.707,0.385,632.43,1.002,BI502_316,Hypertension,Pain : Arthritis,Vivli
+-0,Pain,Acid-related disease,-0.718,0.735,0.392,598.22,1.005,BI502_316,Hypertension,Pain : Acid-related disease,Vivli
+0.01,Pain,Anxiety,-0.669,0.667,0.361,349.79,1.011,BI502_316,Hypertension,Pain : Anxiety,Vivli
+-0,Pain,Asthma,-0.689,0.724,0.379,2218.23,1,BI502_316,Hypertension,Pain : Asthma,Vivli
+0.02,Pain,Diabetes,-0.708,0.702,0.377,810.52,1.004,BI502_316,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2717.46,0.999,BI502_316,Hypertension,Arthritis : Arthritis,Vivli
+-0.14,Arthritis,Acid-related disease,-0.745,0.459,0.323,1285.94,1.001,BI502_316,Hypertension,Arthritis : Acid-related disease,Vivli
+-0.27,Arthritis,Anxiety,-0.764,0.246,0.264,539.02,1.002,BI502_316,Hypertension,Arthritis : Anxiety,Vivli
+-0.02,Asthma,Arthritis,-0.702,0.618,0.353,2566.95,1.001,BI502_316,Hypertension,Asthma : Arthritis,Vivli
+-0.08,Diabetes,Arthritis,-0.685,0.51,0.32,1195.12,0.999,BI502_316,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2846.87,0.999,BI502_316,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.25,Anxiety,Acid-related disease,-0.182,0.614,0.208,919.04,1,BI502_316,Hypertension,Anxiety : Acid-related disease,Vivli
+-0.04,Asthma,Acid-related disease,-0.727,0.637,0.361,3119.92,0.999,BI502_316,Hypertension,Asthma : Acid-related disease,Vivli
+-0.11,Diabetes,Acid-related disease,-0.745,0.536,0.345,1034.48,1.002,BI502_316,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2592.92,0.999,BI502_316,Hypertension,Anxiety : Anxiety,Vivli
+-0.06,Asthma,Anxiety,-0.72,0.559,0.343,2883,1,BI502_316,Hypertension,Asthma : Anxiety,Vivli
+-0.18,Diabetes,Anxiety,-0.73,0.347,0.287,1438.85,1,BI502_316,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,1264.34,0.999,BI502_316,Hypertension,Asthma : Asthma,Vivli
+-0.01,Diabetes,Asthma,-0.7,0.632,0.357,1377.37,1.002,BI502_316,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,573.61,0.999,BI502_316,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_317,Hypertension,Pain : Pain,Vivli
+0.41,Pain,Arthritis,0.059,0.709,0.171,2720.98,1,BI502_317,Hypertension,Pain : Arthritis,Vivli
+-0.19,Pain,Acid-related disease,-0.768,0.418,0.311,1521.02,1.001,BI502_317,Hypertension,Pain : Acid-related disease,Vivli
+0.12,Pain,Anxiety,-0.265,0.473,0.19,1325.2,1.002,BI502_317,Hypertension,Pain : Anxiety,Vivli
+-0.17,Pain,Asthma,-0.764,0.447,0.325,1220.47,1.002,BI502_317,Hypertension,Pain : Asthma,Vivli
+-0.11,Pain,Diabetes,-0.748,0.499,0.328,1229.31,1.002,BI502_317,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2910.15,0.999,BI502_317,Hypertension,Arthritis : Arthritis,Vivli
+-0.13,Arthritis,Acid-related disease,-0.691,0.455,0.304,1171.99,1.001,BI502_317,Hypertension,Arthritis : Acid-related disease,Vivli
+-0.21,Arthritis,Anxiety,-0.688,0.288,0.251,722.54,1.001,BI502_317,Hypertension,Arthritis : Anxiety,Vivli
+-0.11,Asthma,Arthritis,-0.719,0.478,0.318,1457.3,1.001,BI502_317,Hypertension,Asthma : Arthritis,Vivli
+-0.07,Diabetes,Arthritis,-0.696,0.501,0.317,1075.1,1,BI502_317,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2829.69,0.999,BI502_317,Hypertension,Acid-related disease : Acid-related disease,Vivli
+-0.22,Anxiety,Acid-related disease,-0.771,0.297,0.275,554.06,1.003,BI502_317,Hypertension,Anxiety : Acid-related disease,Vivli
+-0.05,Asthma,Acid-related disease,-0.666,0.525,0.317,1534.58,1,BI502_317,Hypertension,Asthma : Acid-related disease,Vivli
+-0.03,Diabetes,Acid-related disease,-0.673,0.573,0.33,1529.78,1.001,BI502_317,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2217.43,0.999,BI502_317,Hypertension,Anxiety : Anxiety,Vivli
+-0.18,Asthma,Anxiety,-0.743,0.382,0.296,1691.82,1.001,BI502_317,Hypertension,Asthma : Anxiety,Vivli
+-0.12,Diabetes,Anxiety,-0.736,0.454,0.316,1556.68,1.003,BI502_317,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2726.22,0.999,BI502_317,Hypertension,Asthma : Asthma,Vivli
+-0.02,Diabetes,Asthma,-0.685,0.558,0.333,1429.99,1.003,BI502_317,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2618.28,0.999,BI502_317,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_327,Hypertension,Pain : Pain,Vivli
+0.17,Pain,Arthritis,-0.008,0.339,0.088,1808.95,1,BI502_327,Hypertension,Pain : Arthritis,Vivli
+0.02,Pain,Acid-related disease,-0.213,0.25,0.118,1362.53,1,BI502_327,Hypertension,Pain : Acid-related disease,Vivli
+0.06,Pain,Anxiety,-0.179,0.29,0.121,1897.39,0.999,BI502_327,Hypertension,Pain : Anxiety,Vivli
+-0.07,Pain,Asthma,-0.356,0.207,0.148,1751.96,1.001,BI502_327,Hypertension,Pain : Asthma,Vivli
+-0.04,Pain,Diabetes,-0.296,0.212,0.13,1278.92,1,BI502_327,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2653.88,0.999,BI502_327,Hypertension,Arthritis : Arthritis,Vivli
+-0.65,Arthritis,Acid-related disease,-0.898,-0.336,0.147,228.28,1.02,BI502_327,Hypertension,Arthritis : Acid-related disease,Vivli
+0.16,Arthritis,Anxiety,-0.059,0.38,0.114,1356.66,1.003,BI502_327,Hypertension,Arthritis : Anxiety,Vivli
+-0.02,Asthma,Arthritis,-0.277,0.258,0.139,1297.16,1.002,BI502_327,Hypertension,Asthma : Arthritis,Vivli
+-0.08,Diabetes,Arthritis,-0.333,0.167,0.129,862.45,1.008,BI502_327,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1914.67,0.999,BI502_327,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.12,Anxiety,Acid-related disease,-0.154,0.373,0.134,1021.35,1,BI502_327,Hypertension,Anxiety : Acid-related disease,Vivli
+0.24,Asthma,Acid-related disease,-0.041,0.5,0.137,1316.39,1.002,BI502_327,Hypertension,Asthma : Acid-related disease,Vivli
+-0.13,Diabetes,Acid-related disease,-0.443,0.175,0.159,396.49,1.004,BI502_327,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2902.39,0.999,BI502_327,Hypertension,Anxiety : Anxiety,Vivli
+0.24,Asthma,Anxiety,-0.07,0.521,0.151,901.9,1.001,BI502_327,Hypertension,Asthma : Anxiety,Vivli
+-0.48,Diabetes,Anxiety,-0.86,-0.019,0.225,292.89,1.008,BI502_327,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2761.43,0.999,BI502_327,Hypertension,Asthma : Asthma,Vivli
+0.17,Diabetes,Asthma,-0.159,0.483,0.168,694.05,1.006,BI502_327,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,1675.96,0.999,BI502_327,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_376,Hypertension,Pain : Pain,Vivli
+0.28,Pain,Arthritis,0.057,0.49,0.111,1640.96,1,BI502_376,Hypertension,Pain : Arthritis,Vivli
+0.21,Pain,Acid-related disease,-0.095,0.494,0.15,1448.53,1.002,BI502_376,Hypertension,Pain : Acid-related disease,Vivli
+0.18,Pain,Anxiety,-0.049,0.405,0.118,1305.42,1.001,BI502_376,Hypertension,Pain : Anxiety,Vivli
+0.25,Pain,Asthma,-0.032,0.495,0.132,1500.65,1.001,BI502_376,Hypertension,Pain : Asthma,Vivli
+0.1,Pain,Diabetes,-0.174,0.36,0.137,1255.71,1.002,BI502_376,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2969.38,0.999,BI502_376,Hypertension,Arthritis : Arthritis,Vivli
+-0.42,Arthritis,Acid-related disease,-0.746,-0.016,0.189,276.37,1.023,BI502_376,Hypertension,Arthritis : Acid-related disease,Vivli
+0.29,Arthritis,Anxiety,0.067,0.488,0.111,1426.6,1.001,BI502_376,Hypertension,Arthritis : Anxiety,Vivli
+0.3,Asthma,Arthritis,0.041,0.531,0.128,1383.66,1.001,BI502_376,Hypertension,Asthma : Arthritis,Vivli
+0.2,Diabetes,Arthritis,-0.05,0.457,0.13,1257.57,1,BI502_376,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2916.21,0.999,BI502_376,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.19,Anxiety,Acid-related disease,-0.095,0.475,0.148,647.95,1.005,BI502_376,Hypertension,Anxiety : Acid-related disease,Vivli
+0.12,Asthma,Acid-related disease,-0.245,0.454,0.178,664.26,1,BI502_376,Hypertension,Asthma : Acid-related disease,Vivli
+-0.03,Diabetes,Acid-related disease,-0.39,0.337,0.188,497.11,1.004,BI502_376,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2828.61,0.999,BI502_376,Hypertension,Anxiety : Anxiety,Vivli
+0.01,Asthma,Anxiety,-0.285,0.301,0.153,1426.65,1.002,BI502_376,Hypertension,Asthma : Anxiety,Vivli
+-0,Diabetes,Anxiety,-0.301,0.29,0.151,1496.31,1.001,BI502_376,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2846.54,0.999,BI502_376,Hypertension,Asthma : Asthma,Vivli
+-0.02,Diabetes,Asthma,-0.382,0.321,0.181,1016.15,1.002,BI502_376,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2535.02,0.999,BI502_376,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_391,Hypertension,Pain : Pain,Vivli
+0.24,Pain,Arthritis,0.108,0.379,0.071,1620.12,1.001,BI502_391,Hypertension,Pain : Arthritis,Vivli
+0.03,Pain,Acid-related disease,-0.159,0.215,0.096,1275.37,1,BI502_391,Hypertension,Pain : Acid-related disease,Vivli
+0.3,Pain,Anxiety,0.141,0.447,0.078,1568.89,1.001,BI502_391,Hypertension,Pain : Anxiety,Vivli
+0.18,Pain,Asthma,-0.039,0.373,0.105,2006.58,0.999,BI502_391,Hypertension,Pain : Asthma,Vivli
+0.01,Pain,Diabetes,-0.229,0.247,0.122,1118.32,1.001,BI502_391,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2932.24,0.999,BI502_391,Hypertension,Arthritis : Arthritis,Vivli
+-0.64,Arthritis,Acid-related disease,-0.85,-0.377,0.122,228.43,1.005,BI502_391,Hypertension,Arthritis : Acid-related disease,Vivli
+0.25,Arthritis,Anxiety,0.09,0.4,0.081,875.93,1.002,BI502_391,Hypertension,Arthritis : Anxiety,Vivli
+0.05,Asthma,Arthritis,-0.16,0.249,0.105,1082.57,1.002,BI502_391,Hypertension,Asthma : Arthritis,Vivli
+-0.18,Diabetes,Arthritis,-0.42,0.069,0.127,573.54,1.002,BI502_391,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2951.14,0.999,BI502_391,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.12,Anxiety,Acid-related disease,-0.074,0.322,0.1,823.06,1.005,BI502_391,Hypertension,Anxiety : Acid-related disease,Vivli
+0.07,Asthma,Acid-related disease,-0.178,0.314,0.127,442.46,1.014,BI502_391,Hypertension,Asthma : Acid-related disease,Vivli
+-0.13,Diabetes,Acid-related disease,-0.412,0.17,0.151,446.28,1.003,BI502_391,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,1691.95,0.999,BI502_391,Hypertension,Anxiety : Anxiety,Vivli
+-0.04,Asthma,Anxiety,-0.287,0.217,0.128,1337.75,1.001,BI502_391,Hypertension,Asthma : Anxiety,Vivli
+0.19,Diabetes,Anxiety,-0.057,0.427,0.123,1264.8,1.003,BI502_391,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2605.78,0.999,BI502_391,Hypertension,Asthma : Asthma,Vivli
+-0.02,Diabetes,Asthma,-0.356,0.302,0.172,904.52,1.003,BI502_391,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2448.55,0.999,BI502_391,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_392,Hypertension,Pain : Pain,Vivli
+0.32,Pain,Arthritis,0.205,0.435,0.059,2042.07,0.999,BI502_392,Hypertension,Pain : Arthritis,Vivli
+0.19,Pain,Acid-related disease,0.035,0.346,0.08,1265.24,1.003,BI502_392,Hypertension,Pain : Acid-related disease,Vivli
+0.12,Pain,Anxiety,-0.042,0.265,0.079,1486.31,1.001,BI502_392,Hypertension,Pain : Anxiety,Vivli
+0.18,Pain,Asthma,0.004,0.36,0.091,2121.97,0.999,BI502_392,Hypertension,Pain : Asthma,Vivli
+-0.09,Pain,Diabetes,-0.276,0.095,0.095,1484.93,1.003,BI502_392,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2636.42,0.999,BI502_392,Hypertension,Arthritis : Arthritis,Vivli
+-0.69,Arthritis,Acid-related disease,-0.836,-0.513,0.084,193.94,1.028,BI502_392,Hypertension,Arthritis : Acid-related disease,Vivli
+0.34,Arthritis,Anxiety,0.201,0.474,0.068,1026.33,1,BI502_392,Hypertension,Arthritis : Anxiety,Vivli
+0.02,Asthma,Arthritis,-0.171,0.195,0.093,833.75,1.002,BI502_392,Hypertension,Asthma : Arthritis,Vivli
+-0.07,Diabetes,Arthritis,-0.235,0.1,0.085,840.52,1.001,BI502_392,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,3098.8,0.999,BI502_392,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.02,Anxiety,Acid-related disease,-0.17,0.23,0.104,504.36,1.001,BI502_392,Hypertension,Anxiety : Acid-related disease,Vivli
+0.14,Asthma,Acid-related disease,-0.079,0.356,0.113,408.97,1.001,BI502_392,Hypertension,Asthma : Acid-related disease,Vivli
+-0.07,Diabetes,Acid-related disease,-0.316,0.184,0.125,335.86,1.01,BI502_392,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2709.6,0.999,BI502_392,Hypertension,Anxiety : Anxiety,Vivli
+0.22,Asthma,Anxiety,0.012,0.406,0.1,1863.94,0.999,BI502_392,Hypertension,Asthma : Anxiety,Vivli
+-0.08,Diabetes,Anxiety,-0.291,0.132,0.108,1428.1,1.001,BI502_392,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2959.98,0.999,BI502_392,Hypertension,Asthma : Asthma,Vivli
+-0.05,Diabetes,Asthma,-0.33,0.218,0.142,1067.81,1.001,BI502_392,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,2980.3,0.999,BI502_392,Hypertension,Diabetes : Diabetes,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI502_396,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.15,Pain,Cardiovascular,-0.142,0.456,0.153,270.37,1.003,BI502_396,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.06,Cardiovascular,Arthritis,-0.294,0.407,0.18,290.36,1.002,BI502_396,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+-0.21,Cardiovascular,Acid-related disease,-0.429,0.02,0.118,629.37,1.004,BI502_396,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+-0.28,Cardiovascular,Anxiety,-0.489,-0.04,0.117,632.21,1,BI502_396,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+-0.04,Cardiovascular,Asthma,-0.41,0.335,0.191,509.17,1.006,BI502_396,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2882.59,0.999,BI502_396,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.49,Pain,Arthritis,0.319,0.647,0.083,1229.06,1.001,BI502_396,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.05,Pain,Acid-related disease,-0.238,0.132,0.093,977.08,1.001,BI502_396,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.2,Pain,Anxiety,0.018,0.374,0.093,1296.53,1.003,BI502_396,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.08,Pain,Asthma,-0.179,0.329,0.131,729.66,1.006,BI502_396,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2820.59,0.999,BI502_396,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.23,Arthritis,Acid-related disease,-0.498,0.066,0.146,290.85,1.012,BI502_396,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.21,Arthritis,Anxiety,-0.005,0.42,0.108,865.22,1.003,BI502_396,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.08,Asthma,Arthritis,-0.232,0.387,0.157,681.12,1.002,BI502_396,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1807.65,0.999,BI502_396,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.11,Anxiety,Acid-related disease,-0.086,0.288,0.095,838.81,1.007,BI502_396,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.09,Asthma,Acid-related disease,-0.175,0.342,0.133,1001.99,1.001,BI502_396,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2864.39,0.999,BI502_396,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+-0.11,Asthma,Anxiety,-0.421,0.203,0.159,597.54,1.004,BI502_396,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2295.88,0.999,BI502_396,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI502_397,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.17,Pain,Cardiovascular,-0.034,0.364,0.103,479.49,1.008,BI502_397,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.09,Cardiovascular,Arthritis,-0.114,0.29,0.103,606.86,1.004,BI502_397,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.15,Cardiovascular,Acid-related disease,-0.049,0.35,0.103,253.78,1.017,BI502_397,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.24,Cardiovascular,Anxiety,0.032,0.435,0.102,403.17,1.007,BI502_397,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.26,Cardiovascular,Asthma,-0.028,0.575,0.154,281.1,1.003,BI502_397,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3135.65,0.999,BI502_397,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.3,Pain,Arthritis,0.165,0.431,0.069,1033.35,1,BI502_397,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+0.21,Pain,Acid-related disease,0.067,0.348,0.072,553.47,1.008,BI502_397,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.27,Pain,Anxiety,0.137,0.402,0.067,1086.29,1.001,BI502_397,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.21,Pain,Asthma,0.032,0.377,0.087,1640.31,0.999,BI502_397,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2932.79,0.999,BI502_397,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.68,Arthritis,Acid-related disease,-0.843,-0.47,0.096,117.76,1.015,BI502_397,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.14,Arthritis,Anxiety,-0.011,0.277,0.073,344.83,1.011,BI502_397,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.18,Asthma,Arthritis,-0.006,0.349,0.091,405.78,1.014,BI502_397,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,145.63,0.999,BI502_397,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.24,Anxiety,Acid-related disease,0.101,0.361,0.067,687.4,1.004,BI502_397,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.05,Asthma,Acid-related disease,-0.139,0.241,0.097,458.6,1.006,BI502_397,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2551.61,0.999,BI502_397,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.19,Asthma,Anxiety,0.011,0.36,0.09,1997.04,1,BI502_397,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2853.7,0.999,BI502_397,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,BI502_413,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+-0.03,Pain,Cardiovascular,-0.344,0.293,0.165,3696.83,0.999,BI502_413,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.25,Cardiovascular,Arthritis,0.077,0.414,0.086,3223.67,1,BI502_413,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+-0.05,Cardiovascular,Acid-related disease,-0.221,0.118,0.087,2126.58,1,BI502_413,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.22,Cardiovascular,Anxiety,0.021,0.422,0.102,2390.12,1,BI502_413,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.17,Cardiovascular,Asthma,-0.118,0.432,0.139,2794.54,1,BI502_413,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3043.29,0.999,BI502_413,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.31,Pain,Arthritis,-0.012,0.61,0.16,601.15,1.003,BI502_413,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.35,Pain,Acid-related disease,-0.779,0.123,0.239,233.27,1.005,BI502_413,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.04,Pain,Anxiety,-0.397,0.451,0.22,459.93,1.001,BI502_413,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.21,Pain,Asthma,-0.243,0.592,0.217,774.63,1.008,BI502_413,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2465.53,0.999,BI502_413,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.64,Arthritis,Acid-related disease,-0.864,-0.35,0.132,353.37,1.009,BI502_413,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.23,Arthritis,Anxiety,0.025,0.434,0.105,1896.2,1,BI502_413,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.17,Asthma,Arthritis,-0.118,0.439,0.145,1838.1,1.001,BI502_413,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2317.33,0.999,BI502_413,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.13,Anxiety,Acid-related disease,-0.105,0.345,0.117,1376.31,1.001,BI502_413,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.07,Asthma,Acid-related disease,-0.231,0.361,0.152,1437.55,1.001,BI502_413,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2665.88,0.999,BI502_413,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.04,Asthma,Anxiety,-0.302,0.363,0.17,1882.56,1,BI502_413,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,1714.11,0.999,BI502_413,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Pain,Pain,1,1,0,NA,NA,BI502_550,Hypertension,Pain : Pain,Vivli
+0.43,Pain,Arthritis,0.243,0.591,0.089,1490.52,0.999,BI502_550,Hypertension,Pain : Arthritis,Vivli
+0.51,Pain,Acid-related disease,0.31,0.684,0.096,1379.12,1,BI502_550,Hypertension,Pain : Acid-related disease,Vivli
+0.39,Pain,Anxiety,0.197,0.57,0.096,1151.43,1.001,BI502_550,Hypertension,Pain : Anxiety,Vivli
+0.28,Pain,Asthma,0.057,0.488,0.112,912.16,1.005,BI502_550,Hypertension,Pain : Asthma,Vivli
+0.22,Pain,Diabetes,0.033,0.395,0.091,698.42,1.004,BI502_550,Hypertension,Pain : Diabetes,Vivli
+1,Arthritis,Arthritis,1,1,0,2724.94,0.999,BI502_550,Hypertension,Arthritis : Arthritis,Vivli
+-0.21,Arthritis,Acid-related disease,-0.515,0.107,0.158,379.22,1.006,BI502_550,Hypertension,Arthritis : Acid-related disease,Vivli
+0.17,Arthritis,Anxiety,-0.056,0.392,0.115,580.99,1.004,BI502_550,Hypertension,Arthritis : Anxiety,Vivli
+0.45,Asthma,Arthritis,0.236,0.639,0.103,1302.82,1.002,BI502_550,Hypertension,Asthma : Arthritis,Vivli
+0.04,Diabetes,Arthritis,-0.179,0.237,0.108,756.06,1.002,BI502_550,Hypertension,Diabetes : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1983.78,0.999,BI502_550,Hypertension,Acid-related disease : Acid-related disease,Vivli
+0.48,Anxiety,Acid-related disease,0.256,0.671,0.107,468.37,1,BI502_550,Hypertension,Anxiety : Acid-related disease,Vivli
+0.21,Asthma,Acid-related disease,-0.088,0.494,0.15,434.98,1.009,BI502_550,Hypertension,Asthma : Acid-related disease,Vivli
+-0.05,Diabetes,Acid-related disease,-0.308,0.222,0.137,176.81,1.028,BI502_550,Hypertension,Diabetes : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,858.46,0.999,BI502_550,Hypertension,Anxiety : Anxiety,Vivli
+0.41,Asthma,Anxiety,0.17,0.626,0.115,1744.02,1.001,BI502_550,Hypertension,Asthma : Anxiety,Vivli
+0.15,Diabetes,Anxiety,-0.08,0.362,0.114,937.47,1.004,BI502_550,Hypertension,Diabetes : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,296.19,0.999,BI502_550,Hypertension,Asthma : Asthma,Vivli
+0.15,Diabetes,Asthma,-0.078,0.37,0.115,819.34,1.001,BI502_550,Hypertension,Diabetes : Asthma,Vivli
+1,Diabetes,Diabetes,1,1,0,1757.9,0.999,BI502_550,Hypertension,Diabetes : Diabetes,Vivli
+1,Pain,Pain,1,1,0,NA,NA,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Pain,Vivli
+0.09,Pain,Cardiovascular,0.007,0.175,0.043,1911.31,1,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Cardiovascular,Vivli
+0.26,Pain,Arthritis,0.175,0.341,0.043,1420.09,1,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Arthritis,Vivli
+-0.29,Pain,Acid-related disease,-0.37,-0.21,0.041,1315.55,1.002,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Acid-related disease,Vivli
+0.34,Pain,Anxiety,0.251,0.423,0.045,2082.26,1,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Anxiety,Vivli
+0.24,Pain,Asthma,0.126,0.34,0.055,1438.01,1,LILLY_B3D_MC_GHAC,Osteoporosis,Pain : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,2934.8,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Cardiovascular : Cardiovascular,Vivli
+0.4,Cardiovascular,Arthritis,0.321,0.476,0.04,1609.43,1,LILLY_B3D_MC_GHAC,Osteoporosis,Cardiovascular : Arthritis,Vivli
+-0.42,Cardiovascular,Acid-related disease,-0.491,-0.338,0.04,1512.2,1,LILLY_B3D_MC_GHAC,Osteoporosis,Cardiovascular : Acid-related disease,Vivli
+0.15,Cardiovascular,Anxiety,0.06,0.244,0.047,2057.15,1,LILLY_B3D_MC_GHAC,Osteoporosis,Cardiovascular : Anxiety,Vivli
+0.15,Cardiovascular,Asthma,0.038,0.254,0.057,1943.75,1,LILLY_B3D_MC_GHAC,Osteoporosis,Cardiovascular : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2366.5,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Arthritis : Arthritis,Vivli
+-0.99,Arthritis,Acid-related disease,-0.994,-0.983,0.003,1878.57,1,LILLY_B3D_MC_GHAC,Osteoporosis,Arthritis : Acid-related disease,Vivli
+0.18,Arthritis,Anxiety,0.08,0.268,0.05,1290.55,1.002,LILLY_B3D_MC_GHAC,Osteoporosis,Arthritis : Anxiety,Vivli
+0.14,Asthma,Arthritis,0.029,0.254,0.058,1697.39,1,LILLY_B3D_MC_GHAC,Osteoporosis,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,40.13,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Acid-related disease : Acid-related disease,Vivli
+-0.13,Anxiety,Acid-related disease,-0.22,-0.033,0.049,1522.64,1.002,LILLY_B3D_MC_GHAC,Osteoporosis,Anxiety : Acid-related disease,Vivli
+-0.08,Asthma,Acid-related disease,-0.194,0.032,0.058,1731.55,1,LILLY_B3D_MC_GHAC,Osteoporosis,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,1432.23,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Anxiety : Anxiety,Vivli
+0.17,Asthma,Anxiety,0.048,0.298,0.063,1893.49,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2411.16,0.999,LILLY_B3D_MC_GHAC,Osteoporosis,Asthma : Asthma,Vivli
+1,Pain,Pain,1,1,0,NA,NA,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Pain,Vivli
+0.12,Pain,Cardiovascular,-0.027,0.275,0.077,2045.78,1.002,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Cardiovascular,Vivli
+0.11,Pain,Arthritis,-0.039,0.25,0.076,1709.44,1,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Arthritis,Vivli
+-0.1,Pain,Acid-related disease,-0.247,0.044,0.077,1582.34,1,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Acid-related disease,Vivli
+0.32,Pain,Anxiety,0.156,0.467,0.08,2651.29,1,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Anxiety,Vivli
+0.21,Pain,Asthma,0.032,0.378,0.089,2689.17,1,LILLY_B3D_US_GHBZ,Osteoporosis,Pain : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,3028.37,0.999,LILLY_B3D_US_GHBZ,Osteoporosis,Cardiovascular : Cardiovascular,Vivli
+0.11,Cardiovascular,Arthritis,-0.028,0.255,0.072,2047.57,1,LILLY_B3D_US_GHBZ,Osteoporosis,Cardiovascular : Arthritis,Vivli
+-0.12,Cardiovascular,Acid-related disease,-0.263,0.02,0.073,1746.53,1.001,LILLY_B3D_US_GHBZ,Osteoporosis,Cardiovascular : Acid-related disease,Vivli
+0.02,Cardiovascular,Anxiety,-0.138,0.191,0.083,2257.69,1.002,LILLY_B3D_US_GHBZ,Osteoporosis,Cardiovascular : Anxiety,Vivli
+0.1,Cardiovascular,Asthma,-0.084,0.282,0.094,2407.48,1,LILLY_B3D_US_GHBZ,Osteoporosis,Cardiovascular : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2717.71,0.999,LILLY_B3D_US_GHBZ,Osteoporosis,Arthritis : Arthritis,Vivli
+-0.99,Arthritis,Acid-related disease,-0.995,-0.97,0.007,1834.02,1,LILLY_B3D_US_GHBZ,Osteoporosis,Arthritis : Acid-related disease,Vivli
+0.03,Arthritis,Anxiety,-0.136,0.196,0.084,1846.99,1.001,LILLY_B3D_US_GHBZ,Osteoporosis,Arthritis : Anxiety,Vivli
+-0.22,Asthma,Arthritis,-0.388,-0.04,0.087,2012.41,1,LILLY_B3D_US_GHBZ,Osteoporosis,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,22.2,0.999,LILLY_B3D_US_GHBZ,Osteoporosis,Acid-related disease : Acid-related disease,Vivli
+0.03,Anxiety,Acid-related disease,-0.132,0.2,0.085,1473.16,1,LILLY_B3D_US_GHBZ,Osteoporosis,Anxiety : Acid-related disease,Vivli
+0.2,Asthma,Acid-related disease,0.025,0.371,0.088,1939.89,1.001,LILLY_B3D_US_GHBZ,Osteoporosis,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2912.78,0.999,LILLY_B3D_US_GHBZ,Osteoporosis,Anxiety : Anxiety,Vivli
+0.02,Asthma,Anxiety,-0.179,0.224,0.103,2031.26,1.001,LILLY_B3D_US_GHBZ,Osteoporosis,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2619.24,0.999,LILLY_B3D_US_GHBZ,Osteoporosis,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Cardiovascular : Cardiovascular,Vivli
+0.25,Pain,Cardiovascular,0.083,0.403,0.083,2983.81,1.001,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Cardiovascular,Vivli
+0.23,Cardiovascular,Asthma,0.062,0.391,0.086,2450.97,1,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Cardiovascular : Asthma,Vivli
+0.36,Cardiovascular,Arthritis,0.153,0.543,0.1,1982.18,1.001,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Cardiovascular : Arthritis,Vivli
+0.2,Cardiovascular,Anxiety,0.034,0.348,0.081,2785.6,1.001,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Cardiovascular : Anxiety,Vivli
+0.08,Cardiovascular,Acid-related disease,-0.089,0.239,0.082,1345.79,1.002,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Cardiovascular : Acid-related disease,Vivli
+1,Pain,Pain,1,1,0,2831.55,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Pain,Vivli
+0.31,Pain,Asthma,0.138,0.468,0.085,2690.79,1,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Asthma,Vivli
+0.26,Pain,Arthritis,0.057,0.454,0.101,2379.36,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Arthritis,Vivli
+0.41,Pain,Anxiety,0.255,0.553,0.076,2102.38,1,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Anxiety,Vivli
+0.16,Pain,Acid-related disease,0.001,0.328,0.085,1388.27,1.003,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Pain : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2374.98,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Asthma : Asthma,Vivli
+0.2,Asthma,Arthritis,-0.006,0.405,0.107,2286.39,1.003,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Asthma : Arthritis,Vivli
+0.24,Asthma,Anxiety,0.078,0.401,0.084,2267.7,1.001,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Asthma : Anxiety,Vivli
+0.21,Asthma,Acid-related disease,0.031,0.366,0.085,1287.59,1.001,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Asthma : Acid-related disease,Vivli
+1,Arthritis,Arthritis,1,1,0,2128.26,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Arthritis : Arthritis,Vivli
+0.16,Arthritis,Anxiety,-0.057,0.357,0.104,957.69,1.003,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Arthritis : Anxiety,Vivli
+-0.65,Arthritis,Acid-related disease,-0.831,-0.414,0.109,234.46,1.007,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Arthritis : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2679.4,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Anxiety : Anxiety,Vivli
+0.24,Anxiety,Acid-related disease,0.083,0.393,0.08,2228.94,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Anxiety : Acid-related disease,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,178.41,0.999,LILLY_H6D_MC_LVGY,Pulmonary_Hypertension,Acid-related disease : Acid-related disease,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+0.09,Pain,Cardiovascular,-0.141,0.319,0.116,3792.99,1,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.1,Cardiovascular,Arthritis,-0.063,0.266,0.084,3494.72,1,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+0.16,Cardiovascular,Acid-related disease,-0,0.316,0.082,2570.38,1.001,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+-0.1,Cardiovascular,Asthma,-0.299,0.099,0.101,3140.51,1.001,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+0.36,Cardiovascular,Anxiety,0.162,0.519,0.092,2645.76,1,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,3112.61,0.999,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+0.45,Pain,Arthritis,0.204,0.654,0.115,804.34,1.005,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+0.11,Pain,Acid-related disease,-0.18,0.382,0.144,696.69,1.01,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+0.47,Pain,Asthma,0.214,0.679,0.121,1225.61,1.002,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+0.23,Pain,Anxiety,-0.069,0.508,0.151,762.96,1.002,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,2122.45,0.999,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.5,Arthritis,Acid-related disease,-0.737,-0.232,0.131,395.29,1.006,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+0.25,Asthma,Arthritis,0.029,0.464,0.112,1563.04,1.001,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.24,Arthritis,Anxiety,0.022,0.451,0.109,1574.21,1,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1323.24,0.999,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+-0.02,Asthma,Acid-related disease,-0.271,0.233,0.13,1354.32,1.002,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+0.42,Anxiety,Acid-related disease,0.229,0.602,0.096,2438.24,1,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2308.01,0.999,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+-0.09,Asthma,Anxiety,-0.383,0.202,0.149,1622.57,1.004,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,1470.61,0.999,LILLY_H6D_MC_LVHB,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+0.06,Pain,Cardiovascular,-0.126,0.25,0.096,3518.6,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.21,Cardiovascular,Arthritis,0.053,0.363,0.079,3553.07,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+0.04,Cardiovascular,Acid-related disease,-0.152,0.244,0.102,2284.25,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+0.13,Cardiovascular,Asthma,-0.103,0.355,0.119,3455.45,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+0.15,Cardiovascular,Anxiety,-0.052,0.348,0.103,2787.83,1.001,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,3062.25,0.999,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+0.17,Pain,Arthritis,-0.015,0.355,0.096,2391.41,1.001,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+0.19,Pain,Acid-related disease,-0.048,0.413,0.117,1878.58,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+0.05,Pain,Asthma,-0.248,0.333,0.148,2378.39,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+0.32,Pain,Anxiety,0.102,0.528,0.108,2480.72,1,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,2929.98,0.999,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.67,Arthritis,Acid-related disease,-0.866,-0.411,0.119,392.89,1.011,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+0.08,Asthma,Arthritis,-0.168,0.324,0.125,1968.62,1.002,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.09,Arthritis,Anxiety,-0.127,0.307,0.112,2021.12,1.001,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,560.14,0.999,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+0.13,Asthma,Acid-related disease,-0.154,0.398,0.141,1647.97,1.001,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+0.33,Anxiety,Acid-related disease,0.08,0.554,0.119,1520.36,1.002,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2989.05,0.999,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+0.31,Asthma,Anxiety,0.048,0.559,0.132,2204.91,1.001,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,2468.6,0.999,LILLY_H6D_MC_LVHG,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+0.21,Pain,Cardiovascular,-0.214,0.601,0.211,1657.88,1.001,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.76,Cardiovascular,Arthritis,0.534,0.919,0.098,2615.05,1,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+-0.11,Cardiovascular,Acid-related disease,-0.76,0.518,0.338,874.14,1.001,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+-0.2,Cardiovascular,Asthma,-0.728,0.386,0.296,1237.99,1,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+0.15,Cardiovascular,Anxiety,-0.419,0.64,0.273,2922.54,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,2966.51,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+-0.01,Pain,Arthritis,-0.498,0.48,0.252,1584.54,1,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+-0.1,Pain,Acid-related disease,-0.748,0.553,0.349,1250.27,1,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+-0.12,Pain,Asthma,-0.734,0.495,0.326,914.14,1.003,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+-0.11,Pain,Anxiety,-0.732,0.564,0.35,1576.99,1.001,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,2711.44,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.1,Arthritis,Acid-related disease,-0.734,0.544,0.339,1200.29,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+-0.18,Asthma,Arthritis,-0.75,0.413,0.313,1058.28,1.002,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.42,Arthritis,Anxiety,-0.079,0.822,0.236,3620.34,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2006.59,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+-0.02,Asthma,Acid-related disease,-0.706,0.64,0.362,1018.17,1.002,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+-0.04,Anxiety,Acid-related disease,-0.737,0.657,0.373,1606.39,1,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2521.44,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+-0.06,Asthma,Anxiety,-0.736,0.609,0.356,1721.06,1.003,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,156,0.999,LILLY_H6D_MC_LVHJ,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+0.26,Pain,Cardiovascular,0.091,0.416,0.087,2370.93,1.001,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.38,Cardiovascular,Arthritis,0.235,0.513,0.072,1971.3,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+0.04,Cardiovascular,Acid-related disease,-0.133,0.21,0.087,1996.07,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+0.12,Cardiovascular,Asthma,-0.071,0.301,0.094,2327.21,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+0.15,Cardiovascular,Anxiety,-0.044,0.34,0.095,1957.79,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,2905.44,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+0.44,Pain,Arthritis,0.259,0.592,0.085,1786.76,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+0.24,Pain,Acid-related disease,0.005,0.449,0.114,1152.24,1.002,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+0.25,Pain,Asthma,0.015,0.475,0.117,1094.39,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+0.35,Pain,Anxiety,0.11,0.551,0.11,1266.15,1.004,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,1810.5,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.24,Arthritis,Acid-related disease,-0.468,-0.01,0.118,845.6,1.004,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+0.15,Asthma,Arthritis,-0.058,0.358,0.107,1330.3,1.001,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.29,Arthritis,Anxiety,0.087,0.487,0.105,1976.68,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2509.92,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+0.27,Asthma,Acid-related disease,0.043,0.49,0.115,1449.95,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+0.42,Anxiety,Acid-related disease,0.2,0.61,0.107,1427.48,1.001,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2553.62,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+0.34,Asthma,Anxiety,0.111,0.552,0.115,1820.55,1,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,2753.54,0.999,LILLY_H6D_MC_LVHR,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+-0.17,Pain,Cardiovascular,-0.399,0.075,0.121,1567.67,1.004,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.01,Cardiovascular,Arthritis,-0.219,0.233,0.113,964.72,1.005,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+0.09,Cardiovascular,Acid-related disease,-0.169,0.342,0.13,950.73,1.006,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+-0.25,Cardiovascular,Asthma,-0.468,-0.022,0.117,1442.66,1.002,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+-0.02,Cardiovascular,Anxiety,-0.267,0.248,0.133,1257.05,1,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,3147.96,0.999,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+0.32,Pain,Arthritis,0.117,0.509,0.101,1312.91,1.002,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+0.1,Pain,Acid-related disease,-0.151,0.343,0.125,1138.64,1.004,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+0.28,Pain,Asthma,0.027,0.501,0.121,1282.26,1,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+0.13,Pain,Anxiety,-0.115,0.373,0.123,1462.33,1,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,2983.7,0.999,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.54,Arthritis,Acid-related disease,-0.726,-0.33,0.103,1019.46,1.006,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+0.1,Asthma,Arthritis,-0.138,0.332,0.118,1717.31,1.003,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.23,Arthritis,Anxiety,0.018,0.432,0.107,1513.88,1.001,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2333.54,0.999,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+0.08,Asthma,Acid-related disease,-0.159,0.32,0.123,1510.95,1.001,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+0.04,Anxiety,Acid-related disease,-0.22,0.285,0.131,1317.81,1.003,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2923.55,0.999,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+0.36,Asthma,Anxiety,0.12,0.58,0.118,1754.89,1.001,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,747.45,0.999,LILLY_H6D_MC_LVHS,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,Vivli
+0.2,Pain,Cardiovascular,-0.077,0.469,0.14,2031.89,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,Vivli
+0.05,Cardiovascular,Arthritis,-0.177,0.272,0.117,2596.49,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,Vivli
+0.24,Cardiovascular,Acid-related disease,0.027,0.437,0.105,2256.96,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,Vivli
+0.34,Cardiovascular,Asthma,0.11,0.56,0.116,2783.54,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,Vivli
+0.01,Cardiovascular,Anxiety,-0.316,0.355,0.174,2051.89,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,Vivli
+1,Pain,Pain,1,1,0,3124.44,0.999,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Pain,Vivli
+0.48,Pain,Arthritis,0.177,0.728,0.141,1509.6,1.002,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Arthritis,Vivli
+-0.01,Pain,Acid-related disease,-0.402,0.403,0.21,593.09,1.001,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,Vivli
+0.4,Pain,Asthma,0.082,0.68,0.157,1194.86,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Asthma,Vivli
+-0.13,Pain,Anxiety,-0.687,0.437,0.296,591.48,1.003,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Pain : Anxiety,Vivli
+1,Arthritis,Arthritis,1,1,0,2244.31,0.999,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,Vivli
+-0.34,Arthritis,Acid-related disease,-0.797,0.139,0.241,289.92,1.008,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,Vivli
+0.16,Asthma,Arthritis,-0.17,0.476,0.169,1157.61,1.006,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,Vivli
+0.17,Arthritis,Anxiety,-0.261,0.56,0.213,1560.64,1.002,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2672.07,0.999,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,Vivli
+0.15,Asthma,Acid-related disease,-0.169,0.459,0.16,1480.19,1.001,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,Vivli
+0.12,Anxiety,Acid-related disease,-0.306,0.517,0.21,1650.6,1,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2204.53,0.999,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Asthma : Asthma,Vivli
+-0.19,Asthma,Anxiety,-0.773,0.407,0.315,871.82,1.006,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,Vivli
+1,Anxiety,Anxiety,1,1,0,1522.23,0.999,LILLY_H6D_MC_LVID,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.09,Pain,Cardiovascular,-0.023,0.211,0.06,3021.55,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.35,Cardiovascular,Arthritis,0.246,0.454,0.053,2564.26,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.06,Cardiovascular,Acid-related disease,-0.065,0.174,0.061,1777.23,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.09,Cardiovascular,Anxiety,-0.04,0.209,0.064,1989.43,1.002,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.25,Cardiovascular,Asthma,0.098,0.407,0.079,2588.47,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2961.85,0.999,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.57,Pain,Arthritis,0.472,0.656,0.047,2151.38,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.09,Pain,Acid-related disease,-0.236,0.064,0.076,1052.83,1.005,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.33,Pain,Anxiety,0.195,0.446,0.064,1770.76,1.001,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.31,Pain,Asthma,0.156,0.455,0.078,2245.62,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,1109.01,0.999,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.6,Arthritis,Acid-related disease,-0.723,-0.459,0.067,240.02,1.017,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.35,Arthritis,Anxiety,0.223,0.462,0.061,1384.76,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.32,Asthma,Arthritis,0.168,0.464,0.076,1514.38,1.002,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,247.69,0.999,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.24,Anxiety,Acid-related disease,0.099,0.369,0.069,1700.69,1.001,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.16,Asthma,Acid-related disease,-0.007,0.323,0.085,1679.86,1.002,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2632.14,0.999,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.28,Asthma,Anxiety,0.114,0.435,0.082,2473.1,1,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2524.05,0.999,LILLY_H9X_MC_GBCF,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.14,Pain,Cardiovascular,0.017,0.251,0.059,1525.72,1,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.21,Cardiovascular,Arthritis,0.099,0.327,0.058,1395.71,1.001,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.07,Cardiovascular,Acid-related disease,-0.074,0.202,0.072,1083.03,1.002,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.25,Cardiovascular,Anxiety,0.12,0.364,0.064,1352.19,1,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.2,Cardiovascular,Asthma,0.057,0.346,0.073,1404.72,1,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2732.71,0.999,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.46,Pain,Arthritis,0.368,0.555,0.048,1606.26,1,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+0.01,Pain,Acid-related disease,-0.128,0.15,0.072,1254.72,1.001,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.21,Pain,Anxiety,0.089,0.319,0.059,1452.65,1.001,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.26,Pain,Asthma,0.133,0.381,0.065,1738.12,1.001,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2782.95,0.999,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.6,Arthritis,Acid-related disease,-0.726,-0.461,0.067,623.27,1.004,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.09,Arthritis,Anxiety,-0.024,0.208,0.06,1367.4,1.002,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.2,Asthma,Arthritis,0.065,0.328,0.067,1431.92,1.001,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,1707.51,0.999,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.22,Anxiety,Acid-related disease,0.08,0.35,0.069,889.71,1.007,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.07,Asthma,Acid-related disease,-0.091,0.23,0.083,666.13,1.002,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,1859.27,0.999,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.34,Asthma,Anxiety,0.202,0.466,0.066,1814.99,1,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2021.32,0.999,LILLY_H9X_MC_GBDA,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.17,Pain,Cardiovascular,0.042,0.292,0.063,2447.77,1,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.14,Cardiovascular,Arthritis,0.008,0.259,0.064,2075.98,1.001,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.12,Cardiovascular,Acid-related disease,-0.039,0.277,0.082,1611.31,1.004,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.01,Cardiovascular,Anxiety,-0.151,0.171,0.081,2406.66,1.001,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.14,Cardiovascular,Asthma,-0.071,0.343,0.106,2705.13,1,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2862.65,0.999,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.89,Pain,Arthritis,0.841,0.923,0.021,2409.64,1,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.17,Pain,Acid-related disease,-0.328,-0.001,0.086,1324.74,1.004,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.2,Pain,Anxiety,0.042,0.345,0.079,2179.3,1.002,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.23,Pain,Asthma,0.029,0.41,0.099,2567.44,0.999,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,NA,NA,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.51,Arthritis,Acid-related disease,-0.66,-0.329,0.085,407.54,1.008,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.13,Arthritis,Anxiety,-0.035,0.28,0.081,1153.88,1.002,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.13,Asthma,Arthritis,-0.063,0.324,0.099,2441.62,1,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,241.41,0.999,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.29,Anxiety,Acid-related disease,0.114,0.464,0.091,1312.57,1.004,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.3,Asthma,Acid-related disease,0.071,0.515,0.113,1072.25,1.002,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2823.12,0.999,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.22,Asthma,Anxiety,-0.008,0.443,0.117,2902.98,1,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2268.5,0.999,LILLY_H9X_MC_GBDB,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.29,Pain,Cardiovascular,0.166,0.42,0.064,2180.1,1,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.37,Cardiovascular,Arthritis,0.254,0.492,0.06,2133.73,1.003,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+-0.01,Cardiovascular,Acid-related disease,-0.16,0.151,0.079,2424.66,1.001,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.25,Cardiovascular,Anxiety,0.111,0.39,0.071,2433.31,1,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.08,Cardiovascular,Asthma,-0.087,0.254,0.087,2700.07,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3016.1,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.73,Pain,Arthritis,0.653,0.806,0.039,2487.3,1.003,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.08,Pain,Acid-related disease,-0.264,0.1,0.094,983.54,1.011,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.3,Pain,Anxiety,0.153,0.44,0.072,2039.34,1.001,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.04,Pain,Asthma,-0.146,0.215,0.092,2392.56,1,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2933.37,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.4,Arthritis,Acid-related disease,-0.562,-0.213,0.09,1102.04,1.005,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.07,Arthritis,Anxiety,-0.082,0.215,0.077,1547.29,1.001,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.14,Asthma,Arthritis,-0.039,0.302,0.087,2288.73,1.001,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,3023.52,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.22,Anxiety,Acid-related disease,0.044,0.391,0.09,1325.17,1,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.19,Asthma,Acid-related disease,-0.013,0.389,0.103,1819.29,1.001,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2473.32,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.15,Asthma,Anxiety,-0.034,0.338,0.097,2513.01,1,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2938.27,0.999,LILLY_H9X_MC_GBDC,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.21,Pain,Cardiovascular,0.094,0.33,0.06,2283.96,1.001,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.26,Cardiovascular,Arthritis,0.134,0.376,0.062,1594.96,1.001,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+-0.03,Cardiovascular,Acid-related disease,-0.176,0.124,0.078,1002.59,1.002,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.2,Cardiovascular,Anxiety,0.06,0.335,0.071,1684.3,1.001,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.33,Cardiovascular,Asthma,0.122,0.521,0.099,1144.38,1.004,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3197.44,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.71,Pain,Arthritis,0.633,0.77,0.035,2214.67,1.001,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.09,Pain,Acid-related disease,-0.227,0.052,0.072,1438.14,1.005,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.32,Pain,Anxiety,0.197,0.435,0.061,2589.83,1,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.2,Pain,Asthma,0.042,0.344,0.077,2468.2,1,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2480.01,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.67,Arthritis,Acid-related disease,-0.778,-0.525,0.064,294.04,1.013,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.12,Arthritis,Anxiety,-0.011,0.242,0.063,1239.6,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.2,Asthma,Arthritis,0.05,0.343,0.075,1538.11,1.003,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,47.12,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.29,Anxiety,Acid-related disease,0.154,0.428,0.07,828.34,1.002,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.13,Asthma,Acid-related disease,-0.046,0.306,0.092,797.36,1.003,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2710.09,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.33,Asthma,Anxiety,0.17,0.482,0.079,2783.11,1,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2531.41,0.999,LILLY_H9X_MC_GBDD,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.42,Pain,Cardiovascular,0.265,0.559,0.076,1551.82,1.005,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.4,Cardiovascular,Arthritis,0.252,0.535,0.073,1321.25,1.001,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.04,Cardiovascular,Acid-related disease,-0.15,0.233,0.098,1303.23,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.12,Cardiovascular,Anxiety,-0.076,0.3,0.096,1142.67,1.002,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.08,Cardiovascular,Asthma,-0.132,0.289,0.111,1663.62,1.001,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2992.73,0.999,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.75,Pain,Arthritis,0.663,0.832,0.043,2051.31,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.01,Pain,Acid-related disease,-0.218,0.189,0.103,1070.71,1.001,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.16,Pain,Anxiety,-0.024,0.345,0.094,1291.17,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.01,Pain,Asthma,-0.208,0.236,0.112,1512.29,1.003,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2716.46,0.999,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.47,Arthritis,Acid-related disease,-0.647,-0.257,0.101,681.68,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.25,Arthritis,Anxiety,0.065,0.418,0.089,1293.8,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.03,Asthma,Arthritis,-0.195,0.244,0.111,958.63,1.001,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,227.26,0.999,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.28,Anxiety,Acid-related disease,0.063,0.486,0.11,1173.81,1.004,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.21,Asthma,Acid-related disease,-0.038,0.45,0.127,712.37,1,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2201.33,0.999,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.07,Asthma,Anxiety,-0.195,0.334,0.134,1209.83,1.001,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,2410.49,0.999,LILLY_H9X_MC_GBDE,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.18,Pain,Cardiovascular,-0.099,0.448,0.143,1875.94,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.36,Cardiovascular,Arthritis,0.108,0.571,0.119,1469.28,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.04,Cardiovascular,Acid-related disease,-0.286,0.362,0.167,1633.82,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.2,Cardiovascular,Anxiety,-0.1,0.464,0.145,1787.07,1.002,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.5,Cardiovascular,Asthma,0.08,0.85,0.199,1047.84,1.002,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,2926.75,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.73,Pain,Arthritis,0.545,0.867,0.082,1593.56,1.002,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+-0.47,Pain,Acid-related disease,-0.849,0.064,0.24,633.72,1.001,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+-0.01,Pain,Anxiety,-0.36,0.346,0.181,786.73,1.001,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+-0.04,Pain,Asthma,-0.421,0.345,0.199,1292.82,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,2685.22,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.37,Arthritis,Acid-related disease,-0.725,0.05,0.198,1108.67,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.25,Arthritis,Anxiety,-0.02,0.516,0.14,1770.06,1.002,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.35,Asthma,Arthritis,0.021,0.63,0.155,2645.93,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,3088.65,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.38,Anxiety,Acid-related disease,0.064,0.658,0.155,1929.66,1.001,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.3,Asthma,Acid-related disease,-0.068,0.632,0.182,2484.55,1.002,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,2182.03,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.49,Asthma,Anxiety,0.161,0.751,0.152,2435.06,1,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,552.94,0.999,LILLY_H9X_MC_GBDG,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli
+1,Pain,Pain,1,1,0,NA,NA,RCHNA25220,Rheumatoid_arthritis,Pain : Pain,Vivli
+-0.02,Pain,Cardiovascular,-0.159,0.117,0.068,2521.55,1,RCHNA25220,Rheumatoid_arthritis,Pain : Cardiovascular,Vivli
+0.04,Pain,Acid-related disease,-0.102,0.185,0.073,2597.97,1.002,RCHNA25220,Rheumatoid_arthritis,Pain : Acid-related disease,Vivli
+0.25,Pain,Asthma,0.041,0.448,0.103,2801.33,1,RCHNA25220,Rheumatoid_arthritis,Pain : Asthma,Vivli
+0.39,Pain,Anxiety,0.254,0.519,0.068,2878.93,1,RCHNA25220,Rheumatoid_arthritis,Pain : Anxiety,Vivli
+-0.06,Pain,Osteoporosis,-0.233,0.109,0.088,2111.07,1,RCHNA25220,Rheumatoid_arthritis,Pain : Osteoporosis,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,3044.59,0.999,RCHNA25220,Rheumatoid_arthritis,Cardiovascular : Cardiovascular,Vivli
+0.18,Cardiovascular,Acid-related disease,0.034,0.317,0.072,2810.35,0.999,RCHNA25220,Rheumatoid_arthritis,Cardiovascular : Acid-related disease,Vivli
+-0.08,Cardiovascular,Asthma,-0.316,0.144,0.118,2286.85,1,RCHNA25220,Rheumatoid_arthritis,Cardiovascular : Asthma,Vivli
+0.19,Cardiovascular,Anxiety,0.034,0.336,0.076,2585.72,1,RCHNA25220,Rheumatoid_arthritis,Cardiovascular : Anxiety,Vivli
+-0.03,Osteoporosis,Cardiovascular,-0.187,0.139,0.083,2682.24,1.001,RCHNA25220,Rheumatoid_arthritis,Osteoporosis : Cardiovascular,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2962.51,0.999,RCHNA25220,Rheumatoid_arthritis,Acid-related disease : Acid-related disease,Vivli
+0.11,Asthma,Acid-related disease,-0.118,0.33,0.115,2838.26,1,RCHNA25220,Rheumatoid_arthritis,Asthma : Acid-related disease,Vivli
+0.03,Anxiety,Acid-related disease,-0.134,0.199,0.085,2533.25,0.999,RCHNA25220,Rheumatoid_arthritis,Anxiety : Acid-related disease,Vivli
+0.3,Osteoporosis,Acid-related disease,0.128,0.459,0.084,2204.63,1,RCHNA25220,Rheumatoid_arthritis,Osteoporosis : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2116.41,0.999,RCHNA25220,Rheumatoid_arthritis,Asthma : Asthma,Vivli
+0.22,Asthma,Anxiety,-0.005,0.444,0.114,1318.37,1,RCHNA25220,Rheumatoid_arthritis,Asthma : Anxiety,Vivli
+-0,Osteoporosis,Asthma,-0.278,0.258,0.134,957.24,1.002,RCHNA25220,Rheumatoid_arthritis,Osteoporosis : Asthma,Vivli
+1,Anxiety,Anxiety,1,1,0,2766.75,0.999,RCHNA25220,Rheumatoid_arthritis,Anxiety : Anxiety,Vivli
+0.15,Osteoporosis,Anxiety,-0.038,0.329,0.092,1953.58,1,RCHNA25220,Rheumatoid_arthritis,Osteoporosis : Anxiety,Vivli
+1,Osteoporosis,Osteoporosis,1,1,0,2172.29,0.999,RCHNA25220,Rheumatoid_arthritis,Osteoporosis : Osteoporosis,Vivli
+1,Pain,Pain,1,1,0,NA,NA,RCHWA19924,Rheumatoid_arthritis,Pain : Pain,Vivli
+-0.04,Pain,Cardiovascular,-0.208,0.138,0.089,3106.63,0.999,RCHWA19924,Rheumatoid_arthritis,Pain : Cardiovascular,Vivli
+0.13,Pain,Acid-related disease,-0.067,0.325,0.101,3036.59,1,RCHWA19924,Rheumatoid_arthritis,Pain : Acid-related disease,Vivli
+-0.13,Pain,Asthma,-0.361,0.102,0.118,3286.39,1.001,RCHWA19924,Rheumatoid_arthritis,Pain : Asthma,Vivli
+0.22,Pain,Anxiety,0.031,0.399,0.094,2662.29,0.999,RCHWA19924,Rheumatoid_arthritis,Pain : Anxiety,Vivli
+0.07,Pain,Osteoporosis,-0.177,0.325,0.13,2893.97,1.001,RCHWA19924,Rheumatoid_arthritis,Pain : Osteoporosis,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,2955.99,0.999,RCHWA19924,Rheumatoid_arthritis,Cardiovascular : Cardiovascular,Vivli
+0.05,Cardiovascular,Acid-related disease,-0.175,0.264,0.112,2906.16,1,RCHWA19924,Rheumatoid_arthritis,Cardiovascular : Acid-related disease,Vivli
+0.04,Cardiovascular,Asthma,-0.205,0.298,0.127,3188.1,0.999,RCHWA19924,Rheumatoid_arthritis,Cardiovascular : Asthma,Vivli
+0.13,Cardiovascular,Anxiety,-0.069,0.334,0.1,2845.79,1,RCHWA19924,Rheumatoid_arthritis,Cardiovascular : Anxiety,Vivli
+0.04,Osteoporosis,Cardiovascular,-0.243,0.292,0.137,2424.44,1,RCHWA19924,Rheumatoid_arthritis,Osteoporosis : Cardiovascular,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,2924.53,0.999,RCHWA19924,Rheumatoid_arthritis,Acid-related disease : Acid-related disease,Vivli
+-0.13,Asthma,Acid-related disease,-0.432,0.179,0.155,1651.69,1.001,RCHWA19924,Rheumatoid_arthritis,Asthma : Acid-related disease,Vivli
+0.14,Anxiety,Acid-related disease,-0.078,0.359,0.112,2032.14,1.001,RCHWA19924,Rheumatoid_arthritis,Anxiety : Acid-related disease,Vivli
+0.31,Osteoporosis,Acid-related disease,0.038,0.548,0.13,2697.72,1,RCHWA19924,Rheumatoid_arthritis,Osteoporosis : Acid-related disease,Vivli
+1,Asthma,Asthma,1,1,0,2579.5,0.999,RCHWA19924,Rheumatoid_arthritis,Asthma : Asthma,Vivli
+0,Asthma,Anxiety,-0.269,0.268,0.138,1553.62,0.999,RCHWA19924,Rheumatoid_arthritis,Asthma : Anxiety,Vivli
+-0.12,Osteoporosis,Asthma,-0.473,0.249,0.186,1179.76,1.001,RCHWA19924,Rheumatoid_arthritis,Osteoporosis : Asthma,Vivli
+1,Anxiety,Anxiety,1,1,0,2676.47,0.999,RCHWA19924,Rheumatoid_arthritis,Anxiety : Anxiety,Vivli
+-0.06,Osteoporosis,Anxiety,-0.335,0.233,0.148,2479.2,1,RCHWA19924,Rheumatoid_arthritis,Osteoporosis : Anxiety,Vivli
+1,Osteoporosis,Osteoporosis,1,1,0,2415.95,0.999,RCHWA19924,Rheumatoid_arthritis,Osteoporosis : Osteoporosis,Vivli
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,TKASYR322_305,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,Vivli
+0.18,Pain,Cardiovascular,0.094,0.269,0.045,3160.34,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,Vivli
+0.15,Cardiovascular,Arthritis,0.062,0.238,0.045,2785.56,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,Vivli
+0.32,Cardiovascular,Acid-related disease,0.22,0.406,0.048,2130.37,1,TKASYR322_305,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,Vivli
+0.38,Cardiovascular,Anxiety,0.287,0.48,0.049,3146.84,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,Vivli
+0.38,Cardiovascular,Asthma,0.268,0.495,0.058,3277.84,1,TKASYR322_305,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,Vivli
+1,Pain,Pain,1,1,0,3135.41,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Pain,Vivli
+0.52,Pain,Arthritis,0.434,0.602,0.044,2047.62,1.002,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Arthritis,Vivli
+0.24,Pain,Acid-related disease,0.112,0.361,0.064,1154.55,1.006,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,Vivli
+0.35,Pain,Anxiety,0.23,0.462,0.059,1514.38,1.001,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Anxiety,Vivli
+0.34,Pain,Asthma,0.191,0.476,0.073,2342.54,1,TKASYR322_305,Diabetes_Mellitus_Type_2,Pain : Asthma,Vivli
+1,Arthritis,Arthritis,1,1,0,880.97,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,Vivli
+-0.52,Arthritis,Acid-related disease,-0.677,-0.31,0.097,96.71,1.03,TKASYR322_305,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,Vivli
+0.21,Arthritis,Anxiety,0.076,0.337,0.066,653.76,1.01,TKASYR322_305,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,Vivli
+0.13,Asthma,Arthritis,-0.022,0.288,0.081,879.64,1.007,TKASYR322_305,Diabetes_Mellitus_Type_2,Asthma : Arthritis,Vivli
+1,Acid-related disease,Acid-related disease,1,1,0,228.74,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,Vivli
+0.28,Anxiety,Acid-related disease,0.151,0.407,0.067,715.86,1.007,TKASYR322_305,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,Vivli
+0.28,Asthma,Acid-related disease,0.126,0.43,0.078,1076.08,1.004,TKASYR322_305,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,Vivli
+1,Anxiety,Anxiety,1,1,0,1340.93,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,Vivli
+0.31,Asthma,Anxiety,0.158,0.458,0.077,2082.45,1.001,TKASYR322_305,Diabetes_Mellitus_Type_2,Asthma : Anxiety,Vivli
+1,Asthma,Asthma,1,1,0,1468.15,0.999,TKASYR322_305,Diabetes_Mellitus_Type_2,Asthma : Asthma,Vivli

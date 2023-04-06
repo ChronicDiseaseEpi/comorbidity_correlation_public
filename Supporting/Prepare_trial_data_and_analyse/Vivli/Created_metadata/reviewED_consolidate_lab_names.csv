@@ -1,0 +1,100 @@
+name,label,new_lab
+Alanine Aminotransferase,,ALT
+ALAT,Alanine Aminotransferase,ALT
+ALT,Alanine Aminotransferase,ALT
+ALT,Alanine Aminotransferase,ALT
+ALT,Alanine Aminotransferase (IU/L),ALT
+ALT,,ALT
+ALT (SGPT),,ALT
+ALT_PLC,Alanine Amino Transferase,ALT
+ALT_PLC,Alanine Amino Transferase,ALT
+ALT/SGPT,ALT/SGPT,ALT
+ASAT,Aspartate Aminotransferase,AST
+Aspartate Aminotransferase,,ALT
+AST,Aspartate Aminotransferase,AST
+AST,Aspartate Aminotransferase,AST
+AST,Aspartate Aminotransferase (IU/L),AST
+AST,,AST
+AST (SGOT),,AST
+AST_PLC,Aspartate Amino Transferase,AST
+AST/SGOT,AST/SGOT,AST
+BODY WEIGHT IN KG,BODY WEIGHT IN KG,weight
+CPK,Creatine Phosphokinase,
+CPK,,
+CRCL,,EGFR
+CrCL BASED ON THE C-G EQUATION,CrCL BASED ON THE C-G EQUATION,
+CRE,Baseline creatinine [umol/L],CREAT
+CRE,Creatinine,CREAT
+CRE,,CREAT
+CREA,,CREAT
+CREAT,Creatinine,CREAT
+CREAT,Creatinine,CREAT
+CREAT,Creatinine,CREAT
+CREAT,Creatinine (umol/L),CREAT
+CREAT,,CREAT
+CREATCLR,Creatinine Clearance,EGFR
+CREATINE PHOSPHOKINASE,CREATINE PHOSPHOKINASE,
+CREATINE PHOSPHOKINASE (CK/CPK),CREATINE PHOSPHOKINASE (CK/CPK),
+CREATININE,CREATININE,CREAT
+Creatinine,,CREAT
+CREATININE CLEARANCE - ESTIMATED,CREATININE CLEARANCE - ESTIMATED,EGFR
+"Creatinine Clearance, Estimated",,EGFR
+CRT_PLC,Creatinine,CREAT
+CRT_PLC,Creatinine,CREAT
+CRTCE_PLR,"Creatinine Clearance, estimated",EGFR
+ESTIMATED GLOMERULAR FILTRATION RATE (GFR),ESTIMATED GLOMERULAR FILTRATION RATE (GFR),
+ESTIMATED GLOMERULAR FILTRATION RATE (GFR) CKD-EPI,ESTIMATED GLOMERULAR FILTRATION RATE (GFR) CKD-EPI,
+FPG,Fasting plasma glucose,FPG
+GFRC,Creatinine clearance,EGFR
+GFRC,,EGFR
+GLU,Baseline fasting plasma glucose [mg/dL],GLU
+GLU,Glucose,GLU
+GLU,,GLU
+GLUC,Glucose,GLU
+GLUC,,GLU
+GLUC,,GLU
+GLUC_PLC,Glucose,GLU
+GLUCC,Serum Glucose (mmol/L),GLU
+Glucose,,GLU
+"GLUCOSE, FASTING","GLUCOSE, FASTING",FPG
+"GLUCOSE, NON-FASTING","GLUCOSE, NON-FASTING",GLU
+"GLUCOSE, NON-FASTING OR RANDOM","GLUCOSE, NON-FASTING OR RANDOM",GLU
+GLUCP_PLC,Glucose (plasma - efficacy),GLU
+GLUCR,Glucose - Random,GLU
+HB_BLC,Hemoglobin,HGB
+HEMOGLOBIN,HEMOGLOBIN,HGB
+Hemoglobin,,HGB
+HGB,Baseline haemoglobin [g/L],HGB
+HGB,Haemoglobin,HGB
+HGB,Hemoglobin,HGB
+HGB,Hemoglobin,HGB
+HGB,Hemoglobin (g/L),HGB
+HGB,,HGB
+HGB,,HGB
+HGB,,HGB
+PLAT,Platelet,PLAT
+PLAT,Platelets,PLAT
+PLAT,Platelets (GI/L),PLAT
+PLAT,,PLAT
+PLAT2,,PLAT
+PLATE,Platelet Count,PLAT
+PLATE,,PLAT
+Platelet,,PLAT
+PLATELET COUNT,PLATELET COUNT,PLAT
+Platelet Count,,PLAT
+PLT,,PLAT
+PLT_BLC,Platelet count,PLAT
+PLTCT,Platelet count,PLAT
+PLTCT,Platelets,PLAT
+PLTCT,,PLAT
+SCRT,,CREAT
+SGLUC,,GLU
+SGOT,"AST/GOT, SGOT",AST
+SGOT,SGOT/AST,AST
+SGOT,,AST
+SGOT,,AST
+SGPT,"ALT/GPT, SGPT",ALT
+SGPT,SGPT/ALT,ALT
+SGPT,,ALT
+SGPT,,ALT
+SGPT,,ALT

@@ -1,0 +1,78 @@
+name,label,new_lab
+SGPT,"ALT/GPT, SGPT",NA
+SGOT,"AST/GOT, SGOT",NA
+CRE,Creatinine,NA
+HGB,Haemoglobin,NA
+PLTCT,Platelet count,NA
+GFRC,Creatinine clearance,NA
+PLTCT,Platelets,NA
+HGB,,NA
+PLTCT,,NA
+SGPT,,NA
+CRE,,NA
+GFRC,,NA
+GLU,Glucose,NA
+GLU,Baseline fasting plasma glucose [mg/dL],NA
+CRE,Baseline creatinine [umol/L],NA
+HGB,Baseline haemoglobin [g/L],NA
+ALT_PLC,Alanine Amino Transferase,ALT
+AST_PLC,Aspartate Amino Transferase,AST
+CRT_PLC,Creatinine,CREAT
+GLUC_PLC,Glucose,GLU
+HB_BLC,Hemoglobin,HGB
+PLT_BLC,Platelet count,PLT
+CRTCE_PLR,"Creatinine Clearance, estimated",EGFR
+HGB,NA,HGB
+PLT,NA,PLT
+GLU,NA,GLU
+ALT,NA,ALT
+AST,NA,AST
+ALT,Alanine Aminotransferase (IU/L),ALT
+AST,Aspartate Aminotransferase (IU/L),AST
+CREAT,Creatinine (umol/L),CREAT
+GLUCC,Serum Glucose (mmol/L),GLU
+HGB,Hemoglobin (g/L),HGB
+PLAT,Platelets (GI/L),PLT
+ALT,Alanine Aminotransferase,ALT
+AST,Aspartate Aminotransferase,AST
+CREAT,Creatinine,CREA
+HGB,Hemoglobin,HGB
+PLAT,Platelets,PLAT
+CREA,,CREA
+SGOT,,AST
+SGPT,,ALT
+HGB,,HGB
+PLAT2,,PLAT2
+GLUC,,GLU
+CRCL,,CREA
+SGLUC,,GLU
+CPK,NA,CREAT
+CREAT,NA,CREAT
+PLATE,NA,PLT
+SCRT,NA,CREAT
+SGOT,NA,AST
+SGPT,NA,ALT
+GLUC,NA,GLU
+PLAT,NA,PLT
+CPK,Creatine Phosphokinase,CREAT
+CREAT,Creatinine,CREAT
+GLUC,Glucose,GLU
+PLATE,Platelet Count,PLT
+SGOT,SGOT/AST,AST
+SGPT,SGPT/ALT,ALT
+ALT,Alanine Aminotransferase,NA
+AST,Aspartate Aminotransferase,NA
+CREATCLR,Creatinine Clearance,NA
+CREAT,Creatinine,NA
+HGB,Hemoglobin,NA
+PLAT,Platelet,NA
+Alanine Aminotransferase,NA,NA
+Aspartate Aminotransferase,NA,NA
+Creatinine,NA,NA
+Glucose,NA,NA
+Hemoglobin,NA,NA
+Platelet,NA,NA
+Platelet Count,NA,NA
+"Creatinine Clearance, Estimated",NA,NA
+AST (SGOT),NA,NA
+ALT (SGPT),NA,NA

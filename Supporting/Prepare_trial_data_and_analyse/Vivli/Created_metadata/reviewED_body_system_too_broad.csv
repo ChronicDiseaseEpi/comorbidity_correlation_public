@@ -1,0 +1,50 @@
+term_lower,atc_code,reason_not_classified
+*alendronic acid/*hyaluronate sodium,M05BA04,
+*ampicillin/*ampicillin sodium/*caffeine/*carisoprodol/*chlorzoxazone/*paracetamol/*thiamine,,not_of_interest
+*ascorbic acid/*caffeine/*chlorphenamine/*paracetamol/*phenylephrine/*salicylamide/*triamcinolone acetonide,,slash_star
+*dextrin/*guar gum/*triticum aestivum,,not_of_interest
+alendronate sodium hydrate,M05BA04,
+amg 827 (interleukin-17 receptor antagonist),L04AC,
+anti-interleukin-17 monoclonal antibody,L04AC,
+betamethasone acetate/betamethasone sodium phosphate,,unknown_site_steroid
+betamethasone dipropionate/betamethasone sodium phosphate,,unknown_site_steroid
+betamethasone/betamethasone sodium phosphate,,unknown_site_steroid
+betamethasone/dexchlorpheniramine maleate,,unknown_site_steroid
+blinded anti-cd iia monoclonal antibody,L04AC,
+blinded anti-interleukin-17 monoclonal antibody,L04AC,
+blinded anti-interleukin-6 monoclonal antibody,L04AC,
+blinded medi-522,L04AC,
+blinded natalizumab,L04AC,
+calamine/zinc oxide,,not_of_interest
+calcium hydroxide,,not_of_interest
+calcium pantothenate/metesculetol,,not_of_interest
+cetomacrogol 1000/cetostearyl alcohol/liquid paraffin/white soft paraffin,,not_of_interest
+cevimeline hydrochloride hydrate,,not_of_interest
+chinese medicine nos,,not_a_drug
+corticosteroid nos,,unknown_site_steroid
+dermatologic agent nos,,not_of_interest
+dermatological agent nos,,not_of_interest
+electrolytes/macrogol/malic acid/sorbitol,,not_of_interest
+formoterol fumarate/mometasone furoate,R03AK09,
+hamamelis,,not_of_interest
+hesperidin,,not_of_interest
+insulin human(genetical recombination),A10A,
+insulin lispro(genetical recombination),A10A,
+leukotriene antagonist nos,R03DC,
+"liquid paraffin/wax, emulsifying/white soft paraffin",,not_of_interest
+lotion nos,,not_of_interest
+lubricant,,not_of_interest
+ly2439821 (anti-il-17 mab),L04AC,
+medi-522,,investigational drug
+menthol/methyl salicylate,,no atc
+menthol/zinc oxide,,not_of_interest
+mizoribine,,not_of_interest
+norgestrel_ethinylestradiol,,not_of_interest
+other,,not_a_drug
+polyethylene glycol/propylene glycol,,not_of_interest
+prednisolone sodium tetrahydrophthalate,,unknown_site_steroid
+shampoo nos,,not_a_drug
+skin cleanser nos,,not_a_drug
+sodium risedronate hydrate,M05BA07,
+steroid nos,,unknown_site_steroid
+triamcinolone hexacetonide,,not_of_interest

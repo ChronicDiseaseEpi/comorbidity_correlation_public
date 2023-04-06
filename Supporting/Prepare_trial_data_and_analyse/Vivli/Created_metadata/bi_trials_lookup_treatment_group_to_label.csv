@@ -1,0 +1,90 @@
+trial,tpatt,tpattlbl
+BI1245_36,,NA
+BI1245_48,,NA
+BI248_524,B,Pramipexole ER
+BI248_524,C,Pramipexole IR
+BI248_524,A,Placebo
+BI248_525,C,Pramipexole IR
+BI248_525,A,Placebo
+BI248_525,B,Pramipexole ER
+BI248_525,B,
+BI248_622,C,TRT02
+BI248_622,A,TRT00
+BI248_622,B,TRT01
+BI248_622,D,TRT03
+BI248_622,,Not Entered/Randomized
+BI107_210,A,"Meloxicam, 1*7.5 mg"
+BI107_210,B,Usual Care
+BI107_210,,Not Entered/Randomised
+BI248_629,A,Placebo
+BI248_629,B,Pramipexole
+BI248_629,,Not Entered/Randomised
+BI502_254,A,Telmi 20mg
+BI502_254,B,Telmi 40mg
+BI502_254,C,Telmi 80mg
+BI502_254,D,HCTZ 12.5mg
+BI502_254,E,Placebo
+BI502_254,,Not Entered/Randomised
+BI502_256,A,"Telmisartan, Tablet, 80 mg"
+BI502_256,B,"Valsartan, Tablet, 80 mg"
+BI502_256,,Not Entered/Randomised
+BI502_316,A,Telmisartan
+BI502_316,B,Losartan
+BI502_316,,Not Entered/Randomised
+BI502_317,A,Telmisartan
+BI502_317,B,Enalapril
+BI502_317,,Not Entered/Randomised
+BI502_391,A,Telm 40/80/80
+BI502_391,B,Ram 2.5/5/10
+BI502_391,,Not Entered/Randomised
+BI502_392,A,Telmisartan 40/80/80 mg
+BI502_392,B,Ramipril 2.5/5/10 mg
+BI502_392,,Not Entered/Randomised
+BI502_413,A,Telmisartan 80mg
+BI502_413,B,Telmisartan 40mg
+BI502_413,C,Placebo
+BI502_413,,Not Entered/Randomised
+BI502_550,A,Telmisartan
+BI502_550,B,Telmisartan+HCTZ
+BI502_550,,Not Entered/Randomised
+BI502_376,AAC,Telm/Telm/MD
+BI502_376,ACA,Telm/MD/Telm
+BI502_376,BBC,Val/Val/MD
+BI502_376,BCB,Val/MD/Val
+BI502_376,,Not Entered/Randomised
+BI502_396,A,Telmisartan
+BI502_396,B,Valsartan
+BI502_396,,Not Entered/Randomised
+BI1199_32,A,Nintedanib 150 mg bid
+BI1199_32,B,Placebo 150 mg bid
+BI1199_32,,Not Entered/Randomised
+BI1199_34,A,Nintedanib 150 mg bid
+BI1199_34,B,Placebo 150 mg bid
+BI1199_34,,Not Entered/Randomised
+BI244_2484,A,"Ipratropium Bromide, Respimat, 20mcg/puff, qid"
+BI244_2484,B,"Ipratropium Bromide, Respimat, 40mcg/puff, qid"
+BI244_2484,C,"Placebo, Respimat, qid"
+BI244_2484,D,"Ipratropium Bromide, MDI, 2*20mcg(from valve)/puff, qid"
+BI244_2484,E,"Placebo, Metered-Dose Inhalant, qid"
+BI244_2484,,Not Entered/Randomised
+BI502_327,AAC,Telm/Telm/Missed dose
+BI502_327,ACA,Telm/Missed dose/Telm
+BI502_327,BBC,Val/Val/Missed dose
+BI502_327,BCB,Val/Missed dose/Val
+BI502_327,,Not Entered/Randomised
+BI502_397,A,"Telmisartan 40 mg, Telmisartan 80 mg"
+BI502_397,B,"Losartan 50 mg, Losartan 100 mg"
+BI502_397,,Not Entered/Randomised
+BI1276_1,AA060,Empagliflozin 10 mg qd
+BI1276_1,AA062,Empagliflozin 25 mg qd
+BI1276_1,AE005,"Empagliflozin 5 mg, bid + Metformin 500 mg, bid"
+BI1276_1,AE006,"Empagliflozin 5 mg, bid + Metformin 1000 mg, bid"
+BI1276_1,AE007,"Empagliflozin 12.5 mg, bid + Metformin 500 mg, bid"
+BI1276_1,AE008,"Empagliflozin 12.5 mg, bid + Metformin 1000 mg, bid"
+BI1276_1,AE009,"Empagliflozin 12.5 mg, bid + Metformin 1000 mg, bid ol"
+BI1276_1,AM505,"Metformin,500mg bid"
+BI1276_1,AM506,"Metformin,1000mg bid"
+BI1276_1,ZZZZZ,Not randomized
+BI1160_26,A,Dabigatran 110 mg bid
+BI1160_26,B,Dabigatran 110 mg bid
+BI1160_26,C,Warfarin

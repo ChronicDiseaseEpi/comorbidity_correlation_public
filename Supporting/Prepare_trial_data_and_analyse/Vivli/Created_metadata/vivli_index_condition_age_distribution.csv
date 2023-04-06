@@ -1,0 +1,11 @@
+condition,age_mean,age_std,age_min,age_max,n_patients,n_trials,repo
+Benign_Prostatic_Hyperplasia,63.68,8.46,44.77,88.59,2816,6,Vivli
+Diabetes_Mellitus_Type_2,56.92,10.15,18,87,12677,13,Vivli
+Hypertension,56.83,11.45,18,89,5641,9,Vivli
+Osteoarthritis,63.79,11.58,23,89,1320,1,Vivli
+Osteoporosis,66.68,10.22,21.91,88.7,2055,2,Vivli
+Parkinson_Disease,61.71,9.9,30,87,1368,3,Vivli
+Pulmonary_Disease_Chronic_Obstructive,65.72,8.5,41,89,645,1,Vivli
+Pulmonary_Hypertension,53.7,15.51,14.69,99,406,1,Vivli
+Restless_legs_syndrome,56.9,12.11,22,81,331,1,Vivli
+Rheumatoid_arthritis,52.67,11.94,18,85,982,2,Vivli

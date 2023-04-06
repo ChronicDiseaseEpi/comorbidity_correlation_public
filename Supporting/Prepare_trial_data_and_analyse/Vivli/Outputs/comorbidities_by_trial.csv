@@ -1,0 +1,44 @@
+company,trial,nct_id,medicine,condition,antacids,anxiety,arthritis,prostate,CV,dementia,diabetes,erectile,epilepsy,glaucoma,gout,inflammatory,migraine,osteoporosis,pain,parkinsons,asthma_COPD,schizophrenia,thromboembolic,thyroid,urological,skin
+bi,BI1245_36,NCT01164501,empagliflozin,"Diabetes Mellitus, Type 2; Renal Insufficiency",2.6,0.8,2.3,0.8,12.8,0,0,0,0,0.8,0.7,0.8,0.3,0.1,4.2,0,1.1,0.1,0.3,0.1,0.1,4
+bi,BI248_524,NCT00479401,pramipexole,Parkinson Disease,10.4,17.4,9.5,3,45.6,0.7,8.3,0.4,0.9,2.8,1.9,2.4,0.2,1.5,3.7,0,4.8,0.4,0.9,5.9,2.4,4.1
+bi,BI248_525,NCT00466167,Pramipexol,Parkinson Disease,8.5,22.8,6.2,3.1,27.6,0.6,6,0.2,0.8,3.7,0.8,1.2,0.4,0.6,3.3,0,0.8,0.8,0.4,2.3,1,1.9
+bi,BI248_622,NCT00402233,pramipexole,Parkinson Disease,19.3,22.8,26,11.3,61.1,1,14.5,2.9,3.9,4.8,2.6,2.9,2.3,7.4,14.5,0,7.1,0.6,2.6,10.9,3.9,14.1
+bi_new,BI107_210,NCT02183064,meloxicam,Osteoarthritis,32.4,28.8,0,3,51.1,1.9,8,0.2,2,4,2.2,9.2,2.1,6.1,0,1.3,7.8,0.6,1.1,24.5,2,35.1
+bi_new,BI1276_1,NCT01719003,empagliflozin,"Diabetes Mellitus, Type 2;   Hyperglycemia",1.8,0.9,4,0.6,16.4,0,0,0.4,0.3,0.4,0.6,1.3,0.1,0.2,3.7,0,1.6,0,0,0.7,0.1,3.9
+bi_new,BI244_2484,NCT02177344,ipratropium bromide,"Pulmonary Disease, Chronic Obstructive",20.1,23.1,11.3,1.7,29.7,0.6,4.3,0.2,1.5,1.9,1.9,19.5,0.5,3.1,24.1,0.3,0,1.2,1.2,13.6,0.5,12.2
+bi_new,BI248_629,NCT00472199,pramipexole,Restless Legs Syndrome,10,9.7,21.5,3.9,39.9,0.6,4.5,0.6,1.2,2.1,2.1,7.9,1.2,5.1,19,0,10.3,0.3,1.8,8.5,0.9,8.5
+bi_new,BI502_254,NCT02175355,telmisartan,Hypertension,6.1,7.6,13.6,1.2,0,0.2,5.3,0,0.2,1.6,1.8,3.8,0.4,1.3,8.1,0.4,4.2,0.4,0.8,2.7,0.1,4.1
+bi_new,BI502_256,NCT02177396,telmisartan,Hypertension,5.9,9.4,18.1,2.6,0,1.4,7.5,0.5,0.5,0.9,1.2,2.1,0.2,0.5,13.6,0.2,2.1,0,0,5.2,0.2,12.2
+bi_new,BI502_316,NCT02172586,telmisartan,Hypertension,1.4,6.6,2.5,1.4,0,0,1.4,0,0,0.6,1.1,0.6,0,0,0,0,0.3,0,0,1.1,0,0.6
+bi_new,BI502_317,NCT02177461,telmisartan,Hypertension,1.9,6.1,2.9,0.8,0,0,1.3,0,0.3,0.5,1.6,0.8,0.3,0.5,2.4,0.5,1.3,1.3,0,1.1,0,1.3
+bi_new,BI502_327,NCT00034840,telmisartan,Hypertension,8,6.3,19,0.8,0,0.4,5.5,1.6,0.4,1.8,4.5,3.7,0.8,0.6,18,0,3.5,0.2,0.8,7.1,0,8.8
+bi_new,BI502_376,NCT02242318,telmisartan,Hypertension,4.3,9.6,10.8,0.4,0,0.2,5.4,0,0.4,0.9,4.3,5.6,1.3,0.4,10.1,0.2,5.6,0.2,0,2.5,0,4
+bi_new,BI502_391,NCT00274612,telmisartan,Hypertension,7.9,10.1,17,2,0,0.6,3.5,0.2,0.1,0.9,3.9,6.1,1,0.4,15,0.1,4.2,0.4,0.4,3.5,0.1,6.5
+bi_new,BI502_392,NCT00274599,telmisartan,Hypertension,7.4,12.4,28.4,2.3,0,0.4,6.8,1.4,1.1,1.1,2.5,5.3,1.4,1.1,21.9,0,5.3,0.9,0.1,3.6,0.5,13.7
+bi_new,BI502_396,NCT00153023,telmisartan,"Diabetes Mellitus, Type 2, nephropathy",10.3,7.6,4.4,4.9,96.7,0.8,91.8,0.8,1.6,13.6,21.2,2.3,3.6,0.1,10.3,0.2,2.8,0.7,4,4.7,0.7,2.9
+bi_new,BI502_397,NCT00168857,telmisartan,Hypertension; Diabetic Nephropathies,15.3,17.4,12.8,6.9,93.6,4.3,94.9,3.3,2.7,11.2,10.6,4.8,4.7,1.3,16.7,0.1,5.9,0.1,3.4,6.5,0.7,9.5
+bi_new,BI502_413,NCT00153088,telmisartan,Diabetic Nephropathies,12,7.2,13.3,1.7,60.7,0,0,2.1,0.8,7,6.5,1.7,0.2,0.6,1.3,0.2,3.2,0.8,0.2,1.3,1.1,11.8
+bi_new,BI502_550,NCT00926289,telmisartan,Hypertension,2.6,4.6,5.6,0.9,0,0.1,9.4,0.4,0.2,2.7,1.5,0.8,1.6,0.7,7.4,0.1,3.1,0.1,0.7,2.1,0.2,0.9
+lilly,LILLY_B3D_MC_GHAC,NCT00670501,Teriparatide,Osteoporosis,77.9,16.2,19.6,0.5,47.1,0.6,3.3,0.1,1.8,8.3,0.3,5.4,1.3,0,25.9,1,8.4,0.8,0.1,15,0.6,19.4
+lilly,LILLY_B3D_US_GHBZ,NCT00051558,Teriparatide,Osteoporosis,44.1,20.7,51,1.9,51.3,2.1,5.8,0.7,3.5,1.6,1.2,90.7,0.9,0,29.8,0.2,14.5,1.4,2.6,14,0.5,15.6
+lilly,LILLY_H6D_MC_LVGY,NCT00125918,Tadalafil,"Hypertension, Pulmonary",29.3,26.8,9.1,2.2,39.7,0.2,9.4,0.2,2.2,2.7,7.6,18.7,2,6.7,21.9,0.7,20.4,2,0,18,1,8.4
+lilly,LILLY_H6D_MC_LVHB,NCT00861757,Tadalafil,Benign Prostatic Hyperplasia,9.9,5.6,10.2,0,43.1,0.5,9.2,0,0,1.4,5.4,3.2,0,0,2.9,0,5.9,0.6,0,1.6,0,5.9
+lilly,LILLY_H6D_MC_LVHG,NCT00384930,Tadalafil,Benign Prostatic Hyperplasia,9.1,8.2,24.8,0,44.3,0,7.7,32.1,0.7,2.8,1.9,6.1,0.9,0.2,11.9,0.9,5.2,0.5,0.7,4,0,1.4
+lilly,LILLY_H6D_MC_LVHJ,NCT00827242,Tadalafil,Benign Prostatic Hyperplasia,0.9,0.3,2.8,0,4.3,0,2.5,15.7,0.3,0.3,0,1.5,0,0.3,2.2,0,1.2,0.3,1.5,0,0,0.9
+lilly,LILLY_H6D_MC_LVHR,NCT00855582,Tadalafil,"Erectile Dysfunction, Benign Prostatic Hyperplasia",7.8,5.4,12.4,0,43.9,0.8,11.4,0,0.3,2.6,2.5,3.5,0.8,1.2,7.8,0.5,6.3,0.5,0.8,5.1,0,1.8
+lilly,LILLY_H6D_MC_LVHS,NCT00848081,Tadalafil,Benign Prostatic Hyperplasia,16,11.9,26.7,0,86.2,2.2,14.2,30.8,0.9,4.7,6.3,6.3,1.9,0.6,12.9,0.6,12.6,0.3,3.1,11,0,9.7
+lilly,LILLY_H6D_MC_LVID,NCT00970632,Tadalafil,Benign Prostatic Hyperplasia,5.7,1.4,4.1,0,50.7,0.6,11.4,12.7,0.2,0.8,4.5,2.7,0.2,0.6,2.5,0,3.9,0.2,2,2.3,0,0.8
+lilly,LILLY_H9X_MC_GBCF,NCT00734474,Dulaglutide,Diabetes Mellitus,11.6,11.1,15.9,2.9,64.3,0.9,0,2.7,1.1,1.4,2.6,4.5,0.4,0.5,12.6,0.7,5,0.7,0.3,9.2,0.3,6
+lilly,LILLY_H9X_MC_GBDA,NCT01064687,Dulaglutide,Diabetes Mellitus,11.3,19,27.8,3.1,74,0.2,0,6.7,1.2,3.2,2.1,6.7,1.6,0.7,22.1,1,10.6,0.6,2.1,9.5,1.1,14.4
+lilly,LILLY_H9X_MC_GBDB,NCT01075282,Dulaglutide,Diabetes Mellitus,7.4,9.2,22.1,1.9,66.9,0.2,0,0.8,0.7,3.1,2.3,2.8,0.1,1,21.6,0.5,3.4,0.6,0.8,7.5,0.5,5.4
+lilly,LILLY_H9X_MC_GBDC,NCT01126580,Dulaglutide,Diabetes Mellitus,8.1,12.3,18.2,1.2,62.7,0.2,0,0.6,0.6,2.9,3.6,2.6,1,1.1,18.2,1.5,6.7,1.7,1.5,8.4,0.9,4
+lilly,LILLY_H9X_MC_GBDD,NCT01191268,Dulaglutide,Diabetes Mellitus,10.9,16.5,25.6,2.4,79.7,0.2,0,3,1.6,5,3.4,3.6,0.8,0.8,25.6,0.6,7,1.7,2.4,10.3,1,8
+lilly,LILLY_H9X_MC_GBDE,NCT01624259,Dulaglutide,Diabetes Mellitus,7.3,8.8,20.9,2.5,69.8,0,0,1.3,0.7,3.3,4.7,3.2,1.3,0.2,19.5,1.2,5.5,0.7,2,7.8,0.3,5
+lilly,LILLY_H9X_MC_GBDG,NCT01769378,Dulaglutide,Diabetes Mellitus,4.3,6,12,2,65.7,0,0,0,0.3,2.3,2.7,1.7,0.3,0,7,0.7,3,0,2.7,6.7,0,1.3
+rch,RCHNA25220,NCT01232569,Tocilizumab,rheumatoid arthritis,18.4,13.9,0,0,33.1,0.6,8.1,0.2,0.6,1.2,0.2,0,0.5,10.8,32,0.3,4,0.5,0.5,8.4,0,15.5
+rch,RCHQ4881G,NCT01287117,omalizumab,Chronic Idiopathic Urticaria (CIU),11.6,18.5,11.9,0.3,27.9,0,5,0.3,1.9,2.5,0.6,0,1.6,0.6,15,0,17.9,0,0.3,9.7,0,0
+rch,RCHQ4882G,NCT01292473,omalizumab,Chronic Idiopathic Urticaria (CIU),10.5,14.9,11.1,0.6,21.4,0,4,0,2.5,2.2,0.3,0,3.1,0.6,16.1,0.9,18.6,0,0.9,13.3,0,0
+rch,RCHQ4883G,NCT01264939,omalizumab,Chronic Idiopathic Urticaria (CIU),72.9,20.2,14.9,0,26.5,0,4.2,0.9,1.2,2.1,1.2,0,3.6,1.8,21.7,0.6,52.4,0.3,0,14,0,0
+rch,RCHWA19924,NCT01119859,Tocilizumab,rheumatoid arthritis,14.4,19.3,0,1.8,41.4,0.3,10.1,0.3,2.1,1.5,0.3,0,0.6,7.7,46.9,0.3,8.3,0.9,1.5,20.9,1.2,10.1
+tak,TKASYR322_305,NCT00856284,alogliptin,Type 2 Diabetes Mellitus,5.3,4.6,7.3,1,31.1,0,0,0.8,0.3,0.9,0.8,1.3,0.1,0.7,6.9,0.1,2.5,0.2,0.4,2.6,0.1,4.4
+tak,TKASYR322_402,NCT00968708,alogliptin,"Diabetes Mellitus, Type 2",2.3,27.9,8.5,3.1,93.6,0.3,0,0.6,0.9,18.4,2.7,7,1.1,0.2,29.5,0.4,7.2,1.1,7.2,2.7,0.4,12.7
