@@ -33,8 +33,8 @@ The community analysis was split into 2 parts:
 - 11  models ran (11 index conditions, 1 per index condition) on an external virtual machine (vm)
 - 5 models ran in SAIL ( 5 index conditions) 
 
-The 11 models ran on the vm are the model scripts 02-12 and 15-25, the models ran on 
-SAIL have not been provided. We used exactly the same code, we have however provided
+The 11 models ran on the vm are the model scripts 02-12 and 15-25. 
+The models ran on SAIL have not been provided. We have however provided
 code to simulate the MCMC draws from the models that were ran on SAIL see scripts 33 and 34.
 
 
