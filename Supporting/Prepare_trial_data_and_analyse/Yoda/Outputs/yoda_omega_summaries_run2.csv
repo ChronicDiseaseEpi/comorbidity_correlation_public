@@ -1,0 +1,43 @@
+mean,Var1,Var2,CI2.5,CI97.5,sd,n_eff,rhat,trial,condition,comorbidity,repo
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,28431754DIA3014,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,YODA_run2
+0.16,Pain,Cardiovascular,-0.254,0.551,0.205,3316.89,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,YODA_run2
+0.15,Cardiovascular,Arthritis,-0.19,0.473,0.172,3307.73,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,YODA_run2
+-0.21,Cardiovascular,Acid-related disease,-0.791,0.371,0.303,2909.16,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,YODA_run2
+-0.34,Cardiovascular,Anxiety,-0.792,0.175,0.251,2167.05,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,YODA_run2
+-0,Cardiovascular,Asthma,-0.721,0.698,0.386,4940.2,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,YODA_run2
+1,Pain,Pain,1,1,0,3101.39,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Pain,YODA_run2
+-0.08,Pain,Arthritis,-0.728,0.549,0.337,941.72,1.005,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Arthritis,YODA_run2
+-0.03,Pain,Acid-related disease,-0.737,0.67,0.374,2369.87,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,YODA_run2
+-0.11,Pain,Anxiety,-0.747,0.514,0.335,1282.55,1.002,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Anxiety,YODA_run2
+0,Pain,Asthma,-0.69,0.697,0.371,4388.27,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Pain : Asthma,YODA_run2
+1,Arthritis,Arthritis,1,1,0,2789.54,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,YODA_run2
+-0.05,Arthritis,Acid-related disease,-0.724,0.61,0.356,3148.88,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,YODA_run2
+-0.06,Arthritis,Anxiety,-0.711,0.572,0.346,1464.06,1.002,28431754DIA3014,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,YODA_run2
+0.01,Asthma,Arthritis,-0.685,0.719,0.378,4766.69,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Asthma : Arthritis,YODA_run2
+1,Acid-related disease,Acid-related disease,1,1,0,2073.73,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,YODA_run2
+0.07,Anxiety,Acid-related disease,-0.646,0.737,0.369,1563.27,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,YODA_run2
+-0,Asthma,Acid-related disease,-0.706,0.699,0.376,2943.42,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,YODA_run2
+1,Anxiety,Anxiety,1,1,0,2762.47,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,YODA_run2
+0,Asthma,Anxiety,-0.685,0.695,0.372,3448.6,1,28431754DIA3014,Diabetes_Mellitus_Type_2,Asthma : Anxiety,YODA_run2
+1,Asthma,Asthma,1,1,0,745.84,0.999,28431754DIA3014,Diabetes_Mellitus_Type_2,Asthma : Asthma,YODA_run2
+1,Cardiovascular,Cardiovascular,1,1,0,NA,NA,DIA3005,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,YODA_run2
+-0.13,Pain,Cardiovascular,-0.319,0.064,0.098,1768.79,1.001,DIA3005,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,YODA_run2
+-0.24,Cardiovascular,Arthritis,-0.415,-0.056,0.091,1764.36,0.999,DIA3005,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,YODA_run2
+0.09,Cardiovascular,Acid-related disease,-0.153,0.317,0.12,1688.4,1,DIA3005,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,YODA_run2
+0.09,Cardiovascular,Anxiety,-0.173,0.348,0.132,1502.45,1,DIA3005,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,YODA_run2
+0.19,Cardiovascular,Asthma,-0.151,0.501,0.164,1503.12,1,DIA3005,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,YODA_run2
+1,Pain,Pain,1,1,0,3196.72,0.999,DIA3005,Diabetes_Mellitus_Type_2,Pain : Pain,YODA_run2
+0.28,Pain,Arthritis,0.09,0.465,0.098,1253.69,1,DIA3005,Diabetes_Mellitus_Type_2,Pain : Arthritis,YODA_run2
+0.03,Pain,Acid-related disease,-0.235,0.291,0.139,1291.44,1.001,DIA3005,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,YODA_run2
+0.15,Pain,Anxiety,-0.134,0.421,0.143,1383.43,1.001,DIA3005,Diabetes_Mellitus_Type_2,Pain : Anxiety,YODA_run2
+-0.43,Pain,Asthma,-0.864,0.088,0.255,563.91,1.001,DIA3005,Diabetes_Mellitus_Type_2,Pain : Asthma,YODA_run2
+1,Arthritis,Arthritis,1,1,0,2718.24,0.999,DIA3005,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,YODA_run2
+-0.47,Arthritis,Acid-related disease,-0.839,-0.103,0.189,440.32,1.006,DIA3005,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,YODA_run2
+0.08,Arthritis,Anxiety,-0.191,0.349,0.138,1286.36,1,DIA3005,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,YODA_run2
+-0.36,Asthma,Arthritis,-0.788,0.103,0.233,729.17,1.003,DIA3005,Diabetes_Mellitus_Type_2,Asthma : Arthritis,YODA_run2
+1,Acid-related disease,Acid-related disease,1,1,0,2639.17,0.999,DIA3005,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,YODA_run2
+-0.35,Anxiety,Acid-related disease,-0.797,0.124,0.244,292.1,1.013,DIA3005,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,YODA_run2
+-0.06,Asthma,Acid-related disease,-0.574,0.413,0.254,795.66,1.005,DIA3005,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,YODA_run2
+1,Anxiety,Anxiety,1,1,0,2135.96,0.999,DIA3005,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,YODA_run2
+-0.18,Asthma,Anxiety,-0.724,0.343,0.277,680.78,1.002,DIA3005,Diabetes_Mellitus_Type_2,Asthma : Anxiety,YODA_run2
+1,Asthma,Asthma,1,1,0,2288.14,0.999,DIA3005,Diabetes_Mellitus_Type_2,Asthma : Asthma,YODA_run2
