@@ -1,0 +1,232 @@
+mean,Var1,Var2,q2.5,q97.5,rhat,sd,ess_bulk,ess_tail,condition,comorbidity,repo
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.19,Pain,Cardiovascular,0.16,0.211,1.001,0.013,2605.39,2504.53,Diabetes_Mellitus_Type_2,Pain : Cardiovascular,SAIL-age restricted
+0.24,Cardiovascular,Arthritis,0.212,0.264,1.001,0.014,2486.76,2602.31,Diabetes_Mellitus_Type_2,Cardiovascular : Arthritis,SAIL-age restricted
+0.03,Cardiovascular,Acid-related disease,0.004,0.061,1.001,0.015,2234.96,2321.44,Diabetes_Mellitus_Type_2,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.04,Cardiovascular,Anxiety,0.006,0.064,1,0.015,2755.45,2431.64,Diabetes_Mellitus_Type_2,Cardiovascular : Anxiety,SAIL-age restricted
+0.07,Cardiovascular,Asthma,0.037,0.095,1,0.015,2337.52,2555.25,Diabetes_Mellitus_Type_2,Cardiovascular : Asthma,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Pain : Pain,SAIL-age restricted
+0.45,Pain,Arthritis,0.434,0.473,1,0.01,2955.51,2488.06,Diabetes_Mellitus_Type_2,Pain : Arthritis,SAIL-age restricted
+0.15,Pain,Acid-related disease,0.125,0.172,1,0.012,3425.05,2376.99,Diabetes_Mellitus_Type_2,Pain : Acid-related disease,SAIL-age restricted
+0.3,Pain,Anxiety,0.273,0.32,1.001,0.012,3645.61,2663.91,Diabetes_Mellitus_Type_2,Pain : Anxiety,SAIL-age restricted
+0.24,Pain,Asthma,0.217,0.267,1.002,0.013,3136.84,2570.07,Diabetes_Mellitus_Type_2,Pain : Asthma,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Arthritis : Arthritis,SAIL-age restricted
+-0.29,Arthritis,Acid-related disease,-0.316,-0.269,1,0.012,2823,2568.8,Diabetes_Mellitus_Type_2,Arthritis : Acid-related disease,SAIL-age restricted
+0.14,Arthritis,Anxiety,0.114,0.164,1,0.013,3542.24,2859.93,Diabetes_Mellitus_Type_2,Arthritis : Anxiety,SAIL-age restricted
+0.1,Asthma,Arthritis,0.074,0.125,1.002,0.013,3121.24,2480.06,Diabetes_Mellitus_Type_2,Asthma : Arthritis,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.14,Anxiety,Acid-related disease,0.112,0.163,1,0.013,3751.46,2840.54,Diabetes_Mellitus_Type_2,Anxiety : Acid-related disease,SAIL-age restricted
+0.13,Asthma,Acid-related disease,0.108,0.16,1,0.014,3266.55,2548.69,Diabetes_Mellitus_Type_2,Asthma : Acid-related disease,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Anxiety : Anxiety,SAIL-age restricted
+0.18,Asthma,Anxiety,0.151,0.206,1,0.014,3345.63,2543.67,Diabetes_Mellitus_Type_2,Asthma : Anxiety,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Diabetes_Mellitus_Type_2,Asthma : Asthma,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.29,Pain,Cardiovascular,0.264,0.308,1,0.011,2817.66,2538.75,Benign_Prostatic_Hyperplasia,Pain : Cardiovascular,SAIL-age restricted
+0.3,Cardiovascular,Arthritis,0.274,0.32,1,0.012,2592.51,2572.16,Benign_Prostatic_Hyperplasia,Cardiovascular : Arthritis,SAIL-age restricted
+0.06,Cardiovascular,Acid-related disease,0.036,0.085,1,0.013,2456.08,2616.14,Benign_Prostatic_Hyperplasia,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.06,Cardiovascular,Asthma,0.036,0.088,1,0.013,2739.46,2669.72,Benign_Prostatic_Hyperplasia,Cardiovascular : Asthma,SAIL-age restricted
+0.13,Cardiovascular,Anxiety,0.105,0.161,1,0.014,2540.34,2581.36,Benign_Prostatic_Hyperplasia,Cardiovascular : Anxiety,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Pain : Pain,SAIL-age restricted
+0.47,Pain,Arthritis,0.449,0.489,1.001,0.01,3072.87,2506.06,Benign_Prostatic_Hyperplasia,Pain : Arthritis,SAIL-age restricted
+0.15,Pain,Acid-related disease,0.127,0.175,1,0.012,2729.88,2568.97,Benign_Prostatic_Hyperplasia,Pain : Acid-related disease,SAIL-age restricted
+0.23,Pain,Asthma,0.209,0.258,1.001,0.013,2704.79,2532.48,Benign_Prostatic_Hyperplasia,Pain : Asthma,SAIL-age restricted
+0.34,Pain,Anxiety,0.311,0.362,1,0.013,3271.26,2528.66,Benign_Prostatic_Hyperplasia,Pain : Anxiety,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Arthritis : Arthritis,SAIL-age restricted
+-0.31,Arthritis,Acid-related disease,-0.339,-0.291,1,0.012,1891.21,2338.05,Benign_Prostatic_Hyperplasia,Arthritis : Acid-related disease,SAIL-age restricted
+0.05,Asthma,Arthritis,0.027,0.08,1,0.014,2543.17,2635.32,Benign_Prostatic_Hyperplasia,Asthma : Arthritis,SAIL-age restricted
+0.12,Arthritis,Anxiety,0.089,0.144,1.001,0.014,2906.24,2603.96,Benign_Prostatic_Hyperplasia,Arthritis : Anxiety,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.17,Asthma,Acid-related disease,0.139,0.192,1.001,0.014,2732.92,2353.01,Benign_Prostatic_Hyperplasia,Asthma : Acid-related disease,SAIL-age restricted
+0.17,Anxiety,Acid-related disease,0.144,0.201,1,0.015,2950,2519.96,Benign_Prostatic_Hyperplasia,Anxiety : Acid-related disease,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Asthma : Asthma,SAIL-age restricted
+0.18,Asthma,Anxiety,0.145,0.205,1.001,0.015,2381.25,2386.85,Benign_Prostatic_Hyperplasia,Asthma : Anxiety,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Benign_Prostatic_Hyperplasia,Anxiety : Anxiety,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Hypertension,Pain : Pain,SAIL-age restricted
+0.47,Pain,Arthritis,0.447,0.486,1,0.01,2342.63,2370.98,Hypertension,Pain : Arthritis,SAIL-age restricted
+0.15,Pain,Acid-related disease,0.13,0.177,1.002,0.012,2486.01,2302.53,Hypertension,Pain : Acid-related disease,SAIL-age restricted
+0.32,Pain,Anxiety,0.297,0.343,1,0.012,2426.88,2351.8,Hypertension,Pain : Anxiety,SAIL-age restricted
+0.24,Pain,Asthma,0.218,0.267,1.001,0.013,2222.67,2282.15,Hypertension,Pain : Asthma,SAIL-age restricted
+0.13,Pain,Diabetes,0.107,0.158,0.999,0.013,2563.41,2399.6,Hypertension,Pain : Diabetes,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Hypertension,Arthritis : Arthritis,SAIL-age restricted
+-0.29,Arthritis,Acid-related disease,-0.312,-0.264,1,0.012,2184.75,2309.38,Hypertension,Arthritis : Acid-related disease,SAIL-age restricted
+0.12,Arthritis,Anxiety,0.092,0.144,1.001,0.013,2595.27,2462.47,Hypertension,Arthritis : Anxiety,SAIL-age restricted
+0.07,Asthma,Arthritis,0.047,0.099,1.002,0.013,2448.51,2129.4,Hypertension,Asthma : Arthritis,SAIL-age restricted
+-0.03,Diabetes,Arthritis,-0.062,-0.007,1.002,0.014,2210.39,2325.73,Hypertension,Diabetes : Arthritis,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Hypertension,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.2,Anxiety,Acid-related disease,0.172,0.223,1,0.013,2164.93,2215.06,Hypertension,Anxiety : Acid-related disease,SAIL-age restricted
+0.15,Asthma,Acid-related disease,0.123,0.177,1,0.014,2071.12,2578.15,Hypertension,Asthma : Acid-related disease,SAIL-age restricted
+0.08,Diabetes,Acid-related disease,0.052,0.11,1.002,0.015,2485.08,2298.68,Hypertension,Diabetes : Acid-related disease,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Hypertension,Anxiety : Anxiety,SAIL-age restricted
+0.2,Asthma,Anxiety,0.175,0.229,1.001,0.014,2253.57,2490.36,Hypertension,Asthma : Anxiety,SAIL-age restricted
+0.09,Diabetes,Anxiety,0.063,0.122,1.001,0.015,2295.67,2418.87,Hypertension,Diabetes : Anxiety,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Hypertension,Asthma : Asthma,SAIL-age restricted
+0.05,Diabetes,Asthma,0.02,0.08,1.001,0.016,1737.15,2375.24,Hypertension,Diabetes : Asthma,SAIL-age restricted
+1,Diabetes,Diabetes,1,1,NA,0,NA,NA,Hypertension,Diabetes : Diabetes,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Osteoarthritis,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.03,Cardiovascular,Acid-related disease,0.003,0.051,1.001,0.012,3918.97,2576.79,Osteoarthritis,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.13,Cardiovascular,Anxiety,0.101,0.151,1,0.013,3448.07,2477.33,Osteoarthritis,Cardiovascular : Anxiety,SAIL-age restricted
+0.12,Cardiovascular,Asthma,0.095,0.147,1,0.013,3265.9,2293.77,Osteoarthritis,Cardiovascular : Asthma,SAIL-age restricted
+0.12,Thyroid disorders,Cardiovascular,0.092,0.154,1,0.016,3456.71,2739.65,Osteoarthritis,Thyroid disorders : Cardiovascular,SAIL-age restricted
+0.44,Diabetes,Cardiovascular,0.406,0.464,1,0.015,3466.45,2311.71,Osteoarthritis,Diabetes : Cardiovascular,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Osteoarthritis,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.18,Anxiety,Acid-related disease,0.152,0.203,1,0.013,3617.52,2641.31,Osteoarthritis,Anxiety : Acid-related disease,SAIL-age restricted
+0.2,Asthma,Acid-related disease,0.172,0.222,1.001,0.013,2910.29,1868.49,Osteoarthritis,Asthma : Acid-related disease,SAIL-age restricted
+0.09,Thyroid disorders,Acid-related disease,0.062,0.126,1,0.016,4156.25,2649.2,Osteoarthritis,Thyroid disorders : Acid-related disease,SAIL-age restricted
+0.11,Diabetes,Acid-related disease,0.075,0.137,1.001,0.016,3190.12,2171.84,Osteoarthritis,Diabetes : Acid-related disease,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Osteoarthritis,Anxiety : Anxiety,SAIL-age restricted
+0.2,Asthma,Anxiety,0.171,0.223,1,0.013,3646.03,2481.44,Osteoarthritis,Asthma : Anxiety,SAIL-age restricted
+0.07,Thyroid disorders,Anxiety,0.036,0.103,1,0.017,3971.17,2542.28,Osteoarthritis,Thyroid disorders : Anxiety,SAIL-age restricted
+0.12,Diabetes,Anxiety,0.084,0.149,1,0.017,3415.96,2602.24,Osteoarthritis,Diabetes : Anxiety,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Osteoarthritis,Asthma : Asthma,SAIL-age restricted
+0.05,Thyroid disorders,Asthma,0.02,0.087,1,0.017,3703.94,2543.58,Osteoarthritis,Thyroid disorders : Asthma,SAIL-age restricted
+0.1,Diabetes,Asthma,0.063,0.127,1.002,0.017,3471.06,2599.39,Osteoarthritis,Diabetes : Asthma,SAIL-age restricted
+1,Thyroid disorders,Thyroid disorders,1,1,NA,0,NA,NA,Osteoarthritis,Thyroid disorders : Thyroid disorders,SAIL-age restricted
+0.12,Thyroid disorders,Diabetes,0.076,0.157,1.001,0.02,2435.6,2398.99,Osteoarthritis,Thyroid disorders : Diabetes,SAIL-age restricted
+1,Diabetes,Diabetes,1,1,NA,0,NA,NA,Osteoarthritis,Diabetes : Diabetes,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Osteoporosis,Pain : Pain,SAIL-age restricted
+0.3,Pain,Cardiovascular,0.279,0.32,1.001,0.011,2708.91,2302.2,Osteoporosis,Pain : Cardiovascular,SAIL-age restricted
+0.45,Pain,Arthritis,0.43,0.469,1.001,0.01,2633.25,2735.81,Osteoporosis,Pain : Arthritis,SAIL-age restricted
+0.18,Pain,Acid-related disease,0.159,0.204,1.001,0.011,3542.84,2693.08,Osteoporosis,Pain : Acid-related disease,SAIL-age restricted
+0.32,Pain,Anxiety,0.298,0.344,1,0.012,2955.36,2692.64,Osteoporosis,Pain : Anxiety,SAIL-age restricted
+0.24,Pain,Asthma,0.214,0.261,1.003,0.012,2433.11,2568.07,Osteoporosis,Pain : Asthma,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Osteoporosis,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.38,Cardiovascular,Arthritis,0.362,0.404,1,0.01,3387.73,2668.48,Osteoporosis,Cardiovascular : Arthritis,SAIL-age restricted
+0.02,Cardiovascular,Acid-related disease,-0.004,0.043,1.001,0.012,3017.6,2541.98,Osteoporosis,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.1,Cardiovascular,Anxiety,0.075,0.121,1.001,0.012,2985.67,2378.61,Osteoporosis,Cardiovascular : Anxiety,SAIL-age restricted
+0.11,Cardiovascular,Asthma,0.086,0.134,1,0.012,3554.19,2358.87,Osteoporosis,Cardiovascular : Asthma,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Osteoporosis,Arthritis : Arthritis,SAIL-age restricted
+-0.26,Arthritis,Acid-related disease,-0.284,-0.237,1,0.012,2555.24,2451.16,Osteoporosis,Arthritis : Acid-related disease,SAIL-age restricted
+0.12,Arthritis,Anxiety,0.09,0.14,1,0.013,2827.19,2309.48,Osteoporosis,Arthritis : Anxiety,SAIL-age restricted
+0.04,Asthma,Arthritis,0.012,0.059,1,0.012,2835.72,2519.58,Osteoporosis,Asthma : Arthritis,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Osteoporosis,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.18,Anxiety,Acid-related disease,0.156,0.203,1.001,0.012,3131.84,2562.4,Osteoporosis,Anxiety : Acid-related disease,SAIL-age restricted
+0.19,Asthma,Acid-related disease,0.162,0.212,1.001,0.013,3186.94,2555.88,Osteoporosis,Asthma : Acid-related disease,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Osteoporosis,Anxiety : Anxiety,SAIL-age restricted
+0.18,Asthma,Anxiety,0.154,0.203,1.001,0.013,2840.99,2710.84,Osteoporosis,Asthma : Anxiety,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Osteoporosis,Asthma : Asthma,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.25,Pain,Cardiovascular,0.231,0.274,1.001,0.011,2954.34,2474.39,Pulmonary_Disease_Chronic_Obstructive,Pain : Cardiovascular,SAIL-age restricted
+0.02,Cardiovascular,Acid-related disease,-0.007,0.04,1.001,0.012,3147.75,2606.29,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.35,Cardiovascular,Arthritis,0.325,0.369,1.002,0.011,2625.67,2545.3,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Arthritis,SAIL-age restricted
+0.1,Cardiovascular,Anxiety,0.072,0.119,1.001,0.012,2839.08,2687.01,Pulmonary_Disease_Chronic_Obstructive,Cardiovascular : Anxiety,SAIL-age restricted
+0.41,Diabetes,Cardiovascular,0.388,0.439,1.001,0.013,2731.79,2473.98,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Cardiovascular,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Pain : Pain,SAIL-age restricted
+0.16,Pain,Acid-related disease,0.135,0.18,1.001,0.012,2989.42,2188.32,Pulmonary_Disease_Chronic_Obstructive,Pain : Acid-related disease,SAIL-age restricted
+0.45,Pain,Arthritis,0.426,0.466,0.999,0.01,2872.61,2401.5,Pulmonary_Disease_Chronic_Obstructive,Pain : Arthritis,SAIL-age restricted
+0.31,Pain,Anxiety,0.289,0.333,1.001,0.012,3233.9,2773.77,Pulmonary_Disease_Chronic_Obstructive,Pain : Anxiety,SAIL-age restricted
+0.16,Pain,Diabetes,0.131,0.188,1,0.014,2871.44,2480.59,Pulmonary_Disease_Chronic_Obstructive,Pain : Diabetes,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Acid-related disease : Acid-related disease,SAIL-age restricted
+-0.28,Arthritis,Acid-related disease,-0.3,-0.255,1,0.011,2625.57,2533.88,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Acid-related disease,SAIL-age restricted
+0.16,Anxiety,Acid-related disease,0.135,0.182,0.999,0.012,3199.71,2644.52,Pulmonary_Disease_Chronic_Obstructive,Anxiety : Acid-related disease,SAIL-age restricted
+0.08,Diabetes,Acid-related disease,0.047,0.104,1.002,0.014,3208.61,2272.89,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Acid-related disease,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Arthritis,SAIL-age restricted
+0.11,Arthritis,Anxiety,0.083,0.132,1,0.013,2938.71,2556.85,Pulmonary_Disease_Chronic_Obstructive,Arthritis : Anxiety,SAIL-age restricted
+0.04,Diabetes,Arthritis,0.014,0.072,1,0.015,3202.46,2581.97,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Arthritis,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Anxiety : Anxiety,SAIL-age restricted
+0.07,Diabetes,Anxiety,0.035,0.095,1.001,0.016,3177.68,2657.99,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Anxiety,SAIL-age restricted
+1,Diabetes,Diabetes,1,1,NA,0,NA,NA,Pulmonary_Disease_Chronic_Obstructive,Diabetes : Diabetes,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Pain : Pain,SAIL-age restricted
+0.22,Pain,Cardiovascular,0.196,0.251,1.001,0.014,1907.06,2289.56,Rheumatoid_arthritis,Pain : Cardiovascular,SAIL-age restricted
+0.16,Pain,Acid-related disease,0.13,0.195,1.002,0.017,1951.17,2301.96,Rheumatoid_arthritis,Pain : Acid-related disease,SAIL-age restricted
+0.21,Pain,Asthma,0.18,0.244,1.001,0.016,1890.23,2145.48,Rheumatoid_arthritis,Pain : Asthma,SAIL-age restricted
+0.33,Pain,Anxiety,0.302,0.364,1.001,0.016,1698.41,1973.44,Rheumatoid_arthritis,Pain : Anxiety,SAIL-age restricted
+0.23,Pain,Osteoporosis,0.192,0.26,1.001,0.018,1721.86,2369.32,Rheumatoid_arthritis,Pain : Osteoporosis,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.04,Cardiovascular,Acid-related disease,0.011,0.074,1,0.016,2614.37,2399.96,Rheumatoid_arthritis,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.09,Cardiovascular,Asthma,0.061,0.122,1.001,0.016,2500.65,2190.45,Rheumatoid_arthritis,Cardiovascular : Asthma,SAIL-age restricted
+0.13,Cardiovascular,Anxiety,0.101,0.163,1,0.016,2295.78,2293.49,Rheumatoid_arthritis,Cardiovascular : Anxiety,SAIL-age restricted
+0.05,Osteoporosis,Cardiovascular,0.018,0.084,1,0.017,2483.16,2243.86,Rheumatoid_arthritis,Osteoporosis : Cardiovascular,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.16,Asthma,Acid-related disease,0.123,0.188,1.002,0.017,2007.32,2592.35,Rheumatoid_arthritis,Asthma : Acid-related disease,SAIL-age restricted
+0.13,Anxiety,Acid-related disease,0.094,0.164,1,0.018,1877.87,2055.76,Rheumatoid_arthritis,Anxiety : Acid-related disease,SAIL-age restricted
+0.18,Osteoporosis,Acid-related disease,0.143,0.214,1.002,0.018,1783.31,2307.41,Rheumatoid_arthritis,Osteoporosis : Acid-related disease,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Asthma : Asthma,SAIL-age restricted
+0.21,Asthma,Anxiety,0.178,0.245,1.001,0.017,1936.95,2212.68,Rheumatoid_arthritis,Asthma : Anxiety,SAIL-age restricted
+0.08,Osteoporosis,Asthma,0.047,0.12,1.001,0.018,2110.78,2313.33,Rheumatoid_arthritis,Osteoporosis : Asthma,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Anxiety : Anxiety,SAIL-age restricted
+0.06,Osteoporosis,Anxiety,0.026,0.099,1.001,0.019,2105.13,2402.2,Rheumatoid_arthritis,Osteoporosis : Anxiety,SAIL-age restricted
+1,Osteoporosis,Osteoporosis,1,1,NA,0,NA,NA,Rheumatoid_arthritis,Osteoporosis : Osteoporosis,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Asthma,Pain : Pain,SAIL-age restricted
+0.34,Pain,Cardiovascular,0.321,0.366,1.001,0.012,1547.02,1627.5,Asthma,Pain : Cardiovascular,SAIL-age restricted
+0.5,Pain,Arthritis,0.479,0.517,1,0.01,1675.05,2047.94,Asthma,Pain : Arthritis,SAIL-age restricted
+0.32,Pain,Anxiety,0.296,0.344,1.002,0.012,1732.86,2170.38,Asthma,Pain : Anxiety,SAIL-age restricted
+0.13,Pain,Acid-related disease,0.103,0.156,1,0.014,1683.18,2110.18,Asthma,Pain : Acid-related disease,SAIL-age restricted
+0.21,Pain,Inflammatory disorders,0.177,0.244,1,0.017,1909.88,1931.2,Asthma,Pain : Inflammatory disorders,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Asthma,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.58,Cardiovascular,Arthritis,0.564,0.603,1,0.009,2013.39,1929.34,Asthma,Cardiovascular : Arthritis,SAIL-age restricted
+0.16,Cardiovascular,Anxiety,0.135,0.187,1.003,0.013,1765.15,2162.43,Asthma,Cardiovascular : Anxiety,SAIL-age restricted
+-0.03,Cardiovascular,Acid-related disease,-0.053,0.004,1.002,0.014,1548.01,1820.63,Asthma,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.11,Inflammatory disorders,Cardiovascular,0.079,0.15,1.001,0.018,1618.5,2296.93,Asthma,Inflammatory disorders : Cardiovascular,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Asthma,Arthritis : Arthritis,SAIL-age restricted
+0.23,Arthritis,Anxiety,0.2,0.25,1.004,0.013,1687.77,2330.82,Asthma,Arthritis : Anxiety,SAIL-age restricted
+-0.3,Arthritis,Acid-related disease,-0.328,-0.275,1,0.014,1372.68,2103.13,Asthma,Arthritis : Acid-related disease,SAIL-age restricted
+0.17,Inflammatory disorders,Arthritis,0.133,0.2,1,0.017,1649.64,2413.18,Asthma,Inflammatory disorders : Arthritis,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Asthma,Anxiety : Anxiety,SAIL-age restricted
+0.2,Anxiety,Acid-related disease,0.167,0.223,1,0.014,1906.93,2345.86,Asthma,Anxiety : Acid-related disease,SAIL-age restricted
+0.2,Inflammatory disorders,Anxiety,0.162,0.232,1,0.018,1869.46,1736.74,Asthma,Inflammatory disorders : Anxiety,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Asthma,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.14,Inflammatory disorders,Acid-related disease,0.102,0.178,1,0.019,1246.12,1747.62,Asthma,Inflammatory disorders : Acid-related disease,SAIL-age restricted
+1,Inflammatory disorders,Inflammatory disorders,1,1,NA,0,NA,NA,Asthma,Inflammatory disorders : Inflammatory disorders,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Dementia_any,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.2,Pain,Cardiovascular,0.17,0.221,1,0.013,2954.62,2487.09,Dementia_any,Pain : Cardiovascular,SAIL-age restricted
+0.03,Cardiovascular,Anxiety,0.005,0.057,1.001,0.013,3011.29,2789.22,Dementia_any,Cardiovascular : Anxiety,SAIL-age restricted
+0.06,Cardiovascular,Acid-related disease,0.032,0.088,1,0.014,3488.59,2215.08,Dementia_any,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.38,Cardiovascular,Arthritis,0.349,0.404,1,0.014,2581.04,2601.38,Dementia_any,Cardiovascular : Arthritis,SAIL-age restricted
+0.1,Osteoporosis,Cardiovascular,0.071,0.136,1.001,0.017,3467.07,2525.35,Dementia_any,Osteoporosis : Cardiovascular,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Dementia_any,Pain : Pain,SAIL-age restricted
+0.26,Pain,Anxiety,0.238,0.288,1.001,0.013,3055.19,2548.36,Dementia_any,Pain : Anxiety,SAIL-age restricted
+0.22,Pain,Acid-related disease,0.188,0.243,1.002,0.014,3104.45,2231.21,Dementia_any,Pain : Acid-related disease,SAIL-age restricted
+0.46,Pain,Arthritis,0.429,0.482,1.002,0.014,2511.88,2730.15,Dementia_any,Pain : Arthritis,SAIL-age restricted
+0.24,Pain,Osteoporosis,0.21,0.274,1.002,0.016,3311.4,2640.23,Dementia_any,Pain : Osteoporosis,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Dementia_any,Anxiety : Anxiety,SAIL-age restricted
+0.17,Anxiety,Acid-related disease,0.147,0.201,1,0.014,3167.22,2470.42,Dementia_any,Anxiety : Acid-related disease,SAIL-age restricted
+0.05,Arthritis,Anxiety,0.02,0.08,1,0.016,3467.55,2673.97,Dementia_any,Arthritis : Anxiety,SAIL-age restricted
+0.07,Osteoporosis,Anxiety,0.034,0.101,1.001,0.017,3775.54,2470.78,Dementia_any,Osteoporosis : Anxiety,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Dementia_any,Acid-related disease : Acid-related disease,SAIL-age restricted
+-0.11,Arthritis,Acid-related disease,-0.138,-0.075,1,0.016,3223.32,2598.35,Dementia_any,Arthritis : Acid-related disease,SAIL-age restricted
+0.14,Osteoporosis,Acid-related disease,0.108,0.175,1,0.017,3506.05,2376.11,Dementia_any,Osteoporosis : Acid-related disease,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Dementia_any,Arthritis : Arthritis,SAIL-age restricted
+0.17,Osteoporosis,Arthritis,0.138,0.211,1.001,0.019,2455,2184.62,Dementia_any,Osteoporosis : Arthritis,SAIL-age restricted
+1,Osteoporosis,Osteoporosis,1,1,NA,0,NA,NA,Dementia_any,Osteoporosis : Osteoporosis,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Psoriasis,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.41,Pain,Cardiovascular,0.393,0.436,1,0.011,1358.78,1709.86,Psoriasis,Pain : Cardiovascular,SAIL-age restricted
+0.58,Cardiovascular,Arthritis,0.557,0.595,1.003,0.01,1361.49,1873.87,Psoriasis,Cardiovascular : Arthritis,SAIL-age restricted
+0.22,Cardiovascular,Anxiety,0.191,0.242,1.004,0.013,1421.28,1776.88,Psoriasis,Cardiovascular : Anxiety,SAIL-age restricted
+0.12,Cardiovascular,Asthma,0.087,0.145,1,0.015,1857.1,2041.99,Psoriasis,Cardiovascular : Asthma,SAIL-age restricted
+0.02,Cardiovascular,Acid-related disease,-0.005,0.055,1.003,0.015,1440.11,1921.1,Psoriasis,Cardiovascular : Acid-related disease,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Psoriasis,Pain : Pain,SAIL-age restricted
+0.58,Pain,Arthritis,0.566,0.601,1,0.009,1714.76,2196.56,Psoriasis,Pain : Arthritis,SAIL-age restricted
+0.37,Pain,Anxiety,0.351,0.397,1.001,0.012,1790.9,2384.32,Psoriasis,Pain : Anxiety,SAIL-age restricted
+0.26,Pain,Asthma,0.237,0.29,1.002,0.013,2330.9,2065.53,Psoriasis,Pain : Asthma,SAIL-age restricted
+0.16,Pain,Acid-related disease,0.133,0.191,1,0.014,1664.63,2344.55,Psoriasis,Pain : Acid-related disease,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Psoriasis,Arthritis : Arthritis,SAIL-age restricted
+0.21,Arthritis,Anxiety,0.183,0.232,1.001,0.013,1438.62,2089.12,Psoriasis,Arthritis : Anxiety,SAIL-age restricted
+0.1,Asthma,Arthritis,0.076,0.132,1.003,0.014,1596.01,2163.66,Psoriasis,Asthma : Arthritis,SAIL-age restricted
+-0.29,Arthritis,Acid-related disease,-0.324,-0.266,1,0.015,1292.26,1786.37,Psoriasis,Arthritis : Acid-related disease,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Psoriasis,Anxiety : Anxiety,SAIL-age restricted
+0.23,Asthma,Anxiety,0.201,0.259,1,0.015,1688.83,1802.3,Psoriasis,Asthma : Anxiety,SAIL-age restricted
+0.22,Anxiety,Acid-related disease,0.188,0.245,1,0.015,2047.2,2356.53,Psoriasis,Anxiety : Acid-related disease,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Psoriasis,Asthma : Asthma,SAIL-age restricted
+0.21,Asthma,Acid-related disease,0.183,0.245,1.001,0.016,1570.9,2139.36,Psoriasis,Asthma : Acid-related disease,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Psoriasis,Acid-related disease : Acid-related disease,SAIL-age restricted
+1,Pain,Pain,1,1,NA,0,NA,NA,Restless_legs_syndrome,Pain : Pain,SAIL-age restricted
+0.35,Pain,Cardiovascular,0.316,0.375,1.002,0.015,1751.63,1973.36,Restless_legs_syndrome,Pain : Cardiovascular,SAIL-age restricted
+0.46,Pain,Arthritis,0.438,0.492,1.002,0.014,1498.49,1873.64,Restless_legs_syndrome,Pain : Arthritis,SAIL-age restricted
+0.36,Pain,Anxiety,0.328,0.387,1.001,0.015,1657.24,2165.92,Restless_legs_syndrome,Pain : Anxiety,SAIL-age restricted
+0.12,Pain,Acid-related disease,0.083,0.151,1,0.017,1581.89,1914.45,Restless_legs_syndrome,Pain : Acid-related disease,SAIL-age restricted
+0.27,Pain,Asthma,0.233,0.3,1.001,0.017,2047.9,2253.09,Restless_legs_syndrome,Pain : Asthma,SAIL-age restricted
+1,Cardiovascular,Cardiovascular,1,1,NA,0,NA,NA,Restless_legs_syndrome,Cardiovascular : Cardiovascular,SAIL-age restricted
+0.44,Cardiovascular,Arthritis,0.41,0.464,1,0.014,1868.95,2429.29,Restless_legs_syndrome,Cardiovascular : Arthritis,SAIL-age restricted
+0.13,Cardiovascular,Anxiety,0.095,0.16,1.001,0.016,2277.63,2299.61,Restless_legs_syndrome,Cardiovascular : Anxiety,SAIL-age restricted
+0.01,Cardiovascular,Acid-related disease,-0.027,0.043,0.999,0.018,1910.52,2278.78,Restless_legs_syndrome,Cardiovascular : Acid-related disease,SAIL-age restricted
+0.1,Cardiovascular,Asthma,0.06,0.131,1,0.018,2259.11,2469.63,Restless_legs_syndrome,Cardiovascular : Asthma,SAIL-age restricted
+1,Arthritis,Arthritis,1,1,NA,0,NA,NA,Restless_legs_syndrome,Arthritis : Arthritis,SAIL-age restricted
+0.16,Arthritis,Anxiety,0.125,0.189,1.002,0.016,1642.84,1493.65,Restless_legs_syndrome,Arthritis : Anxiety,SAIL-age restricted
+-0.38,Arthritis,Acid-related disease,-0.408,-0.344,1.003,0.016,1741.74,2020.45,Restless_legs_syndrome,Arthritis : Acid-related disease,SAIL-age restricted
+0.07,Asthma,Arthritis,0.041,0.107,1,0.017,2213.19,2239.83,Restless_legs_syndrome,Asthma : Arthritis,SAIL-age restricted
+1,Anxiety,Anxiety,1,1,NA,0,NA,NA,Restless_legs_syndrome,Anxiety : Anxiety,SAIL-age restricted
+0.17,Anxiety,Acid-related disease,0.138,0.205,1,0.017,2404.87,2404.05,Restless_legs_syndrome,Anxiety : Acid-related disease,SAIL-age restricted
+0.24,Asthma,Anxiety,0.207,0.274,1,0.017,2456.54,2061.99,Restless_legs_syndrome,Asthma : Anxiety,SAIL-age restricted
+1,Acid-related disease,Acid-related disease,1,1,NA,0,NA,NA,Restless_legs_syndrome,Acid-related disease : Acid-related disease,SAIL-age restricted
+0.17,Asthma,Acid-related disease,0.13,0.201,1,0.018,1849.63,2198.74,Restless_legs_syndrome,Asthma : Acid-related disease,SAIL-age restricted
+1,Asthma,Asthma,1,1,NA,0,NA,NA,Restless_legs_syndrome,Asthma : Asthma,SAIL-age restricted
