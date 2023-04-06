@@ -1,0 +1,23 @@
+name,lbl,name_lbl
+antacids,Acid related disorders,Acid related disorders (antacids)
+anxiety,"Mood, neurotic and sleep disorders","Mood, neurotic and sleep disorders (anxiety)"
+arthritis,Arthritis and arthralgia,Arthritis and arthralgia (arthritis)
+prostate,Benign prostatic hypertrophy,Benign prostatic hypertrophy (prostate)
+CV,Cardiovascular diseases,Cardiovascular diseases (CV)
+dementia,Dementia,Dementia (dementia)
+diabetes,Diabetes mellitus,Diabetes mellitus (diabetes)
+erectile,Erectile dysfunction,Erectile dysfunction (erectile)
+epilepsy,Epilepsy,Epilepsy (epilepsy)
+glaucoma,Glaucoma,Glaucoma (glaucoma)
+gout,Gout,Gout (gout)
+inflammatory,"Inflammatory arthropathies, inflammatory bowel disease, systemic lupus erythematosus and connective tissue diseases","Inflammatory arthropathies, inflammatory bowel disease, systemic lupus erythematosus and connective tissue diseases (inflammatory)"
+migraine,Migraine,Migraine (migraine)
+osteoporosis,Osteoporosis (or risk factors for osteoporosis),Osteoporosis (or risk factors for osteoporosis) (osteoporosis)
+pain,Pain,Pain (pain)
+parkinsons,Parkinson’s disease and Parkinsonism,Parkinson’s disease and Parkinsonism (parkinsons)
+asthma_COPD,Chronic lower respiratory disease,Chronic lower respiratory disease (asthma_COPD)
+schizophrenia,Schizophrenia and delusional disorders,Schizophrenia and delusional disorders (schizophrenia)
+thromboembolic,"Thromboembolic disease, atrial fibrillation or valvular heart disease","Thromboembolic disease, atrial fibrillation or valvular heart disease (thromboembolic)"
+thyroid,Thyroid disorders,Thyroid disorders (thyroid)
+urological,Urinary frequency and incontinence,Urinary frequency and incontinence (urological)
+skin,Skin diseases,Skin diseases (skin)

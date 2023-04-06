@@ -1,0 +1,46 @@
+Condition	ATC codes	ATC label	Exceptions/more specific definitions/notes
+Acid related disorders	A02A	ANTACIDS	
+	A02B	DRUGS FOR ACID RELATED DISORDERS	"Exclude where also taking M01A ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS, NON-STEROIDS, or B01 (antithrombotic) drugs"
+Diabetes mellitus	A10	DRUGS USED IN DIABETES	"Note this includes insulins and analogues, other blood glucose lowering drugs etc. It does not include cardiovascular prevention drugs We do not exclude metformin, although this is used to treat Polycystic ovary syndrome (PCOS)."
+"Thromboembolic disease, atrial fibrillation or valvular heart disease"	B01AA	Vitamin K antagonists	Do not include if only 4-level codes are available.
+	B01AE	Direct thrombin inhibitors	Do not include if only 4-level codes are available.
+	B01AF	Direct factor Xa inhibitors	Do not include if only 4-level codes are available.
+Cardiovascular diseases	C01	CARDIAC THERAPY DRUGS	
+	C04	PERIPHERAL VASODILATORS	
+	C02	ANTIHYPERTENSIVES	
+	C07	beta-Adrenergic Blocking Agents	"Except “propranolol” or other “C07AA Beta blocking agents, non-selective” non-selective beta-blockers where participant is also taking an N02C drug. Do not apply exclusion if these have only 4 or 5 characters (respectively)."
+	C08	CALCIUM CHANNEL BLOCKERS	
+	C09	AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM	
+Urinary frequency and incontinence	G04BD	Drugs for urinary frequency and incontinence	"If only-4-character code define as urinary frequency and incontinence or ED. If only 3-character code, define as urological and/or ED and/or BPH."
+Erectile dysfunction	G04BE	Drugs used in erectile dysfunction	"If only-4-character code define as urinary frequency and incontinence or ED. If only 3-character code, define as urological and/or ED and/or BPH."
+Benign prostatic hypertrophy	G04C	DRUGS USED IN BENIGN PROSTATIC HYPERTROPHY	"If only 3-character code, define as urological and/or ED and/or BPH."
+Glaucoma	S01E	ANTIGLAUCOMA PREPARATIONS AND MIOTICS	If only 3-character code define as eye disease.
+Arthritis and arthralgia	M01A	"ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS, NON-STEROIDS"	"If only 3-character code define as arthritis and arthralgia, but accept some misclassification possible as indications for penicillamine include “conditions associated with impaired copper metabolism” eg Wilson’s disease and gold is used to treat dermatological conditions."
+	M01B	ANTIINFLAMMATORY/ANTIRHEUMATIC AGENTS IN COMBINATION	
+	M02	TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN	
+Osteoporosis (or risk factors for osteoporosis)	M05	DRUGS FOR TREATMENT OF BONE DISEASES	
+Gout	M04	ANTIGOUT PREPARATIONS	"Although allopurinol is being used for other indications, this is unlikely to be widespread."
+"Inflammatory arthropathies, inflammatory bowel disease, systemic lupus erythematosus and connective tissue diseases"	A07EA	Corticosteroids acting locally	"Where only 3-character codes are provided, define as any A07"
+	A07EC	Aminosalicylic acid and similar agents	"Where only 3- character codes are provided, define as any A07"
+	L04AB	Tumour necrosis factor alpha (TNF-) inhibitors	"Where only 3- character codes are provided, define as any L04"
+	L04AA	Selective immunosuppressants	"Where only 3- character codes are provided, define as any L04"
+	L04AX	"Other immunosuppressants (includes methotrexate,azathioprine, and lefluonomide)"	"Where only 3- character codes are provided, define as any L04"
+	M01CB	Gold preparations	"Do not define if only 3-character code is available. If only 4-character code available define, since only other agent is an obscure drug oxycinchophen"
+	M01CC	Penicillamine and similar agents	"Do not define if only 3-character code is available. If only 4-character code available define, since only other agent is an obscure drug oxycinchophen"
+	D05	ANTIPSORIATICS	
+Migraine	N02C	ANTIMIGRAINE PREPARATIONS	Do not define if only 3-character code is available
+Pain	N02A	OPIOIDS	If only 3-character code available define as pain
+	N02B	OTHER ANALGESICS AND ANTIPYRETICS	
+Schizophrenia and delusional disorders	N05A	ANTIPSYCHOTICS	Prochlorperazine is included in this class. If individual drug data available exclude if prochlorperazine. If 5-character code available exclude “N05AB Phenothiazines with piperazine structure”. If only 4-character code is available do not define.
+"Mood, neurotic and sleep disorders"	N05B	ANXIOLYTICS	If only 3-character code available do not define.
+	N05C	HYPNOTICS AND SEDATIVES	If only 3-character code available do not define
+	N06A	ANTIDEPRESSANTS	Except amitriptyline. If drug term not available
+Epilepsy	N03	ANTIEPILEPTICS	"Except where drug is pregabalin, gabapentin or valproic acid. If specific drug is not given, and if indication for drug is not stated proceed as follows. If only a 5-character code is provided exclude N03AX (which includes gabapentin and pregabalin) and N03AG (includes valproic acid). This will reduce sensitivity, but improve specificity. If only a 4-character code is provided do not attempt to define."
+Parkinson’s disease and Parkinsonism	N04	ANTI-PARKINSON DRUGS	
+Dementia	N06D	ANTI-DEMENTIA DRUGS	Do not define if only 3-character code is available
+Chronic lower respiratory disease	R03	DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES	
+Thyroid disorders	H03	THYROID THERAPY DRUGS	
+Skin diseases	D02A	EMOLLIENTS AND PROTECTIVES	
+	D04	"ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."	
+	D06	ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE	
+	D07	"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS"	
