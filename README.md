@@ -1,5 +1,5 @@
 # comorbidity_correlation_public
-Code, aggregate level data and outputs for comorbidity correlation. Will be populated following sponsor review process.
+Code, aggregate level data and outputs for comorbidity correlation.
 
 If you have any issues with the code or dependent files please raise an issue and 
 we will do our best to rectify the problem as soon as we can. 
@@ -33,8 +33,8 @@ The community analysis was split into 2 parts:
 - 11  models ran (11 index conditions, 1 per index condition) on an external virtual machine (vm)
 - 5 models ran in SAIL ( 5 index conditions) 
 
-The 11 models ran on the vm are the model scripts 02-12 and 15-25, the models ran on 
-SAIL have not been provided. We used exactly the same code, we have however provided
+The 11 models ran on the vm are the model scripts 02-12 and 15-25. 
+The models ran on SAIL have not been provided. We have however provided
 code to simulate the MCMC draws from the models that were ran on SAIL see scripts 33 and 34.
 
 
@@ -59,10 +59,10 @@ folder. The final cleaned model outputs are also provided:
 
 Please note: The senior authorship of the publication that this repository accompanies was randomly assigned using the following code:
 
-# Code to randomly assign senior authorship
+Code to randomly assign senior authorship
 
 senior_auths <- c('Fergus','David')
 set.seed(18591208)
 senior_auths[rbinom(1, 1, 0.5)+1]
 
-# Result = David (28/02/2023)
+Result = David (28/02/2023)
