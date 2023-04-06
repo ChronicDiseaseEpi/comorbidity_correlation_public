@@ -1,0 +1,241 @@
+condition,Omega,mean,sd,CI2.5,CI97.5,repo,comorbidity,Var1,Var2
+Asthma,Omega.1.2,0.19,0.06,0.07,0.29,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Asthma,Omega.1.3,0.68,0.04,0.61,0.75,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Asthma,Omega.1.4,0.28,0.07,0.15,0.41,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Asthma,Omega.1.5,-0.06,0.08,-0.21,0.08,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Asthma,Omega.1.6,0.19,0.08,0.04,0.34,Trial meta weighted,Inflammatory disorders : Pain,Inflammatory disorders,Pain
+Asthma,Omega.2.3,0.12,0.06,0,0.23,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Asthma,Omega.2.4,0.09,0.08,-0.06,0.24,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Asthma,Omega.2.5,0.09,0.07,-0.05,0.22,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Asthma,Omega.2.6,-0.07,0.11,-0.28,0.14,Trial meta weighted,Cardiovascular : Inflammatory disorders,Cardiovascular,Inflammatory disorders
+Asthma,Omega.3.4,0.19,0.07,0.05,0.33,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Asthma,Omega.3.5,-0.43,0.08,-0.59,-0.27,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Asthma,Omega.3.6,0.23,0.08,0.07,0.38,Trial meta weighted,Arthritis : Inflammatory disorders,Arthritis,Inflammatory disorders
+Asthma,Omega.4.5,0.18,0.08,0.01,0.33,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Asthma,Omega.4.6,-0.04,0.12,-0.26,0.2,Trial meta weighted,Anxiety : Inflammatory disorders,Anxiety,Inflammatory disorders
+Asthma,Omega.5.6,-0.03,0.12,-0.25,0.22,Trial meta weighted,Acid-related disease : Inflammatory disorders,Acid-related disease,Inflammatory disorders
+Axial_Spondyloarthritis,Omega.1.2,0.15,0.11,-0.07,0.36,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Axial_Spondyloarthritis,Omega.1.3,0.25,0.1,0.04,0.44,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Axial_Spondyloarthritis,Omega.1.4,0.27,0.13,0.01,0.51,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Axial_Spondyloarthritis,Omega.1.5,0.34,0.14,0.06,0.61,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Axial_Spondyloarthritis,Omega.1.6,0.16,0.16,-0.15,0.47,Trial meta weighted,Diabetes : Pain,Diabetes,Pain
+Axial_Spondyloarthritis,Omega.2.3,0.07,0.13,-0.18,0.33,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Axial_Spondyloarthritis,Omega.2.4,-0.34,0.18,-0.65,0.02,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Axial_Spondyloarthritis,Omega.2.5,0.16,0.16,-0.16,0.47,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Axial_Spondyloarthritis,Omega.2.6,0.52,0.15,0.19,0.79,Trial meta weighted,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Axial_Spondyloarthritis,Omega.3.4,0.09,0.16,-0.22,0.39,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Axial_Spondyloarthritis,Omega.3.5,-0.1,0.19,-0.48,0.28,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Axial_Spondyloarthritis,Omega.3.6,0.25,0.17,-0.08,0.55,Trial meta weighted,Anxiety : Diabetes,Anxiety,Diabetes
+Axial_Spondyloarthritis,Omega.4.5,-0.23,0.25,-0.69,0.25,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Axial_Spondyloarthritis,Omega.4.6,-0.04,0.23,-0.49,0.4,Trial meta weighted,Asthma : Diabetes,Asthma,Diabetes
+Axial_Spondyloarthritis,Omega.5.6,0.28,0.2,-0.13,0.62,Trial meta weighted,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Benign_Prostatic_Hyperplasia,Omega.1.2,0.13,0.05,0.02,0.22,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Benign_Prostatic_Hyperplasia,Omega.1.3,0.23,0.04,0.16,0.31,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega.1.4,0.09,0.05,-0.02,0.2,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega.1.5,0.03,0.05,-0.07,0.14,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega.1.6,0.15,0.06,0.04,0.26,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Benign_Prostatic_Hyperplasia,Omega.2.3,0.34,0.05,0.24,0.44,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Benign_Prostatic_Hyperplasia,Omega.2.4,0.1,0.07,-0.04,0.24,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Benign_Prostatic_Hyperplasia,Omega.2.5,0.26,0.07,0.12,0.38,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Benign_Prostatic_Hyperplasia,Omega.2.6,0.15,0.08,-0.01,0.3,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Benign_Prostatic_Hyperplasia,Omega.3.4,-0.4,0.07,-0.54,-0.26,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Benign_Prostatic_Hyperplasia,Omega.3.5,0.12,0.06,0,0.25,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Benign_Prostatic_Hyperplasia,Omega.3.6,0.23,0.06,0.12,0.35,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Benign_Prostatic_Hyperplasia,Omega.4.5,0.11,0.07,-0.03,0.24,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Benign_Prostatic_Hyperplasia,Omega.4.6,0.25,0.07,0.12,0.39,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Benign_Prostatic_Hyperplasia,Omega.5.6,0.1,0.09,-0.06,0.26,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Dementia_any,Omega.1.2,0.04,0.14,-0.23,0.3,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Dementia_any,Omega.1.3,0.08,0.13,-0.18,0.34,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Dementia_any,Omega.1.4,0.05,0.14,-0.22,0.32,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Dementia_any,Omega.1.5,0.19,0.14,-0.07,0.46,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Dementia_any,Omega.1.6,-0.02,0.14,-0.29,0.25,Trial meta weighted,Osteoporosis : Pain,Osteoporosis,Pain
+Dementia_any,Omega.2.3,0.04,0.14,-0.22,0.31,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Dementia_any,Omega.2.4,0.04,0.14,-0.22,0.31,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Dementia_any,Omega.2.5,0.01,0.14,-0.26,0.27,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Dementia_any,Omega.2.6,0,0.14,-0.26,0.26,Trial meta weighted,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Dementia_any,Omega.3.4,0.04,0.14,-0.22,0.31,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Dementia_any,Omega.3.5,0.05,0.14,-0.22,0.32,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Dementia_any,Omega.3.6,-0,0.14,-0.27,0.26,Trial meta weighted,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Dementia_any,Omega.4.5,-0.22,0.14,-0.49,0.05,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Dementia_any,Omega.4.6,0.25,0.11,0.04,0.45,Trial meta weighted,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Dementia_any,Omega.5.6,0.02,0.14,-0.25,0.29,Trial meta weighted,Arthritis : Osteoporosis,Arthritis,Osteoporosis
+Diabetes_Mellitus_Type_2,Omega.1.2,0.14,0.02,0.1,0.18,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Diabetes_Mellitus_Type_2,Omega.1.3,0.18,0.02,0.14,0.21,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega.1.4,0.12,0.02,0.08,0.17,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega.1.5,0.16,0.02,0.12,0.21,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega.1.6,0.2,0.03,0.15,0.26,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Diabetes_Mellitus_Type_2,Omega.2.3,0.46,0.02,0.42,0.5,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Diabetes_Mellitus_Type_2,Omega.2.4,0.09,0.03,0.04,0.13,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Diabetes_Mellitus_Type_2,Omega.2.5,0.24,0.03,0.18,0.29,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Diabetes_Mellitus_Type_2,Omega.2.6,0.18,0.03,0.12,0.24,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Diabetes_Mellitus_Type_2,Omega.3.4,-0.45,0.03,-0.51,-0.38,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Diabetes_Mellitus_Type_2,Omega.3.5,0.17,0.03,0.12,0.22,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Diabetes_Mellitus_Type_2,Omega.3.6,0.12,0.03,0.06,0.18,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Diabetes_Mellitus_Type_2,Omega.4.5,0.24,0.03,0.19,0.3,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Diabetes_Mellitus_Type_2,Omega.4.6,0.15,0.03,0.09,0.21,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Diabetes_Mellitus_Type_2,Omega.5.6,0.24,0.03,0.17,0.3,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,Omega.1.2,0.3,0.04,0.22,0.37,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Hypertension,Omega.1.3,0.16,0.04,0.08,0.25,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Hypertension,Omega.1.4,0.2,0.04,0.13,0.27,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Hypertension,Omega.1.5,0.11,0.05,0.01,0.2,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Hypertension,Omega.1.6,0.01,0.05,-0.08,0.11,Trial meta weighted,Diabetes : Pain,Diabetes,Pain
+Hypertension,Omega.2.3,-0.49,0.05,-0.59,-0.39,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Hypertension,Omega.2.4,0.15,0.04,0.08,0.22,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Hypertension,Omega.2.5,0.05,0.05,-0.04,0.14,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Hypertension,Omega.2.6,-0,0.05,-0.09,0.08,Trial meta weighted,Arthritis : Diabetes,Arthritis,Diabetes
+Hypertension,Omega.3.4,0.17,0.04,0.09,0.25,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Hypertension,Omega.3.5,0.15,0.05,0.05,0.25,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Hypertension,Omega.3.6,-0.06,0.06,-0.17,0.05,Trial meta weighted,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Hypertension,Omega.4.5,0.13,0.05,0.03,0.23,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Hypertension,Omega.4.6,0.02,0.05,-0.08,0.12,Trial meta weighted,Anxiety : Diabetes,Anxiety,Diabetes
+Hypertension,Omega.5.6,0.01,0.06,-0.12,0.13,Trial meta weighted,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,Omega.1.2,0.06,0.05,-0.03,0.15,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoarthritis,Omega.1.3,0.11,0.05,0.03,0.2,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoarthritis,Omega.1.4,-0,0.06,-0.12,0.12,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoarthritis,Omega.1.5,0.06,0.05,-0.03,0.16,Trial meta weighted,Cardiovascular : Thyroid disorders,Cardiovascular,Thyroid disorders
+Osteoarthritis,Omega.1.6,0.29,0.06,0.18,0.4,Trial meta weighted,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Osteoarthritis,Omega.2.3,0.1,0.05,0,0.19,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoarthritis,Omega.2.4,0.12,0.06,-0.01,0.23,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoarthritis,Omega.2.5,0.48,0.04,0.4,0.55,Trial meta weighted,Acid-related disease : Thyroid disorders,Acid-related disease,Thyroid disorders
+Osteoarthritis,Omega.2.6,-0.09,0.06,-0.22,0.03,Trial meta weighted,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Osteoarthritis,Omega.3.4,0.13,0.06,0.01,0.25,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Osteoarthritis,Omega.3.5,0.17,0.05,0.07,0.27,Trial meta weighted,Anxiety : Thyroid disorders,Anxiety,Thyroid disorders
+Osteoarthritis,Omega.3.6,-0.11,0.07,-0.24,0.03,Trial meta weighted,Anxiety : Diabetes,Anxiety,Diabetes
+Osteoarthritis,Omega.4.5,-0.03,0.07,-0.16,0.09,Trial meta weighted,Asthma : Thyroid disorders,Asthma,Thyroid disorders
+Osteoarthritis,Omega.4.6,-0.05,0.09,-0.23,0.13,Trial meta weighted,Asthma : Diabetes,Asthma,Diabetes
+Osteoarthritis,Omega.5.6,-0.05,0.07,-0.19,0.08,Trial meta weighted,Diabetes : Thyroid disorders,Diabetes,Thyroid disorders
+Osteoporosis,Omega.1.2,0.1,0.04,0.02,0.17,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Osteoporosis,Omega.1.3,0.23,0.04,0.16,0.3,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Osteoporosis,Omega.1.4,-0.25,0.04,-0.32,-0.18,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Osteoporosis,Omega.1.5,0.34,0.04,0.26,0.41,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Osteoporosis,Omega.1.6,0.23,0.05,0.14,0.32,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Osteoporosis,Omega.2.3,0.34,0.04,0.27,0.41,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Osteoporosis,Omega.2.4,-0.36,0.03,-0.42,-0.28,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Osteoporosis,Omega.2.5,0.13,0.04,0.05,0.2,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Osteoporosis,Omega.2.6,0.14,0.05,0.04,0.23,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Osteoporosis,Omega.3.4,-0.99,0,-0.99,-0.98,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Osteoporosis,Omega.3.5,0.15,0.04,0.06,0.23,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Osteoporosis,Omega.3.6,0.07,0.05,-0.03,0.16,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Osteoporosis,Omega.4.5,-0.09,0.04,-0.18,-0.01,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Osteoporosis,Omega.4.6,-0.02,0.05,-0.12,0.07,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Osteoporosis,Omega.5.6,0.14,0.05,0.04,0.25,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,Omega.1.2,0.07,0.06,-0.05,0.2,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Parkinson_Disease,Omega.1.3,0.08,0.04,-0.01,0.16,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Parkinson_Disease,Omega.1.4,0.13,0.05,0.03,0.24,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Parkinson_Disease,Omega.1.5,0.25,0.05,0.14,0.35,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Parkinson_Disease,Omega.1.6,0.24,0.09,0.07,0.4,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Parkinson_Disease,Omega.2.3,0.19,0.07,0.05,0.31,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Parkinson_Disease,Omega.2.4,0.2,0.07,0.06,0.34,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Parkinson_Disease,Omega.2.5,0.43,0.06,0.31,0.54,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Parkinson_Disease,Omega.2.6,0.05,0.13,-0.19,0.32,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Parkinson_Disease,Omega.3.4,0.27,0.05,0.16,0.37,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Parkinson_Disease,Omega.3.5,0.09,0.06,-0.02,0.2,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Parkinson_Disease,Omega.3.6,0.14,0.09,-0.03,0.32,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Parkinson_Disease,Omega.4.5,-0.29,0.08,-0.44,-0.13,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Parkinson_Disease,Omega.4.6,0.1,0.11,-0.12,0.29,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Parkinson_Disease,Omega.5.6,0.03,0.12,-0.2,0.27,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,Omega.1.2,-0.11,0.07,-0.24,0.03,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriasis,Omega.1.3,0.49,0.05,0.39,0.59,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Psoriasis,Omega.1.4,-0,0.07,-0.14,0.13,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriasis,Omega.1.5,-0.11,0.11,-0.31,0.1,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriasis,Omega.1.6,-0.02,0.09,-0.2,0.16,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriasis,Omega.2.3,0.17,0.07,0.04,0.31,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Psoriasis,Omega.2.4,-0,0.08,-0.15,0.15,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Psoriasis,Omega.2.5,-0.16,0.12,-0.39,0.08,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Psoriasis,Omega.2.6,0.05,0.1,-0.15,0.25,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriasis,Omega.3.4,-0.1,0.08,-0.24,0.05,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Psoriasis,Omega.3.5,-0.03,0.11,-0.24,0.18,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Psoriasis,Omega.3.6,-0.43,0.12,-0.65,-0.2,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Psoriasis,Omega.4.5,-0.17,0.13,-0.42,0.08,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Psoriasis,Omega.4.6,0.01,0.1,-0.2,0.21,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriasis,Omega.5.6,-0.21,0.17,-0.52,0.14,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,Omega.1.2,0.12,0.07,-0.02,0.25,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Psoriatic_arthritis,Omega.1.3,0.27,0.08,0.1,0.42,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Psoriatic_arthritis,Omega.1.4,0.36,0.1,0.16,0.54,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Psoriatic_arthritis,Omega.1.5,0.16,0.09,-0.03,0.34,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Psoriatic_arthritis,Omega.1.6,-0.01,0.11,-0.22,0.19,Trial meta weighted,Diabetes : Pain,Diabetes,Pain
+Psoriatic_arthritis,Omega.2.3,0.19,0.09,0.01,0.36,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Psoriatic_arthritis,Omega.2.4,0.17,0.11,-0.04,0.38,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Psoriatic_arthritis,Omega.2.5,-0.1,0.12,-0.33,0.13,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Psoriatic_arthritis,Omega.2.6,0.32,0.09,0.14,0.49,Trial meta weighted,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Psoriatic_arthritis,Omega.3.4,0.24,0.12,0.01,0.48,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Psoriatic_arthritis,Omega.3.5,0.1,0.13,-0.15,0.35,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Psoriatic_arthritis,Omega.3.6,0,0.14,-0.25,0.27,Trial meta weighted,Anxiety : Diabetes,Anxiety,Diabetes
+Psoriatic_arthritis,Omega.4.5,0.15,0.14,-0.12,0.41,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Psoriatic_arthritis,Omega.4.6,0.03,0.14,-0.25,0.31,Trial meta weighted,Asthma : Diabetes,Asthma,Diabetes
+Psoriatic_arthritis,Omega.5.6,0.18,0.12,-0.07,0.41,Trial meta weighted,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega.1.2,0.1,0.03,0.04,0.16,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega.1.3,0.18,0.03,0.12,0.24,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega.1.4,0.02,0.03,-0.04,0.08,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega.1.5,0.18,0.03,0.12,0.23,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Disease_Chronic_Obstructive,Omega.1.6,0.41,0.03,0.35,0.47,Trial meta weighted,Cardiovascular : Diabetes,Cardiovascular,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega.2.3,0.14,0.04,0.07,0.21,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega.2.4,0.39,0.03,0.33,0.45,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega.2.5,0.37,0.03,0.31,0.43,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega.2.6,-0.07,0.04,-0.14,0.01,Trial meta weighted,Diabetes : Pain,Diabetes,Pain
+Pulmonary_Disease_Chronic_Obstructive,Omega.3.4,-0.59,0.05,-0.68,-0.49,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,Omega.3.5,0.24,0.03,0.17,0.3,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Pulmonary_Disease_Chronic_Obstructive,Omega.3.6,0.09,0.04,0.02,0.17,Trial meta weighted,Acid-related disease : Diabetes,Acid-related disease,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega.4.5,0.19,0.04,0.12,0.25,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Disease_Chronic_Obstructive,Omega.4.6,-0.06,0.04,-0.14,0.03,Trial meta weighted,Arthritis : Diabetes,Arthritis,Diabetes
+Pulmonary_Disease_Chronic_Obstructive,Omega.5.6,0.02,0.04,-0.06,0.1,Trial meta weighted,Anxiety : Diabetes,Anxiety,Diabetes
+Pulmonary_Hypertension,Omega.1.2,0.25,0.08,0.08,0.4,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Pulmonary_Hypertension,Omega.1.3,0.23,0.09,0.06,0.39,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Pulmonary_Hypertension,Omega.1.4,0.36,0.1,0.15,0.54,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Pulmonary_Hypertension,Omega.1.5,0.2,0.08,0.03,0.35,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Pulmonary_Hypertension,Omega.1.6,0.08,0.08,-0.09,0.24,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Pulmonary_Hypertension,Omega.2.3,0.31,0.08,0.14,0.47,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Pulmonary_Hypertension,Omega.2.4,0.26,0.1,0.06,0.45,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Pulmonary_Hypertension,Omega.2.5,0.41,0.08,0.25,0.55,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Pulmonary_Hypertension,Omega.2.6,0.16,0.08,0,0.33,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Pulmonary_Hypertension,Omega.3.4,0.2,0.11,-0.01,0.41,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Pulmonary_Hypertension,Omega.3.5,0.24,0.08,0.08,0.4,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Pulmonary_Hypertension,Omega.3.6,0.21,0.08,0.03,0.37,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Pulmonary_Hypertension,Omega.4.5,0.16,0.1,-0.06,0.36,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Pulmonary_Hypertension,Omega.4.6,-0.65,0.11,-0.83,-0.41,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Pulmonary_Hypertension,Omega.5.6,0.24,0.08,0.08,0.39,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,Omega.1.2,0.04,0.05,-0.04,0.13,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Restless_legs_syndrome,Omega.1.3,0.3,0.04,0.21,0.38,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Restless_legs_syndrome,Omega.1.4,0.16,0.05,0.06,0.26,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Restless_legs_syndrome,Omega.1.5,0.18,0.05,0.08,0.29,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Restless_legs_syndrome,Omega.1.6,0.14,0.06,0.03,0.25,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Restless_legs_syndrome,Omega.2.3,0.14,0.04,0.06,0.22,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Restless_legs_syndrome,Omega.2.4,0.07,0.05,-0.03,0.16,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Restless_legs_syndrome,Omega.2.5,0.15,0.05,0.05,0.25,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Restless_legs_syndrome,Omega.2.6,0.07,0.06,-0.04,0.17,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Restless_legs_syndrome,Omega.3.4,0.11,0.05,0.02,0.21,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Restless_legs_syndrome,Omega.3.5,-0.5,0.06,-0.6,-0.38,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Restless_legs_syndrome,Omega.3.6,0.06,0.06,-0.05,0.17,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Restless_legs_syndrome,Omega.4.5,0.07,0.06,-0.04,0.18,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Restless_legs_syndrome,Omega.4.6,0.19,0.06,0.08,0.31,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Restless_legs_syndrome,Omega.5.6,0.22,0.06,0.1,0.34,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,Omega.1.2,0.01,0.03,-0.04,0.06,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Rheumatoid_arthritis,Omega.1.3,0.07,0.03,0.01,0.14,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Rheumatoid_arthritis,Omega.1.4,0.15,0.04,0.07,0.24,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Rheumatoid_arthritis,Omega.1.5,0.32,0.03,0.26,0.37,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Rheumatoid_arthritis,Omega.1.6,-0.02,0.04,-0.1,0.06,Trial meta weighted,Osteoporosis : Pain,Osteoporosis,Pain
+Rheumatoid_arthritis,Omega.2.3,0.03,0.03,-0.03,0.1,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Rheumatoid_arthritis,Omega.2.4,0.03,0.04,-0.06,0.11,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Rheumatoid_arthritis,Omega.2.5,0.17,0.03,0.1,0.23,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Rheumatoid_arthritis,Omega.2.6,0.05,0.04,-0.03,0.12,Trial meta weighted,Cardiovascular : Osteoporosis,Cardiovascular,Osteoporosis
+Rheumatoid_arthritis,Omega.3.4,0.03,0.05,-0.08,0.14,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
+Rheumatoid_arthritis,Omega.3.5,0.12,0.04,0.04,0.2,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Rheumatoid_arthritis,Omega.3.6,0.07,0.05,-0.03,0.17,Trial meta weighted,Acid-related disease : Osteoporosis,Acid-related disease,Osteoporosis
+Rheumatoid_arthritis,Omega.4.5,0.24,0.05,0.14,0.32,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Rheumatoid_arthritis,Omega.4.6,-0.09,0.07,-0.22,0.04,Trial meta weighted,Asthma : Osteoporosis,Asthma,Osteoporosis
+Rheumatoid_arthritis,Omega.5.6,0.04,0.05,-0.05,0.13,Trial meta weighted,Anxiety : Osteoporosis,Anxiety,Osteoporosis
+Systemic_Lupus_Erythematosus,Omega.1.2,-0,0.04,-0.08,0.08,Trial meta weighted,Cardiovascular : Pain,Cardiovascular,Pain
+Systemic_Lupus_Erythematosus,Omega.1.3,0.31,0.04,0.24,0.38,Trial meta weighted,Arthritis : Pain,Arthritis,Pain
+Systemic_Lupus_Erythematosus,Omega.1.4,0.36,0.04,0.29,0.44,Trial meta weighted,Anxiety : Pain,Anxiety,Pain
+Systemic_Lupus_Erythematosus,Omega.1.5,-0.08,0.04,-0.16,0.01,Trial meta weighted,Acid-related disease : Pain,Acid-related disease,Pain
+Systemic_Lupus_Erythematosus,Omega.1.6,0.39,0.05,0.28,0.48,Trial meta weighted,Asthma : Pain,Asthma,Pain
+Systemic_Lupus_Erythematosus,Omega.2.3,-0.12,0.04,-0.2,-0.04,Trial meta weighted,Arthritis : Cardiovascular,Arthritis,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega.2.4,0.14,0.04,0.05,0.21,Trial meta weighted,Anxiety : Cardiovascular,Anxiety,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega.2.5,0.14,0.04,0.05,0.23,Trial meta weighted,Acid-related disease : Cardiovascular,Acid-related disease,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega.2.6,0.03,0.05,-0.07,0.13,Trial meta weighted,Asthma : Cardiovascular,Asthma,Cardiovascular
+Systemic_Lupus_Erythematosus,Omega.3.4,0.32,0.04,0.25,0.4,Trial meta weighted,Anxiety : Arthritis,Anxiety,Arthritis
+Systemic_Lupus_Erythematosus,Omega.3.5,-0.77,0.03,-0.82,-0.71,Trial meta weighted,Acid-related disease : Arthritis,Acid-related disease,Arthritis
+Systemic_Lupus_Erythematosus,Omega.3.6,0.29,0.05,0.19,0.38,Trial meta weighted,Arthritis : Asthma,Arthritis,Asthma
+Systemic_Lupus_Erythematosus,Omega.4.5,-0.1,0.05,-0.19,-0,Trial meta weighted,Acid-related disease : Anxiety,Acid-related disease,Anxiety
+Systemic_Lupus_Erythematosus,Omega.4.6,0.21,0.05,0.11,0.31,Trial meta weighted,Anxiety : Asthma,Anxiety,Asthma
+Systemic_Lupus_Erythematosus,Omega.5.6,-0.09,0.06,-0.22,0.03,Trial meta weighted,Acid-related disease : Asthma,Acid-related disease,Asthma
