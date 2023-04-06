@@ -248,7 +248,7 @@ for (i in seq_along(trials)) {
   
   # Gather omega estimates into 1 column
   om_draws_long <- om_draws %>%
-    pivot_longer(Omega.1.1:Omega.6.6, "Omega", values_to = "estimate") 
+    pivot_longer(Omega.1.1:Omega.6.6, names_to = "Omega", values_to = "estimate") 
   
   # Add comorbidity combination 
   om_draws_long <- om_draws_long %>%
