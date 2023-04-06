@@ -1,0 +1,32 @@
+company,trial,arm,randdt
+gsk,GSK200109,"UMEC 62.5 + FF/VI 100/25, Placebo + FF/VI 100/25, UMEC 125 + FF/VI 100/25",0
+gsk,GSK200110,"UMEC 62.5 + FF/VI 100/25, Placebo + FF/VI 100/25, UMEC 125 + FF/VI 100/25",0
+gsk,GSK201315,"GLYCO, UMEC 62.5",0
+gsk,GSKAC4116135,"Placebo + FSC 250/50, UMEC 125 + FSC 250/50, UMEC 62.5 + FSC 250/50",0
+gsk,GSKAVA102670_v02,"2mg RSG XR, Placebo, 8mg RSG XR",1453
+gsk,GSKAVA102672_v02,"Placebo, 8mg RSG XR, 2mg RSG XR",1460
+gsk,GSKAVA105640_v02,"2mg RSG XR, 8mg RSG XR, Placebo, Donepezil (10mg)",580
+gsk,GSKB2C112060,"VI 25 OD, Salm 50 BD, Placebo",0
+gsk,GSKDB2113360_v02,"TIO, UMEC/VI 62.5/25, VI 25, UMEC/VI 125/25",0
+gsk,GSKFFA112059,"FF 100 OD, Placebo, FP 250 BD",0
+gsk,GSKFFA115285,"Placebo, FP 100 BD, FF 50 OD",0
+gsk,GSKFFR106080,"Placebo, FF 110mcg QD",0
+gsk,GSKHGS1006_C1056_v05,"10 mg/kg, Placebo, 1 mg/kg",0
+gsk,GSKHGS1006_C1057_v03,"1 mg/kg, Placebo, 10 mg/kg",0
+gsk,GSKMEA115588,"Mepolizumab 75mg i.v., Mepolizumab 100mg SC, Placebo",580
+gsk_new,GSK101468_169,"Ropinirole CR, Placebo",0
+gsk_new,GSK101468_204,"Ropinirole IR, Ropinirole CR-RLS",0
+gsk_new,GSK101468_205,"Placebo, Ropinirole CR-RLS",0
+gsk_new,GSK101468_249,"Ropinirole, Placebo",0
+gsk_new,GSK200165_v02,"Cet pla, FPNS, Cet, FP pla",682
+gsk_new,GSKAR1103420,"Fondaparinux, Enoxaparin",19987
+gsk_new,GSKAR2103413_v02,"Fondaparinux, Fondaparinux Placebo, UFH and Fondaparinux, Fondaparinux and UFH",12058
+gsk_new,GSKAVD100521_v02,"GLP, RSG",668
+gsk_new,GSKCOR103560,"MetrXL+ACE, CarvCR+ACE",107
+gsk_new,GSKCOR103561,"Toprol XL, Coreg CR",568
+gsk_new,GSKFFR101816,"GW685698X 100mcg QD, Placebo",382
+gsk_new,GSKFFR30003,"GW685698X 100mcg QD, Placebo",302
+gsk_new,GSKFFR30006,"FF 110mcg QD, Placebo",352
+gsk_new,GSKFFR30007,"Placebo, FF 110mcg QD",348
+gsk_new,GSKFFU111439,"FF 110mcg QD, Placebo",315
+gsk_new,GSKROR104836,"Double-Blind Ropinirole IR, Double-Blind Placebo",404

@@ -1,0 +1,32 @@
+trial,medhist,conmed,bmi,bp,labs,Comment
+GSK101468_169,,,,,,
+GSK101468_204,,,,,,
+GSK101468_205,,,,,,
+GSK101468_249,,,,,,
+GSK200109,X,,,,,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 21 classes in this trial."
+GSK200110,X,,,,,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 21 classes in this trial."
+GSK200165_v02,,,,,X,
+GSK201315,,,,,X,"tiny 15kb lab file with no data in it, although has all the names"
+GSKAC4116135,X,,,,X,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes). No lab results although was collected.
+GSKAR1103420,X,X,,,,"MI trial. Concomitant medication data limited to cardiovascular and diabetes drugs. Medical hsitory was not MedDRA (15 classes which were mostly cardiometabolic, for one remaining class [Other relevant ongoing medical conditions prior to randomization] all of the other terms were redacted"
+GSKAR2103413_v02,X,X,,,,
+GSKAVA102670_v02,,,,,,
+GSKAVA102672_v02,,,,,,
+GSKAVA105640_v02,,,,,,
+GSKAVD100521_v02,,,X,X,,
+GSKB2C112060,X,,,,X,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 22 classes in this trial. No lab results although was collected"
+GSKCOR103560,,,,,,
+GSKCOR103561,,,,,,
+GSKDB2113360_v02,X,,,,,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 7 classes in this trial."
+GSKFFA112059,X,,,X,,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 8 classes in this trial. No blood pressure measured on reviewing protocol"
+GSKFFA115285,X,,,,X,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 7 classes in this trial. No lab results although was collected"
+GSKFFR101816,X,,X,X,X,"Lab data redacted, although there was lab testing in this trial. No bp or height or weight data provided. MedDRA class provided, No medical history terms. No smoking data, but tobacco use within past year is exclusion criterion."
+GSKFFR106080,X,,,,,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30003,X,,,,,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30006,X,,,,,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFR30007,X,,,,,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKFFU111439,X,,,,,MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes)
+GSKHGS1006_C1056_v05,,,,,,
+GSKHGS1006_C1057_v03,,,,,,
+GSKMEA115588,X,,,,,"MedDRA systems but non-MedDRA terms (several hundred terms organised into 23 system-level classes), 10 classes in this trial."
+GSKROR104836,X,,,,,
