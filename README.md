@@ -59,10 +59,10 @@ folder. The final cleaned model outputs are also provided:
 
 Please note: The senior authorship of the publication that this repository accompanies was randomly assigned using the following code:
 
-# Code to randomly assign senior authorship
+Code to randomly assign senior authorship
 
 senior_auths <- c('Fergus','David')
 set.seed(18591208)
 senior_auths[rbinom(1, 1, 0.5)+1]
 
-# Result = David (28/02/2023)
+Result = David (28/02/2023)
