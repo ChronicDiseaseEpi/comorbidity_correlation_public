@@ -255,7 +255,7 @@ fig_3 <- ggplot(diff_sum %>%
   geom_point(position = position_dodge(0.5)) +
   geom_linerange(position = position_dodge(0.5)) +
   geom_vline(xintercept=0.0, colour = "black", linetype = "dashed") + 
-  xlab("Difference in correlation (Community - Weighted trial)") +
+  xlab("Difference in correlation (Community - Trial)") +
   ylab(NULL) + 
   labs(colour = NULL) +
   theme_classic() +
@@ -263,7 +263,8 @@ fig_3 <- ggplot(diff_sum %>%
   theme(strip.background = element_rect(color=" light grey", fill=" light grey"),
         strip.text.x = element_text(size = 8, face = "bold")) + 
   scale_colour_manual(values = c("No difference" = "black", 
-                                 "Different to zero" = "orange"))
+                                 "Different to zero" = "orange")) + 
+  guides(colour = "none")
 
 tiff("Outputs/Figures/Figure_3-cmnty-trial_difference_same_top6.tif", width = 4100, height = 2500, res = 300, compression = "lzw")
 print(fig_3)
@@ -280,7 +281,7 @@ sup_fig_2 <- ggplot(diff_sum %>%
   geom_point(position = position_dodge(0.5)) +
   geom_linerange(position = position_dodge(0.5)) +
   geom_vline(xintercept=0.0, colour = "black", linetype = "dashed") + 
-  xlab("Difference in correlation (Community - Weighted trial)") +
+  xlab("Difference in correlation (Community - Trial)") +
   ylab(NULL) + 
   labs(colour = NULL) +
   theme_classic() +
@@ -288,7 +289,8 @@ sup_fig_2 <- ggplot(diff_sum %>%
   theme(strip.background = element_rect(color=" light grey", fill=" light grey"),
         strip.text.x = element_text(size = 7, face = "bold"))+ 
   scale_colour_manual(values = c("No difference" = "black", 
-                                 "Different to zero" = "orange"))
+                                 "Different to zero" = "orange")) + 
+  guides(colour = "none")
 
 tiff("Outputs/Figures/Sup_Figure_S2-cmnty-trial_difference_nomatch.tif", width = 5050, height = 2750, res = 300, compression = "lzw")
 print(sup_fig_2)
