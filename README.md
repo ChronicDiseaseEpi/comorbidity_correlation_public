@@ -14,7 +14,7 @@ Model outputs:
 
 # To recreate the analysis run the scripts in order
 
-The "Data" folders contains the data needed to simulate the community pseudo IPD (all exported from SAIL):
+The "Data" folder contains the data needed to simulate the community pseudo IPD (all exported from SAIL):
 
 - "SAIL_aggregate_data.html"         - Counts of number of individuals with each comorbidity combination   
 - "SAIL_no_comorbidities_strata.csv" - Counts of number of individuals with no comorbidities
