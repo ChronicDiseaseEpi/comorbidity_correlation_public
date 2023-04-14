@@ -29,15 +29,17 @@ The 11 models ran on the vm are the model scripts 02-12 (non age restricted) and
 
 The models ran on SAIL have not been provided. However scripts 33 and 34 simulate the MCMC draws from the models that were ran on SAIL.
 
-Trial analysis was done across 3 locations (See supporting folder):
+To protect patient confidentiality we are not able to provide the trial data
+which the models were fitted to. However, we do provide all the code we used to 
+extract the trial data, identify comorbidities and run the MVP model in the "Supporting"
+folder. 
+
+Trial analysis was done across 3 locations:
 - Vivli safe haven 
 - GSK external
 - Yoda safe haven 
 
-To protect patient confidentiality we are not able to provide the trial data
-which the models were fitted to. However, we do provide all the code we used to 
-extract the trial data, identify comorbidities and run the MVP model in the "Supporting"
-folder. The final cleaned trial model outputs are: 
+The final cleaned trial model outputs are: 
 
   - GSK_omega_draws
   - GSK_trial_omega_summaries
@@ -45,8 +47,6 @@ folder. The final cleaned trial model outputs are:
   - yoda_omega_summary_final
   - vivli_omega_draws
   - vivli_omega_summary_final
-
-
 
 Please note: The senior authorship of the publication that this repository accompanies was randomly assigned using the following code:
 
