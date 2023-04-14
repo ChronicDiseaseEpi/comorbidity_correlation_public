@@ -5,14 +5,8 @@ Two folders:
 
 "Prepare_trial_data_and_analyse""
 
-This folder contains the code and data used to extract trial data from Yoda, Vivli 
-and GSK and run the MVP model on each trial and then combine the model outputs for 
-each trial into a single dataframe for each location in which the trials were 
-extracted and analysed.
-
-The key outputs from these folders are also held in the Data folder in the 1st 
-level of this repo as they are combined into a single dataframe of all trials, 
-to be comapred with the community.
+Contains the code used to extract trial data from Yoda, Vivli 
+and GSK and run the MVP model on each trial.
 
 The key outputs from the three folders (GSK, Vivli, and Yoda) are listed below, 
 they contain the estimated comorbidity correlations (summaries and MCMC draws) 
@@ -35,7 +29,7 @@ as such many of the scripts cannot be run.
 
 This folder contains the script/data used to compare real vs simulated pseudo 
 community IPD (from aggregate data). It highlights the minimal difference in
-analysing simulated data compared with analysing the communtiy directly.
+analysing simulated data compared with analysing the communtiy data directly.
 
 
 
