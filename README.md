@@ -8,9 +8,8 @@ We do not directly provide the model fits for the trials or community (too big) 
 provide data frames of the cleaned final model outputs. 
 
 Model outputs:
-- Omega summaries: Correlation estimates summarised across all MCMC draws (presented in paper)
-- Omega draws: MCMC draws from each model with correlation estimate from each MCMC iteration
-
+- Omega draws: estimated correlation at each MCMC iteration
+- Omega summaries: correlation estimates summarised across all MCMC iterations (presented in paper)
 
 # To recreate the analysis run the scripts in order
 
