@@ -1,4 +1,4 @@
-The file contains model outputs from Bayesian multivariate probit models fit using the Rstan package.
+This folder contains model outputs from Bayesian multivariate probit models fit using the Rstan package.
 
 The models were fitted to examine correlations between different comorbidities across different "index conditions". We fitted models for 13 "index conditions". The model outcomes were the 6 commonest comorbidites for that index condition (these differed by condition). The model covariates were age and sex (the coefficients for these are not included in the current output, but we may need to ask for these in future if asked to provide these by reviewers). We fitted the models twice. Once using real IPD and once using pseudo-IPD created by aggregating the data then taking a random sample from the aggregated data.
 
