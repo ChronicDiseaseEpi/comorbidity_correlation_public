@@ -1,8 +1,3 @@
-Read me - Supporting folder
-
-
-Two folders:
-
 "Prepare_trial_data_and_analyse""
 
 Contains the code used to extract trial data from Yoda, Vivli 
@@ -19,7 +14,6 @@ from each trial model (1 per trial):
   - vivli_omega_draws
   - vivli_omega_summary_final
   
-
 Please note we do not provide the trial data to protect participant confidentialty,
 as such many of the scripts cannot be run. 
 
@@ -27,7 +21,7 @@ as such many of the scripts cannot be run.
 
 "Real_vs_pseudo_IPD_comparison""
 
-This folder contains the script/data used to compare real vs simulated pseudo 
+Contains the script/data used to compare real vs simulated pseudo 
 community IPD (from aggregate data). It highlights the minimal difference in
 analysing simulated data compared with analysing the communtiy data directly.
 
