@@ -1,18 +1,15 @@
-The folders within the "Prepare_trial_data_and_analyse" folder each contain the scripts used
+The folders within "Prepare_trial_data_and_analyse" contain the scripts used
 to extract trials from the trial repository, identify comorbidities and analyse
 the trial data.
 
 Due to patient confidentialty IPD cannot be exported, hence, these scripts cannot
-actually be run in earnest. We have provided them for transperency, and to illustrate 
+actually be run in earnest. They are provided for transperency, and to illustrate 
 how we extracted, identified and analysed comorbidities in trials. 
 
 We have included all files used and created that do not contain sensitive individual 
-level patient data. The processed_data folder is completely missing as this the folder
-that contained the cleaned trial data.
+level patient data.
 
-Therefore the majority of scripts cannot be run as the data is missing.
-
-The key outputs from the three folders (GSK, Vivli, and Yoda) are listed below, 
+The key outputs from the GSK, Vivli, and Yoda folders are listed below, 
 they contain the estimated comorbidity correlations (summaries and MCMC draws) 
 from each trial model (1 per trial):
 
