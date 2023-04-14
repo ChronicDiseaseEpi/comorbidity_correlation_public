@@ -1,5 +1,5 @@
 The folders within "Prepare_trial_data_and_analyse" contain the scripts used
-to extract trials from the trial repository, identify comorbidities and analyse
+to extract trials from each trial repository, identify comorbidities and analyse
 the trial data.
 
 Due to patient confidentialty IPD cannot be exported, hence, these scripts cannot
