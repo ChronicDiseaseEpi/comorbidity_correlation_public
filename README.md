@@ -1,11 +1,8 @@
 # comorbidity_correlation_public
-Code, aggregate level data and outputs for comorbidity correlation.
+Code, aggregate level data and outputs for "Correlations between comorbidities in trials and the community: an individual-level participant data meta-analysis"
 
 If you have any issues with the code or dependent files please raise an issue and 
-we will do our best to rectify the problem as soon as we can. 
-
-The scripts folder contains all the code to simulate community IPD, age restrict the simulated IPD,
-run models, join all the trial models and compare with the community.
+we will do our best to rectify the problem as soon as possible. 
 
 We do not directly provide the model fits for the trials or community (too big) but instead
 provide data frames of the cleaned final model outputs. 
@@ -17,26 +14,20 @@ Model outputs:
 
 # To recreate the analysis run the scripts in order
 
-The data folders contains the data needed to simulate the community pseudo IPD (all exported from SAIL):
+The "Data" folders contains the data needed to simulate the community pseudo IPD (all exported from SAIL):
 
-- "SAIL_aggregate_data.html" - counts of number of individuals with each comorbidity combination   
-- "SAIL_no_comorbidities_strata.csv" - counts of number of individuals with no comorbidities
-- "dementia_no_schz_rand_sd.csv" - Replacement aggregate level data for dementia
-- "community_aggregate_data.rds" - List of aggregate dataframes
-
-Simulated community IPD (non and age restricted) from scripts 01 and 14 will save to the "Data" folder
-
-When running the model scripts non restricted model fits will automatically save to Outputs/model_fits
-and age restricted model fits will automatically save to Outputs/age_restricted_model_fits
+- "SAIL_aggregate_data.html"         - Counts of number of individuals with each comorbidity combination   
+- "SAIL_no_comorbidities_strata.csv" - Counts of number of individuals with no comorbidities
+- "dementia_no_schz_rand_sd.csv"     - Replacement aggregate level data for dementia
+- "community_aggregate_data.rds"     - List of aggregate dataframes
 
 The community analysis was split into 2 parts: 
-- 11  models ran (11 index conditions, 1 per index condition) on an external virtual machine (vm)
-- 5 models ran in SAIL ( 5 index conditions) 
+- 11 models ran (1 model per index condition) on an external virtual machine (vm)
+- 5 models ran in SAIL
 
-The 11 models ran on the vm are the model scripts 02-12 and 15-25. 
-The models ran on SAIL have not been provided. We have however provided
-code to simulate the MCMC draws from the models that were ran on SAIL see scripts 33 and 34.
+The 11 models ran on the vm are the model scripts 02-12 (non age restricted) and 15-25 (age restricted). 
 
+The models ran on SAIL have not been provided. However scripts 33 and 34 simulate the MCMC draws from the models that were ran on SAIL.
 
 Trial analysis was done across 3 locations (See supporting folder):
 - Vivli safe haven 
@@ -46,7 +37,7 @@ Trial analysis was done across 3 locations (See supporting folder):
 To protect patient confidentiality we are not able to provide the trial data
 which the models were fitted to. However, we do provide all the code we used to 
 extract the trial data, identify comorbidities and run the MVP model in the "Supporting"
-folder. The final cleaned model outputs are also provided: 
+folder. The final cleaned trial model outputs are: 
 
   - GSK_omega_draws
   - GSK_trial_omega_summaries
